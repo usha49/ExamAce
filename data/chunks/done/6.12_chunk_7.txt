@@ -1,0 +1,15 @@
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 2 of 30 
+ 
+ 
+Formal Definition  
+A deterministic finite automaton is a quintuple M = (K,∑, δ, s, F) where 
+K is a finite set of states, 
+∑ is an alphabet, 
+s є K is the initial state, 
+F   K is the set of final states, and 
+δ, the transition function, is a function from K x ∑  K.

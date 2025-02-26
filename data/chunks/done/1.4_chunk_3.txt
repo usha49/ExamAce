@@ -1,0 +1,8 @@
+However, beyond a certain reverse 
+voltage, known as the breakdown voltage, the diode conducts heavily, which may 
+damage it unless it is designed for such conditions (e.g., Zener diodes).
+Semiconductor diodes are fundamental in power conversion, signal demodulation, 
+and protection circuits.
+BJT Configuration and biasing
+The bipolar junction transistor (BJT) is a three-layer semiconductor device 
+consisting of two p-n junctions.

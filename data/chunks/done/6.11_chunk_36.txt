@@ -1,0 +1,7 @@
+i.e., If 
+an attempt is made to pair off the elements of A (the “pigeons”) with elements of B (the 
+“pigeonholes”), sooner or later we will have to put more than one pigeon in a pigeonhole. 
+The pigeonhole principle states that if n pigeons are put into m pigeonholes with n>m, then at 
+least one pigeonhole must contain more than one pigeon. 
+Thus if S1 and S2 are two non empty finite sets and |S1| > |S2|, then there is no one-to-one 
+function from S1 to S2.

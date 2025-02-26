@@ -1,0 +1,7 @@
+File Transfer: FTP, PuTTY, WinSCP 
+FTP (File Transfer Protocol) helps a user to transfer text-based or binary files across the network. A 
+user can use this protocol in either GUI-based software like FileZilla or CuteFTP and the same user can 
+use FTP in Command Line mode. 
+PuTTY is a free and open-source terminal emulator, serial console, and network file transfer 
+application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket 
+connection.

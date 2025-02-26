@@ -1,0 +1,7 @@
+As a result, Class C amplifiers are limited to RF and high-frequency 
+applications where signal fidelity is less critical, and the focus is on power 
+efficiency.
+Class A Output Stage
+The Class A output stage operates with the active device (usually a transistor) 
+biased in such a way that it remains in the active region throughout the entire 
+input signal cycle. This ensures continuous conduction and minimizes distortion.

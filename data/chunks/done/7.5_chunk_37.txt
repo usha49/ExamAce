@@ -1,0 +1,5 @@
+They use a machine-code instruction that causes the processor to change mode.
+An example would be from supervisor mode to protected mode. This is where the
+operating system performs actions like accessing hardware devices or the memory
+management unit. Generally, the operating system provides a library that sits between the
+operating system and normal programs.

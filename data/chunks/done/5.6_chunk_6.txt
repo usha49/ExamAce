@@ -1,0 +1,5 @@
+Firewalls and intrusion detection systems (IDS) help detect and block 
+spoofed traffic. Denial-of-service (DoS) attacks overload network resources by flooding them with 
+excessive traffic, making services unavailable to legitimate users. Distributed denial-of-service (DDoS) 
+attacks use multiple compromised devices to launch large-scale attacks. Anti-DDoS solutions and traffic 
+filtering techniques help mitigate such attacks.

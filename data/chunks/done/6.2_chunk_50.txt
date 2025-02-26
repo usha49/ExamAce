@@ -1,0 +1,5 @@
+if  δ (q, e, b)  is not  empty, then δ (q, c, b) must be  empty for every  c in ∑; 
+The first of these conditions simply requires that for any given input symbol and any stack 
+top ,at most one move can be made. The second condition is that when a e-transitions is 
+possible for some configurations no input consuming alternative is available.   
+Condition 1 prevents a choice of move for any (q, a, b) or (q, e, b).

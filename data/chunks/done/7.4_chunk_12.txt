@@ -1,0 +1,4 @@
+If a lock cannot be
+granted, the requesting transaction is made to wait till all incompatible locks held by other transactions have been
+released. The lock is then granted. A locking protocol is a set of rules followed by all transactions while requesting and
+releasing locks. Locking protocols restrict the set of possible schedules.

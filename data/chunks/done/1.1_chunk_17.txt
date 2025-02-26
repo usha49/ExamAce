@@ -1,0 +1,5 @@
+Passive circuits, by contrast, consist solely of elements like resistors, 
+capacitors, and inductors that consume energy but do not generate it. These 
+distinctions are foundational in understanding how circuits operate and are 
+applied in everything from simple filters to complex electronic devices.
+.

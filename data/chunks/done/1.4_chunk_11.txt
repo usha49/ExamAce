@@ -1,0 +1,8 @@
+In power applications, 
+MOSFETs are used in DC-DC converters, inverters, and motor control circuits due 
+to their high efficiency and fast switching capabilities. In analog circuits, 
+they serve as amplifiers and variable resistors, while in digital circuits, 
+MOSFETs act as the building blocks of logic gates and memory cells.
+Application of CMOS
+CMOS technology is integral to modern electronics, finding applications in both 
+digital and analog domains.

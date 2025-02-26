@@ -1,0 +1,5 @@
+RIP uses the hop count to determine the best path 
+between the router/location. Each router contains the RIP table, and the table is updated every 30 
+seconds. Each router broadcasts its entire RIP table to its neighbor. 
+OSPF (Open Shortest Path First) is the routing algorithm that uses the link state routing algorithm. It is 
+the shortest path algorithm to calculate the best path from the source to the destination.

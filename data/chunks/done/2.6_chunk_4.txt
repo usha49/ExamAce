@@ -1,0 +1,5 @@
+Software interrupts are triggered by program instructions and are used for system calls and debugging. 
+The 8085 microprocessor provides eight software interrupts, known as RST instructions (RST 0 to RST 7), 
+which allow the execution of predefined routines stored in memory. 
+When an interrupt occurs, the microprocessor follows a specific sequence to handle it. First, the 
+processor completes the execution of the current instruction before acknowledging the interrupt.

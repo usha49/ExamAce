@@ -1,0 +1,11 @@
+Simulators mimic the system’s behavior, while emulators replicate 
+hardware functionality.
+Cross-Compilers: Compile code on a host system for execution on the embedded 
+target.
+Hardware Debuggers: Tools like JTAG or SWD interfaces enable real-time debugging 
+of the hardware.
+A well-designed development environment improves productivity and reduces errors 
+during system development.
+Application-Specific Instruction-Set Processors
+ASIPs are tailored processors designed for a specific application domain, 
+offering a balance between flexibility and performance.

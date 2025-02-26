@@ -1,0 +1,6 @@
+In Fig 
+shown, every element of S has exactly one arrow arising from it. This kind of relation is called a 
+“function”. 
+ 
+A function is otherwise known as “Mapping”. A function is said to map an element in its domain 
+to an element in its range.

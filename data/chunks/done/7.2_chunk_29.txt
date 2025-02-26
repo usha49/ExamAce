@@ -1,0 +1,12 @@
+After, we have, by recursion
+placed all the successors of a vertex into the topological order, then place the vertex itself in the
+order (before any of its successors).Determining the Depth First Topological ordering:Fill the
+information from the graph into the table( Vertices, Successors and Successor count),Push all
+the vertices into stack and visit the vertex that is on the top.Decrement the Successor count
+value by 1 where ever the visited vertex appears in the Adjacent Successor vertices
+column.Repeat until all the vertices has been visited.
+
+Soring
+6
+Searching is a process of finding an element within the list of elements stored in any order.
+Searching is divided into two categories.

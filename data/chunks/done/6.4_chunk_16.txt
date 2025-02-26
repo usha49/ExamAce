@@ -1,0 +1,9 @@
+For example, word processing 
+spreadsheet and desktop publishing programs are the typical examples where user interface 
+techniques are implemented
+2. Plotting
+plotting 2D and 3D graphs of mathematical physical and economic functions use computer 
+graphics extensively The histograms, bar and pie charts, the task scheduling charts, are the 
+most commonly used plotting . These are all used to present meaningfully and concisely the 
+trends and patterns of complex data
+3.

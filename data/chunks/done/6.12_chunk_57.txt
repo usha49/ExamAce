@@ -1,0 +1,15 @@
+This construction ensures that a string w will be accepted if and only if w reaches an accepting 
+state in both input DFAs. 
+Steps Intersection 
+Make a state (A, B) as final if both 
+(i) A is a final state in L1 and 
+(ii) B is a final state in L2 
+ 
+ 
+ 
+ 
+Set Difference 
+Proof:  
+Let A and B be DFA’s whose languages are L and M, respectively. 
+Construct C, the product automaton of A and B. 
+Make the final states of C be the pairs where A-state is final but B-state is not.

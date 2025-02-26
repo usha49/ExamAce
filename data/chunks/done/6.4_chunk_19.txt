@@ -1,0 +1,7 @@
+Computer aided drafting and design
+one of the major uses of computer graphics is to design components and systems of 
+mechanical , electrical , electrochemical and electronic devices , including structures such as 
+buildings automobile bodies, airplane and ship hulls, very large scale integrated (VLSI) chips 
+optical systems and telephone and computer networks . These designs are more frequently 
+used to test structural , electrical and thermal properties of the systems
+5.

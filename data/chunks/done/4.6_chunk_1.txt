@@ -1,0 +1,4 @@
+4.6 Hardware description language and IC technology:
+VHDL Overview:
+VHDL (VHSIC Hardware Description Language) is a high-level language used to 
+model and simulate digital systems. Developed in the 1980s as part of the U.S.

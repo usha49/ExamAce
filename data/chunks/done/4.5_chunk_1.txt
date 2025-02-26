@@ -1,0 +1,7 @@
+4.5 Real-Time operating and control system:
+Operating System Basics
+An operating system (OS) is a system software that acts as an intermediary 
+between hardware and user applications. It manages hardware resources, provides 
+a user interface, and facilitates the execution of application programs. Key 
+functions of an OS include process management, memory management, file system 
+management, I/O device management, and ensuring system security and protection.

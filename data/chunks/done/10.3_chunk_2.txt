@@ -1,0 +1,9 @@
+Projects can be categorized as public or private, infrastructure or technology-based,
+and short-term or long-term.
+The project life cycle consists of multiple phases, including initiation, where project feasibility
+and objectives are defined; planning, where detailed scheduling, budgeting, and resource
+allocation take place; execution, where actual work is carried out and project deliverables are
+produced; monitoring and control, where progress is tracked and necessary adjustments are
+made; and closure, where final evaluations and documentation are completed.
+Project scheduling involves organizing tasks and activities in a structured manner to ensure
+efficient progress.

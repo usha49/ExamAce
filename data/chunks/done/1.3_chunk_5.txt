@@ -1,0 +1,7 @@
+These waveforms are fundamental to understanding AC systems, as they 
+define how voltage and current behave over time.
+Average, Peak and RMS values
+In AC systems, the average value, peak value, and root mean square (RMS) value 
+are essential metrics for analyzing and describing alternating voltages and 
+currents. The peak value is the maximum magnitude of the waveform, representing 
+the highest voltage or current attained during a cycle.

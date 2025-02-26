@@ -1,0 +1,7 @@
+NFA (K,∑, δ, s, F) is deterministic if and only if there are no 
+transition of the form (q, e, p) in δ  and for each q ∈ K and a ∈ ∑ there is a  exactly one p ∈ K 
+such that (q, a, p ) ∈ ∆ 
+It is there fore evident that the class of languages accepted by DFA is a subset of the class of 
+languages accepted by NFA. Rather surprisingly these classes are in fact equal. 
+Despite the power and generality enjoyed by NFA, they are no more powerful than the NFA in 
+terms of the language they accept.

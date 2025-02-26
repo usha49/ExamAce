@@ -1,0 +1,8 @@
+The process
+of rearranging the items in a list according to some linear order is termed as sorting.Types of
+sorting:Internal sorting : Records to be sorted are in main memory.External sorting: Records
+to be sorted, or some of them are kept in auxiliary storage(disk/tape).Stable Sort:It is possible
+for two records in a list to have the same key.A sorting algorithm is stable if for all records i and
+j such that k[i] equals k[j], if r[i] preceded r[j] in the original list, r[i] precedes r[j] in the sorted
+list.But the stable sort keeps track of original pattern unless specified.Sorting
+algorithm:Exchange sort:Comparison based.

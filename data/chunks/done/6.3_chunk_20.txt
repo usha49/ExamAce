@@ -1,0 +1,10 @@
+The Turing 
+machine may 
+ Halt and accept the input 
+ Halt and reject the input 
+ Never halt 
+Definition: A Turing machine decides a language L if for any string the following is true: 
+ If the string is in L, the machine accepts it. 
+ If the string is not in L, the machine rejects it. 
+Definition: A language L is called recursive, if there is a Turing machine that decides it, 
+i.e.

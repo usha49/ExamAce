@@ -1,0 +1,5 @@
+2.2 Combinational and Arithmetic Circuits
+Combinational circuits generate outputs based solely on current inputs without memory
+elements. Multiplexers, demultiplexers, decoders, and encoders are widely used in digital
+systems for data selection and encoding functions. A multiplexer, often called a data selector,
+takes multiple input signals and routes only one to the output based on control signals.

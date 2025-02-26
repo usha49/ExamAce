@@ -1,0 +1,6 @@
+They feature high open-loop gain, high input 
+impedance, and low output impedance, making them ideal for signal amplification 
+and processing. Op-amps can be configured in various ways, such as inverting and 
+non-inverting amplifiers, integrators, differentiators, and voltage followers. 
+They are integral to analog computing, active filters, oscillators, and 
+instrumentation.

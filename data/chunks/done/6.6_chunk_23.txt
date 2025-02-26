@@ -1,0 +1,10 @@
+Often it is necessary to reflect an object thru a plane other than one of these.Which is obtained  with the help 
+of a series of transformations (composition). 
+  
+i. 
+translate a known point P that lies in the reflection plane to the origin of the coordinate system 
+ii. 
+rotate the normal vector to the reflection plane at the origin until it is coincident with the z axis  
+                   this makes the reflection plane the z = 0 coordinate plane 
+ 
+iii.

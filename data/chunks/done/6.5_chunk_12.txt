@@ -1,0 +1,15 @@
+y 
+in both directions,
+ x’ = x + shx . y 
+ y’ = y + shy . x
+  	
+	
+   x’     =       1      shx      x
+            		
+   y’              shy    1    .    y 
+
+Homogenous Coordinates
+The matrix representations for translation, scaling and rotation are respectively:
+P’ =  T  +  P 
+P’ =  S   .   P      
+P’ =  R  .

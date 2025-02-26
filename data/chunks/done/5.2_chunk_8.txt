@@ -1,0 +1,5 @@
+The 
+Character Count method uses a field in the header to specify the number of characters in the frame but 
+can fail if the count is distorted in transit. Bit stuffing allows frames to contain an arbitrary number of 
+bits and character sizes. Each frame begins and ends with a special bit pattern called a flag byte. When 
+five consecutive 1s are encountered in the data, a '0' bit is stuffed into the outgoing bit stream.

@@ -1,0 +1,2 @@
+The OS allocates resources like CPU time, memory, 
+and I/O devices to processes.

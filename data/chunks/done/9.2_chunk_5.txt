@@ -1,0 +1,7 @@
+Local Maxima: a local maximum as opposed to
+global maximum.
+b. Plateaus: An area of the search space where
+evaluation function is flat, thus requiring random
+walk. Search might be unable to find its way of
+plateau.
+c.

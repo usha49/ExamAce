@@ -1,0 +1,7 @@
+This method is 
+commonly used in RS-232 serial communication and UART-based systems. 
+Serial Interface Standards 
+Several standardized protocols define the specifications for serial communication. RS-232 
+(Recommended Standard 232) is a widely used serial communication standard for connecting 
+computers and peripherals. It operates at baud rates ranging from 110 to 115,200 bps and supports 
+asynchronous communication.

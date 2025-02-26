@@ -1,0 +1,301 @@
+Anil Verma, IOE Pulchowk 
+ 
+Matrix Representation of 3D Transformations 
+ 
+2D transformations can be represented by 3 x 3 matrices using homogenous coordinates, so  
+ 
+3D transformations can be represented by 4 x 4 matrices, providing  we use homogeneous coordinate 
+representations of points in 2 space as well. 
+ 
+Thus instead of representing a point as (x , y ,z) , we represent if as (x , y , z, H), where two these 
+quadruples represent the same point it one is a non zero multiple of the other the 
+quadruple (0,0,0,0) is not allowed. 
+ 
+A standard representation of a point (x , y ,z ,H) with H  not zero is given by  
+                  (x/H ,  y/H,   z/H,  1). 
+ 
+Transforming the point to this form is called homogenizing. 
+ 
+Translation: 
+A point is translated from position P=(x,y,z) to position P’ = (x’,y’,z’) with the matrix operation 
+ 
+      x’              1    0    0    tx             x 
+      y’      =     0    1    0    ty      .      y 
+      z’              0    0    1    tz             z 
+      1               0    0    0    1              1 
+ 
+or     P’ = T.P 
+ 
+Parameters   tx   , ty    ,tz    specify translation distances for the coordinate directions x ,y and z. 
+ 
+This matrix representation is equivalent to three equations: 
+                          x’ =   x  + tx                  y’ =   y  + ty                       z’ =   z  + tz 
+                                                  
+Scaling: 
+Scaling changes size of an object and repositions the object relative to the coordinate origin. 
+ 
+If transformation parameters are not all equal then figure gets distorted 
+ 
+So we can preserve the original shape of an object with uniform scaling(sx= sy= sz) 
+ 
+Matrix expression for scaling transformation of a position P = (x,y,z) relative to the coordinate origin can be 
+written as : 
+  
+      x’              sx     0      0     0              x 
+      y’              0      sy     0     0       .      y 
+      z’      =      0      0      sz     0             z 
+      1               0      0      0      1             1 
+ 
+or  P’ =  S . P 
+ 
+
+Anil Verma, IOE Pulchowk 
+ 
+Scaling with respect to a selected fixed point  
+(xf , yf , zf) can be represented with: 
+ 
+    i.   Translate fixed point to the origin 
+    ii.  Scale object relative to the coordinate origin 
+    iii. Translate fixed point back to its original position 
+  
+    or     T(xf , yf , zf). S(sx , sy , sz).T(-xf , -yf , -zf) 
+ 
+ 
+ 
+ 
+ 
+Reflection: 
+Reflections with respect to a plane are equivalent to 180* rotations in four dimensional space. 
+ 
+                  1     0      0     0               
+    RFz =    0      1     0     0              
+                  0      0    -1     0               
+                  0      0     0     1          
+ 
+This transformation changes the sign of  the z coordinates, leaving the x and y coordinate  
+values unchanged.  
+ 
+Transformation matrices for inverting x and y values are defined similarly, as reflections relative to the yz 
+plane and xz plane. 
+ 
+Shearing: 
+Shearing transformations are used to modify object shapes. 
+E.g. shears relative to the z axis: 
+    
+ 
+                  1     0     a     0               
+    SHz =    0     1     b    0              
+                  0     0     1     0               
+                  0     0     0     1          
+ 
+ 
+where parameters a and b assume any real values. 
+ 
+It alters the x and y coordinate values by an amount that is proportional to the z value while leaving the z 
+coordinate unchanged. 
+ 
+
+Anil Verma, IOE Pulchowk 
+ 
+Shearing matrices for x and y axis can be obtained similarly. 
+Rotation: 
+Designate the axis of rotation about which the object is to be rotated and the amount  of angular rotation . 
+ 
+ 
+ 
+ 
+Axes that are parallel to the coordinate axes are easy to handle. 
+ 
+Coordinate axes Rotations: 
+ 2D z-axis rotation equations are easily extended to 3D: 
+    x’ =   xcosθ  -  ysinθ                 y’ =   xsinθ  +  ycosθ                      z’ =   z  …………(i) 
+ 
+3D z-axis rotation equations are expressed in homogenous coordinate form as 
+ 
+      x’          cosθ    -sinθ      0      0              x 
+      y’    =    sinθ     cosθ      0      0      .       y 
+      z’            0          0          1      0              z 
+      1             0          0          0      1              1 
+ 
+or, 
+                 P’  =  Rz (θ)  .  P 
+ 
+Cyclic permutation of the coordinate parameters x , y and z are used to get transformation equations for 
+rotations about the other two coordinates                       
+                                                x  y  z   
+ 
+so, 
+substituting permutations in (i) for an x axis rotation we get, 
+    y’ =   ycosθ  -  zsinθ                 z’ =   ysinθ  +  zcosθ                      x’ =  x  
+  
+3D x-axis rotation equations in homogenous coordinate form as 
+ 
+      x’          1     0         0         0 
+x 
+      y’    =   0   cosθ   -sinθ     0     .     y 
+      z’          0    sinθ    cosθ    0  
+z 
+      1           0      0         0        1 
+1 
+ 
+or, 
+                 P’  =  Rx (θ)  .  P 
+ 
+substituting permutations in (i) for a y axis rotation we get, 
+    z’ =   zcosθ  -  xsinθ                 x’ =   zsinθ  +  xcosθ                      y’ =  y  
+3D y-axis rotation equations are expressed in homogenous coordinate form as 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      x’          cosθ       0     sinθ        0              x 
+
+Anil Verma, IOE Pulchowk 
+ 
+      y’    =       0          1        0         0      .       y 
+      z’           -sinθ      0     cosθ       0              z 
+      1             0           0        0          1              1 
+ 
+or,           P’  =  Ry (θ)  .  P 
+ 
+ 
+Rotation about an axis parallel to one of the coordinate axes : 
+Steps: 
+i.   Translate object so that rotation axis coincides with the parallel coordinate axis. 
+ii.  Perform specified rotation about that axis 
+iii. Translate object back to it’s original position. 
+  ie.       P’ = T-1 .  Rx(θ)  . T  . P 
+ 
+ 
+ 
+ 
+ 
+Rotation about an arbitrary  axis  : 
+An arbitrary axis in space passing thru point (x0, y0, z0) with direction cosines (cx, cy, cz) 
+Steps required for rotation about this axis by some angle 0 are: 
+  i.  Translate so that point(x0, y0, z0) is at the origin of the coordinate system 
+  ii. Perform  rotations to make axis of rotation coincident with the z axis 
+  iii.Rotate about the z axis by the angle θ. 
+  iv.Perform the inverse of the combined rotation transformation  
+  v. Perform the inverse of the translation. 
+ 
+ 
+ 
+
+Anil Verma, IOE Pulchowk 
+ 
+Making an arbitrary axis passing thru origin coincident with one of the coordinate axes requires two 
+successive rotations about the other two coordinate axes. 
+ 
+To make arbitrary rotation axis  coincident with 
+the rotation angle, about the x axis used to place the  
+arbitrary axis in the xz plane, first project the unit  
+vector along the axis onto the yz plane. 
+ 
+y and z components of the projected vector are 
+cy and  cz (the direction cosines), so from fig. 
+                 
+                 d =    cy
+2
+  + cz
+2  
+so, 
+               cos   =  cz/d           sin       =       cy/d                               
+so, transformation matrix for rotation about x axis is: 
+ 
+                 1     0         0       0                         1     0          0        0                            
+Rx(  )  =   0   cos    -sin       0                         0     cz/d   -cy/d     0                           
+                 0    sin     cos      0                         0     cy/d     cz/d    0                           
+                 0      0       0        1                         0     0           0       1 
+ 
+ 
+ 
+After rotation about the x axis into  
+the xz plane, the z component of the  
+unit vector is d, and x component is 
+cx (the direction cosines) 
+ 
+Rotation angle     about the y axis  
+required to make the arbitrary axis  
+coincident with the z axis is  
+   cos     =    d                   sin        = cx 
+ 
+so, transformation matrix for rotation about y axis is: 
+ 
+                 cosθ     0       sinθ       0                         d        0         -cx        0                            
+Ry(θ)  =    0         1           0         0                          0        1          0         0                           
+                 sinθ     0        cos(θ)    0                         cx       0          d          0                    
+                  0         0           0         1                          0        0          0         1 
+ 
+required translation matrix is  
+ 
+                 1    0    0    x0     
+                 0    1    0    y0             
+ T   =        0    0    1    z0             
+                 0    0    0    1               
+finally, 
+rotation about the arbitrary axis  is given by z axis rotation matrix, 
+ 
+ 
+ 
+
+Anil Verma, IOE Pulchowk 
+ 
+                    cosθ    -sinθ      0      0               
+  Rz(  )   =    sinθ     cosθ      0      0              
+                     0          0          1      0              
+                     0          0          0      1               
+ 
+so the transformation matrix for rotation about an arbitrary axis then can be expressed as the composition of 
+these seven individual transformations: 
+                         R(θ)  = T-1 .  Rx
+-1 (θ)  .  Ry
+-1 (θ)  . Rz (θ)  .  Ry(θ)  . Rx (θ)  . T 
+ 
+If the values of direction cosines are not known (cx, cy, cz) then they can be obtained knowing a second point on 
+the axis  (x1, y1, z1) by normalizing the vector from the first to second point.  
+Vector along the axis from (x0, y0, z0) to (x1, y1, z1) is  
+              [V] = [(x1 - x0 ) (y1 - y0) (z1 - z0)] 
+Normalized ,it yields the direction cosines, 
+  
+                         [(x1 - x0 ) (y1 - y0) (z1 - z0)] 
+ [cx  cy  cz] = ------------------------------------- 
+                     [(x1 - x0 )2 + (y1 - y0) 2 +  (z1 - z0) 2] ½  
+ 
+ 
+Reflection thru an arbitrary  plane  : 
+General reflection matrices cause reflection thru x = 0 y = 0 z = 0 coordinate planes respectively. 
+ 
+Often it is necessary to reflect an object thru a plane other than one of these.Which is obtained  with the help 
+of a series of transformations (composition). 
+  
+i. 
+translate a known point P that lies in the reflection plane to the origin of the coordinate system 
+ii. 
+rotate the normal vector to the reflection plane at the origin until it is coincident with the z axis  
+                   this makes the reflection plane the z = 0 coordinate plane 
+ 
+iii. 
+after  applying the above transformation to the object reflect the object thru the  z = 0 coordinate 
+plane. 
+i.e. 
+                        1     0      0     0               
+          RFz =    0      1     0     0              
+                        0      0    -1     0               
+                        0      0     0     1          
+ 
+iv. 
+Perform the inverse transformation to those given above to achieve the desired result. 
+So the general transformation matrix is: 
+                         M(θ)  = T-1 .  Rx
+-1 (θ )  .  Ry
+-1 (θ )  . Rflctz (θ )  .  Ry(θ)  . Rx (θ )  . T 
+  NOTE: 
+- 
+See class notes for rotation about arbitrary axis and rotation about arbitrary 
+plane 
+ 
+ 

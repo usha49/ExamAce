@@ -1,0 +1,8 @@
+Techniques include:
+Pipelining: Splitting the task into stages to increase throughput.
+Parallelism: Adding multiple functional units to perform operations 
+simultaneously.
+Hardware Specialization: Using dedicated hardware components for frequently used 
+operations.
+Low-Power Design: Minimizing energy consumption through techniques like clock 
+gating and dynamic voltage scaling.

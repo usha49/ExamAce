@@ -1,0 +1,66 @@
+State Unread input 
+stack content 
+Transition used 
+p  
+abbcbba 
+e 
+- 
+q  
+abbcbba 
+S 
+T1 
+q  
+abbcbba 
+aSa 
+T2 
+q  
+bbcbba 
+Sa 
+T5 
+q 
+bbcbba 
+bSba 
+T3 
+q  
+bcbba 
+Sba 
+T6 
+q  
+bcbba 
+bSbba 
+T3 
+q  
+cbba 
+Sbba 
+T6 
+q 
+cbba 
+cbba 
+T4 
+q 
+bba 
+bba 
+T7 
+q 
+ba 
+ba 
+T6 
+q 
+a 
+a 
+T6 
+q 
+e 
+e 
+T5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Closure Properties of CFL 
+ 
+Theorem 1 : The context-free languages are closed under union, concatenation, and Kleene star.

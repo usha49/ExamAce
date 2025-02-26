@@ -1,0 +1,9 @@
+We can use the “concretization” test: 
+– 
+Think of R and S as if they were single symbols, rather than placeholders for 
+languages, i.e., R = {0} and S = {1}. 
+– Test whether the law holds under the concrete symbols. If so, then this is a true 
+law, and if not then the law is false. 
+Concretization Test 
+For our example  : (R + S)* = (R*S*)* 
+We can substitute 0 for R and 1 for S. The left side is clearly any sequence of 0's and 1's.

@@ -1,0 +1,5 @@
+This sinusoidal nature of EMF is foundational to alternating current systems, as 
+it allows for efficient transmission and transformation of electrical energy.
+Equations and waveforms of alternating Voltage and current 
+Alternating voltage and current vary periodically with time, described 
+mathematically by sinusoidal functions.

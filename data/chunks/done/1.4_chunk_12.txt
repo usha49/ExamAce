@@ -1,0 +1,7 @@
+In digital circuits, CMOS is used in 
+microprocessors, microcontrollers, and digital signal processors due to its low 
+power consumption and high integration density. Analog CMOS circuits are 
+employed in mixed-signal applications, such as data converters, operational 
+amplifiers, and filters. The combination of low cost, high efficiency, and 
+scalability makes CMOS a cornerstone of semiconductor technology.
+.

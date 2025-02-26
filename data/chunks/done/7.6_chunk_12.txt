@@ -1,0 +1,6 @@
+The disk is divided into tracks, sectors, and cylinders, and file system performance
+depends on how efficiently data blocks are mapped and retrieved. Disk scheduling algorithms,
+such as FCFS (First-Come-First-Served), SSTF (Shortest Seek Time First), SCAN (Elevator
+Algorithm), and C-SCAN (Circular SCAN), optimize disk head movement to reduce access
+time.File system performance depends on factors such as disk access time, caching strategies,
+indexing mechanisms, and journaling.

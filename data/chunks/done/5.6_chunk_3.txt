@@ -1,0 +1,5 @@
+Authentication verifies the identity of users and devices before granting access to network 
+resources. Message integrity ensures that data is not altered during transmission by using cryptographic 
+techniques such as checksums and hash functions. Authorization controls user permissions, allowing 
+only specific actions based on predefined rules. Non-repudiation prevents users from denying their 
+actions by digitally signing messages.

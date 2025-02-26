@@ -1,0 +1,58 @@
+i.e.
+             P  =    x             T  =    tx             P’  =     x’
+                        y                        ty                          y’	
+	
+	
+	
+	
+	
+.
+  so we can write
+              P’  =  P + T                                                                       		
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+.	
+	
+	
+	
+
+Scaling 
+This transformation changes the size of an object
+Such that we can magnify or reduce its size 
+In case of polygons scaling is done by multiplying coordinate values (x,y) of each vertex by scaling factors sx sy to 
+produce the final transformed coordinates (x’,y’).
+ sx scales object in ‘x’ direction
+ sy scales object in ‘y’ direction
+or      
+    P  =   x              T   =   sx    0            P’  =     x’
+              y                        0    sy                         y’
+or 
+            		
+ x’              sx    0        x
+             		
+ y’      =      0    sy  .

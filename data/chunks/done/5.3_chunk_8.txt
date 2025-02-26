@@ -1,0 +1,7 @@
+A gateway acts as an intermediary device between computers in the subnet with other 
+computers outside the subnet. All the traffic to the outside of the subnet must go through the gateway. 
+Gateways are also useful in forwarding traffic from one ISP (AS) to the other; those are called border 
+gateways. 
+Addressing: Internet Address, Classful Address 
+
+An Internet address uniquely identifies a node on the Internet.

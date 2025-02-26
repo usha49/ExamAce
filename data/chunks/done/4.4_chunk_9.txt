@@ -1,0 +1,6 @@
+This architecture is often embedded on a single chip (System-on-Chip or SoC) to 
+minimize size and power consumption.
+Operation and Programmer’s View
+From the programmer’s perspective, embedded systems operate at two levels:
+Low-Level Operation: Involves direct manipulation of hardware registers and 
+peripherals, typically through assembly language or C.

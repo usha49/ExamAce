@@ -1,0 +1,5 @@
+The Diffie-Hellman key exchange protocol enables two parties to securely share encryption keys over an 
+insecure network. The process involves selecting a large prime number and a base, which are publicly 
+shared. Each party chooses a secret number and calculates a public value by raising the base to the 
+power of their secret number modulo the prime. The shared secret key is derived by raising the received 
+public value to the power of the secret number.

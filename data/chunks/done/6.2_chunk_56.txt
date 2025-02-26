@@ -1,0 +1,24 @@
+ From Empty Stack PDA  to Final State PDA 
+ From Final state PDA to Empty stack PDA  
+Proof Read yourself 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ioenotes.edu.np
+
+ 
+ 
+Equivalence of  PDA and CFG 
+ 
+Theorem: The class of languages accepted by PDA is exactly the class of context free languages.  
+ 
+Lemma1: Each CFL is accepted by some PDA. 
+Lemma2: If a language is accepted by a PDA , it is a CFL. 
+ 
+Proof of Lemma 1:  
+ 
+Construction of PDA equivalent to a CFG.

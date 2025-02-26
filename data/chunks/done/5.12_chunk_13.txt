@@ -1,0 +1,6 @@
+Circuit 
+switching establishes a dedicated communication path between sender and receiver for the entire 
+duration of the communication session. It is commonly used in traditional telephone networks. Packet 
+switching divides data into small packets, which are transmitted independently and reassembled at the 
+destination. This method is more efficient than circuit switching and is the basis of modern internet 
+communication.

@@ -1,0 +1,5 @@
+Packet sniffing is a technique used by attackers to capture network traffic and 
+analyze data packets for sensitive information. This can be mitigated by using encrypted communication 
+protocols such as Secure Sockets Layer (SSL) and Transport Layer Security (TLS). IP spoofing involves 
+attackers disguising their identity by forging the source IP address of packets, tricking network devices 
+into accepting malicious requests.

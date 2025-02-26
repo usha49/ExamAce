@@ -1,0 +1,6 @@
+Transformation matrices for inverting x and y values are defined similarly, as reflections relative to the yz 
+plane and xz plane. 
+ 
+Shearing: 
+Shearing transformations are used to modify object shapes. 
+E.g.

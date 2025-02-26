@@ -1,0 +1,14 @@
+y-axis
+y-axis
+P
+P’
+T
+y-axis
+2D Transformations
+Translation
+Repositioning an object along a straight line path from one coordinate location to another
+Add translational distance tx ,ty to original coordinate position (x,y) to move the point to a new position (x’,y’) 
+                        x’ = x + tx             y’ = y + ty
+where the pair (tx , ty) is called the translation vector.
+We can write equation as a single matrix equation by using column vectors to represent coordinate points and 
+translation vectors.

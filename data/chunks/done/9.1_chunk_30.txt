@@ -1,0 +1,8 @@
+Semi-Observable / Partially Observable Environment
+Description:
+The agent can only perceive part of the environment, and some information is hidden.
+Key Characteristics:
+Requires internal memory to track unseen parts.
+Decision-making is based on incomplete data.
+Example: Driving in fog, where visibility is low.
+7.

@@ -1,0 +1,8 @@
+Similarly, De-multiplexing is a 
+technique by which a signal received from a shared medium is identified and transmitted to the 
+particular medium or devices. 
+
+Congestion Control Algorithm: Token Bucket and Leaky Bucket 
+Congestion is an important issue that can arise in packet-switched networks. Congestion is a situation in 
+Communication Networks in which too many packets are present in a part of the subnet, and 
+performance degrades.

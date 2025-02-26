@@ -1,0 +1,14 @@
+Multi-agent: Does the agent operate alone or
+alongside other agents?
+Examples of Environments:
+Agent Environment
+Autonomous Car
+Roads, traffic, weather, pedestrians.
+Vacuum Cleaner Robot
+Rooms with dirt, obstacles, furniture.
+Search Engine
+The internet, user queries, data sources.
+Medical Diagnosis System
+Patient data, symptoms, medical records.
+
+3.

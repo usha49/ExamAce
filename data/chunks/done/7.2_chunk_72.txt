@@ -1,0 +1,3 @@
+Still, BST requires some time to search and retrieve the data. After
+deletion of elements, there are some burden to maintain the BST property. It mean,
+the tree is accessed 2 times. To minimize the time for retrieval, heap is created.

@@ -1,0 +1,8 @@
+The trade-off between 
+efficiency and maximum power is an important consideration, as achieving maximum 
+power does not necessarily imply maximum efficiency.
+ R-L, R-C, R-L-C circuits
+Circuits containing combinations of resistors, inductors, and capacitors, such 
+as R-L, R-C, and R-L-C circuits, exhibit unique characteristics depending on 
+their configurations and the type of current applied. R-L circuits consist of a 
+resistor and inductor in series or parallel.

@@ -1,0 +1,6 @@
+At the receiving end, the data link layer picks up 
+data from the hardware, which is in the form of electrical signals, assembles them into a recognizable 
+frame format, and hands them over to the upper layer. To detect errors efficiently and easily, 
+transmitting a small-size data is a better approach. 
+The data link layer has two sub-layers: Logical Link Control (LLC) and Media Access Control (MAC). The 
+LLC deals with protocols, flow-control, and error control.

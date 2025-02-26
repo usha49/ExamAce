@@ -1,0 +1,17 @@
+So is the less-than-or-equal relation 
+Let A= { 1, 2, 3}  
+then R= { (1, 2),  (2, 3) , (1, 3) } is a transitive relation defined on set A  
+ 
+ 
+Equivalence Relation 
+A subset R of A x A is called an equivalence relation on A if R satisfies the following conditions: 
+(i) (a, a) є R for all a є A (R is reflexive) 
+(ii) If (a, b)  є  R, then (b, a) є R, then (a, b)  є  R (R is symmetric) 
+(iii) If (a, b)  є  R and (b, c) є  R, then (a, c)  є  R (R is transitive) 
+ 
+Let A= { 1, 2, 3}  
+then R= { (1, 1),  (2, 2) , (3, 3) , (1, 2) , (1, 3) , (2, 3) , (2, 1) , (3, 1) , (3, 2) }  
+ 
+Partial Ordering Relations 
+A relation R on a set S is called a “Partial ordering” or a “Partial order”, if R is reflexive, anti-
+symmetric and transitive.

@@ -1,0 +1,8 @@
+Each mode 
+provides different ways to access data, balancing flexibility and efficiency. 
+For example, immediate addressing specifies the operand within the instruction, 
+while indirect addressing refers to memory locations through pointers. 
+Understanding addressing modes is essential for optimizing instruction execution 
+and memory access in a CPU.
+ Data transfer and manipulation
+Data transfer involves moving data between memory, registers, and I/O devices.

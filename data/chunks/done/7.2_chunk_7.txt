@@ -1,0 +1,9 @@
+the
+sequence of vertices e1, e3, e4 (i.e (B,A), (A,C), (C,D)) of the above graph form a path
+from B to D. The length of the path is the number of edges in the path. So, the path
+
+Soring
+2
+from B to D has length equal to three.In a weighted graph, the cost of a path is the sum of the
+costs of its edges. Loops have path length of 1.Cycle:A cycle is a path containing at least three
+vertices such that the last vertex on the path is adjacent to the first.

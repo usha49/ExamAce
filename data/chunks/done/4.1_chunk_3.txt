@@ -1,0 +1,5 @@
+This involves the program 
+counter (PC), which stores the address of the next instruction, and branch 
+prediction mechanisms for conditional execution paths. Sequencing ensures 
+instructions are fetched in the correct order while enabling efficient branching 
+and looping.

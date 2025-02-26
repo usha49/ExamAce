@@ -1,0 +1,9 @@
+Specifically, let M = (K, , Г, ∆, s, F), where 
+ 
+K = Kl x K2, the Cartesian product of the state sets of Ml and M2; 
+f = f 1 ; 
+s = (Sl, S2); 
+F = Fl X F2, and 
+∆, the transition relation, is defined as follows.  
+For each transition of the pushdown automaton ((ql, α,, β), (pl, γ))  є  ∆, and for each state q2 є 
+K2, we add to ∆.

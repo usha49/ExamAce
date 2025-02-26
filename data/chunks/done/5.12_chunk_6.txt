@@ -1,0 +1,5 @@
+Twisted pair cables 
+consist of pairs of insulated copper wires twisted together to reduce electromagnetic interference. They 
+are widely used in Ethernet networks and telephone lines, with two main types: unshielded twisted pair 
+(UTP) and shielded twisted pair (STP). UTP is more common due to its cost-effectiveness and ease of 
+installation, while STP offers better resistance to interference due to its shielding.

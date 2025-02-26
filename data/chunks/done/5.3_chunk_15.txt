@@ -1,0 +1,4 @@
+OSPF is 
+perhaps the most widely used interior gateway protocol (IGP) in large enterprise networks. It falls into 
+the group of interior routing protocols, operating within a single autonomous system (AS). OSPF doesn’t 
+need high memory and high-speed processor.

@@ -1,0 +1,3 @@
+A multiprocessing system uses more than one processor to process any given
+workload, increasing the performance of a system’s application environment beyond that
+of a single processor’s capability.

@@ -1,0 +1,5 @@
+The net present value (NPV) method calculates the total present worth
+of future cash flows, determining whether a project is financially viable. A positive NPV
+indicates profitability, while a negative NPV suggests a loss. The internal rate of return (IRR) is
+the discount rate at which the NPV of a project becomes zero, serving as a useful metric for
+comparing different investment opportunities.

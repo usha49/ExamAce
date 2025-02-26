@@ -1,0 +1,11 @@
+Examples of “easy” problems 
+are (i) sorting a sequence of, say, 1,000,000 numbers, (ii) searching for a name in a telephone 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 2 of 20 
+ 
+ 
+directory, and (iii) computing the fastest way to drive from Ottawa to Miami.

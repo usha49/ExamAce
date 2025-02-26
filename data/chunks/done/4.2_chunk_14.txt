@@ -1,0 +1,8 @@
+Non-volatile memories like ROM and flash memory 
+retain data without power but often have slower write speeds. Storage permanence 
+is essential for applications requiring long-term data retention, such as 
+firmware storage or archival systems.
+Composing Memory
+Composing memory involves integrating different types of memory to achieve a 
+balance of speed, capacity, and cost. This includes designing memory hierarchies 
+and optimizing the interaction between volatile and non-volatile storage.

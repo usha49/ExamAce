@@ -1,0 +1,6 @@
+Drivers are typically written in low-level languages 
+like C or assembly and operate in kernel mode, granting them direct access to 
+hardware but requiring careful error handling to avoid system crashes.
+Open-loop control System overview
+An open-loop control system is a type of control system that operates based 
+solely on predefined inputs without monitoring the output.

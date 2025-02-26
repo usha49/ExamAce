@@ -1,0 +1,5 @@
+A standard parallel communication system consists of an 8-bit or 16-bit data bus, allowing multiple bits 
+to be transmitted in a single clock cycle. This improves data throughput compared to serial 
+communication, where data is transmitted one bit at a time. However, parallel interfaces suffer from 
+signal integrity issues, crosstalk, and increased hardware complexity due to the need for multiple 
+communication lines.

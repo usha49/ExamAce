@@ -1,0 +1,7 @@
+The major uses of computer networks include resource and information sharing, 
+data protection, cost-effectiveness, communication, security systems, e-commerce, and mobile users. 
+Network Models 
+The client-server model consists of multiple workstations or PCs that act as clients requesting services 
+from a centralized server. The server has high storage and processing capabilities, providing services to 
+
+clients.

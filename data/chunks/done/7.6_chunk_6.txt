@@ -1,0 +1,6 @@
+Segmentation is
+another memory management technique where memory is divided into variable-sized segments,
+each representing a logical unit such as functions, arrays, or modules.
+Performance in memory management is affected by factors such as access time, page fault
+rate, and memory allocation strategies. A page fault occurs when a requested page is not
+present in memory and needs to be loaded from disk.

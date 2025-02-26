@@ -1,0 +1,26 @@
+It assumes a 
+predictable relationship between input and output but does not adjust its 
+behavior based on actual performance.
+Characteristics of Open-Loop Control Systems:
+No Feedback: The system lacks a feedback loop to monitor or correct output.
+Simple Design: The absence of feedback makes the system easier to design and 
+implement.
+Low Cost: Fewer components are needed, making it cost-effective.
+Limited Accuracy: Open-loop systems cannot compensate for disturbances or 
+changes in system dynamics.
+Examples:
+A toaster operates for a fixed time based on the userâ
+s input, regardless of 
+
+the actual toasting level.
+Traffic lights operate on a predefined timer without sensing real-time traffic 
+conditions.
+Mathematical Representation
+Open-loop systems can be described by a transfer function, G(s), representing 
+the system's response to an input X(s): Y(s)=G(s)â
+X(s) Where Y(s) is the 
+
+output.
+Close-Loop control System overview
+A close-loop control system uses feedback to compare the actual output with the 
+desired reference input.

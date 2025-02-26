@@ -1,0 +1,5 @@
+Encapsulation and 
+decapsulation occur as data moves through these layers, with headers and control information added or 
+removed at each layer. 
+ 
+.

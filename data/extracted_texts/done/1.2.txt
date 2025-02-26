@@ -1,0 +1,77 @@
+1.2 Network theorems:
+Concept of superposition theorem
+The concept of superposition theorem is foundational in the analysis of linear 
+electrical circuits. This theorem is used to calculate the total response in a 
+circuit containing multiple independent sources by considering the effect of 
+each source separately. In this process, all other sources are replaced with 
+their internal impedances. For instance, voltage sources are replaced with short 
+circuits, while current sources are replaced with open circuits. After 
+determining the contributions of each source individually, the total response is 
+obtained by summing these contributions algebraically. Superposition is 
+particularly beneficial in simplifying the analysis of circuits with multiple 
+power sources, making it easier to determine voltage, current, or power at any 
+point in the circuit. This theorem is limited to linear systems where the 
+principle of superposition applies.
+ Thevenin`s theorem
+Thevenin's theorem is another powerful tool used in circuit analysis, 
+particularly for simplifying complex networks. According to this theorem, any 
+linear electrical network with voltage sources and resistances can be 
+represented as an equivalent circuit with a single voltage source in series with 
+a resistance. To apply Thevenin's theorem, the portion of the circuit of 
+interest is first isolated by removing the load resistance. The open-circuit 
+voltage, also known as the Thevenin voltage, is then determined across the 
+terminals where the load was connected. The equivalent resistance is found by 
+deactivating all independent sources and calculating the resistance seen from 
+the terminals. This equivalent circuit simplifies the analysis, especially when 
+studying the effect of different load resistances on the circuit.
+ Norton`s theorem
+Norton’s theorem offers an alternative way to simplify electrical networks. It 
+states that a linear electrical network can be reduced to an equivalent circuit 
+consisting of a single current source in parallel with a resistance. To derive 
+the Norton equivalent, the short-circuit current is calculated across the 
+terminals of interest, while the equivalent resistance is found in the same 
+manner as in Thevenin's theorem. Norton’s equivalent circuit is particularly 
+useful in systems where parallel configurations dominate, as it simplifies the 
+study of how current divides among parallel branches.
+Maximum power transfer theorem
+The maximum power transfer theorem focuses on the conditions under which a load 
+receives maximum power from a network. According to this theorem, maximum power 
+is delivered to the load when the load resistance equals the internal resistance 
+of the source or the Thevenin equivalent resistance. This principle is widely 
+applied in electrical and electronic engineering, particularly in designing 
+systems like audio amplifiers and communication circuits. The trade-off between 
+efficiency and maximum power is an important consideration, as achieving maximum 
+power does not necessarily imply maximum efficiency.
+ R-L, R-C, R-L-C circuits
+Circuits containing combinations of resistors, inductors, and capacitors, such 
+as R-L, R-C, and R-L-C circuits, exhibit unique characteristics depending on 
+their configurations and the type of current applied. R-L circuits consist of a 
+resistor and inductor in series or parallel. The current in these circuits lags 
+the voltage due to the inductive reactance, which increases with frequency. In 
+R-C circuits, comprising resistors and capacitors, the current leads the voltage 
+due to capacitive reactance, which decreases with frequency. R-L-C circuits 
+combine resistors, inductors, and capacitors, and their behavior is determined 
+
+by the resonance condition. These circuits are fundamental in the design of 
+filters, oscillators, and tuning circuits in communication systems.
+resonance in AC series and parallel circuit
+Resonance in AC circuits occurs when the inductive reactance and capacitive 
+reactance become equal, resulting in a purely resistive impedance at a specific 
+frequency known as the resonant frequency. In series resonance, the total 
+impedance of the circuit is minimized, and the current is maximized, making it 
+useful in applications such as tuning radio frequencies. In contrast, parallel 
+resonance occurs when the circuit impedance is maximized, and the current is 
+minimized, which is often used in power systems to limit unwanted currents. 
+Resonance phenomena are critical in the design and analysis of AC circuits for 
+achieving desired frequency responses.
+ 
+active and reactive power
+In AC circuits, the concept of power is divided into active and reactive power. 
+Active power, measured in watts, represents the real power consumed by resistive 
+elements to perform useful work. Reactive power, measured in volt-amperes 
+reactive (VAR), represents the power that oscillates between the source and 
+reactive components, such as inductors and capacitors, without being dissipated. 
+The combination of these powers forms the apparent power, which is represented 
+as a vector sum in the power triangle. Understanding the interplay between 
+active and reactive power is crucial in power system design and operation, as it 
+affects the efficiency and stability of electrical systems.

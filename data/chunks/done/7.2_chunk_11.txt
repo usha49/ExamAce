@@ -1,0 +1,4 @@
+This is one list for each node in a graph. Each list will
+contain adjacent nodes. Each node has two fields, Vertex and Link. The Vertex field of a node p
+will contain the nodes that are adjacent to the node p.Graph Traversals
+A graph traversal means visiting all the nodes of the graph.

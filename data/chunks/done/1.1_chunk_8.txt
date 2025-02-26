@@ -1,0 +1,6 @@
+Conductors, such as copper and silver, have 
+a high density of free electrons that can move freely under the influence of an 
+electric field, making them ideal for electrical wiring and connections. 
+Insulators, such as rubber and glass, lack free electrons and resist the flow of 
+electric current. They are essential for ensuring safety and preventing unwanted 
+current flow in electrical systems.

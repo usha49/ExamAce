@@ -1,0 +1,7 @@
+ Leftmost cell contains a special symbol (∆), to indicate the beginning of the tape. 
+ Each cell except the leftmost may contain a symbol from the alphabet, or a blank (#). 
+ Two symbols are used to denote the movement of the head to the left: ←, and to the 
+right: →. 
+Turing machines are designed to satisfy simultaneously these three criteria: 
+(a) They should be automata; that is, their construction and function should be in the same 
+general spirit as the devices previously studied.

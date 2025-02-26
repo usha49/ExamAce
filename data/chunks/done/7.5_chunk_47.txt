@@ -1,0 +1,6 @@
+Blocked: A process that cannot execute until some event
+occurs, such as the completion of an I/O operation.
+Exit: A process that has been
+released from the pool of executable processes by the OS, either because it is halted or
+because it is aborted for some reason A process that has been released by OS either after
+normal termination or after abnormal termination (error).

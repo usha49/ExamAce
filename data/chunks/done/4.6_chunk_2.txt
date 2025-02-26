@@ -1,0 +1,21 @@
+Department of Defense’s VHSIC (Very High-Speed Integrated Circuits) program, 
+VHDL allows designers to describe hardware at various abstraction levels, 
+including behavioral, dataflow, and structural.
+VHDL supports:
+Simulation: Testing and verifying digital designs before implementation.
+Synthesis: Translating the high-level description into a gate-level design for 
+implementation on FPGAs or ASICs.
+Portability: Designs can be reused across different hardware platforms.
+VHDL designs are written in entities and architectures:
+Entity: Defines the interface of the digital module, including input and output 
+ports.
+Architecture: Describes the internal behavior or structure of the module.
+Example of a simple VHDL entity for an AND gate:
+entity AND_Gate is
+  Port ( A : in STD_LOGIC;
+         B : in STD_LOGIC;
+         Y : out STD_LOGIC);
+end AND_Gate;
+Overflow:
+Overflow occurs in digital arithmetic when the result of an operation exceeds 
+the range that can be represented by the available number of bits.

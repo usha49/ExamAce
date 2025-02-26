@@ -1,0 +1,6 @@
+((s,a,e),(s,a) //push a 
+2. ((s,a,a),(s,a) //push a 
+3. ((s,b,a),(q,e))  //pop a, when first b is encountered and also switch state from s to 
+q 
+4. (( q, b, a), (q, e))  // continue pop a 
+5.

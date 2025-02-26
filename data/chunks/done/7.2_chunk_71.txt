@@ -1,0 +1,7 @@
+Merge Sort can prove
+superior over other sorting algorithms when used with linked lists.Binary Tree
+Sort:General idea is to create a binary search tree and access the elements either in
+LVR and RVL for ascending and descending order.But, in case of imbalanced tree
+(right skewed and left skewed), the search time goes approximately n2. Therefore, to
+minimize the search time, AVL trees are maintained. This will increase performance
+up to nlogn.

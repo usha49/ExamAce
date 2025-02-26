@@ -1,0 +1,3 @@
+Definition
+Problem-solving in artificial intelligence (AI) involves identifying a sequence of actions that lead from
+an initial state to a desired goal state.

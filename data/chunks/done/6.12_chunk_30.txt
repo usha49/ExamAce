@@ -1,0 +1,6 @@
+View a NFA as a occupying at any moment not a single state but a set of states, namely all the 
+states that can be reached from the initial state  by means of the input consumed thus far.  
+ The set of states of M' will be K' =2K    , the power set of states of M 
+ The set of final state of M' will consist of all those subset of K that contains at least one 
+final state of M. i.e. F'={ Q K : Q  F  Ø }   
+ The definition of transition function  of M' is slightly complicated .

@@ -1,0 +1,5 @@
+HDLC supports three types of 
+frames: Information frames (I-frames) carrying user data, Supervisory frames (S-frames) carrying control 
+information, and Unnumbered frames (U-frames) for session management and control. PPP is a data link 
+protocol for direct connections between nodes, commonly used for dial-up internet access. It provides 
+connection authentication, transmission encryption, and data encapsulation.

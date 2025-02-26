@@ -1,0 +1,3 @@
+The 
+relation {(a, b) :  a, b ∈ P and a is an ancestor of b} is transitive, since if a is an ancestor of band 
+b is an ancestor of c, then a is an ancestor of c.

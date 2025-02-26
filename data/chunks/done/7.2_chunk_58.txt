@@ -1,0 +1,3 @@
+One can then interchange pointers rather then the elements
+itself.Insertion Sort: Sorts a list of record by inserting new element into an existing sorted list.
+An initial list with only one item is considered to be sorted list.

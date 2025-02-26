@@ -1,0 +1,5 @@
+Parallel Interface 
+A parallel interface is used for transferring multiple bits of data simultaneously over separate 
+communication lines. This type of interface provides high-speed data transmission and is commonly 
+used in printers, external hard drives, and memory devices. The major components of a parallel interface 
+include data buses, control lines, and synchronization mechanisms.

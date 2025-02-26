@@ -1,0 +1,7 @@
+This method is essential in technical
+drawings, as it provides accurate measurements and eliminates perspective distortion.
+
+Isometric projection or isometric view is a technique used to illustrate a three-dimensional
+object in a way that all three axes appear equally inclined at 120 degrees to each other. This
+projection helps engineers and designers visualize objects more effectively, particularly in
+mechanical and architectural drawings.

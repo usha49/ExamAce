@@ -1,0 +1,5 @@
+CPU: When CPU becomes free, Dispatcher gives control of the CPU to P2 that is
+in NOT Running state and waiting in a queue. Dispatcher: Dispatcher is a program that
+gives control of the CPU to the process selected by the CPU scheduler. Suppose
+dispatcher allow P2 to execute on CPU. Running: When dispatcher allows P2 to execute
+on CPU then P2 starts its execution. Here we can say that P2 is in running state.

@@ -1,0 +1,6 @@
+The E-R diagram is a graphical representation of entities and their relationships, helping
+database designers create an efficient database structure.
+Normalization is the process of organizing data to minimize redundancy and improve data
+integrity. It involves decomposing large tables into smaller, more manageable tables while
+preserving relationships. The different normal forms help achieve this goal by eliminating
+anomalies.

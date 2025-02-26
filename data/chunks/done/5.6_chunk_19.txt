@@ -1,0 +1,5 @@
+Regular security audits and 
+vulnerability assessments help identify weaknesses in network security. 
+Firewalls protect networks by filtering incoming and outgoing traffic based on predefined rules. They 
+can be configured to block unauthorized access, prevent malware infections, and enforce security 
+policies.

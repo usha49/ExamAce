@@ -1,0 +1,16 @@
+Psychology as the Foundation of AI
+Psychology, particularly cognitive psychology, aims to understand
+human thought processes, perception, learning, and problem-solving.
+AI seeks to replicate these abilities.
+Key Contributions from Psychology:
+Human Cognition: Studies on how humans perceive, remember, and solve
+problems inspire AI systems.
+Learning Theories: Behavioral, cognitive, and constructivist theories
+guide machine learning models.
+Cognitive Architecture: Models like ACT-R and SOAR simulate human
+cognitive processes.
+AI Applications:
+Developing human-like conversational agents.
+Creating cognitive models for human-computer interaction.
+Designing systems capable of learning from experience.
+4.

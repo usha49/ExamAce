@@ -1,0 +1,4 @@
+Stacks are widely used in function calls, recursion, undo operations in text
+editors, and expression evaluation.
+A queue follows the First-In-First-Out (FIFO) principle, meaning elements are added at the rear
+and removed from the front.

@@ -1,0 +1,6 @@
+The view level provides different perspectives of the data, allowing users to access only
+the relevant information without exposing the entire database.
+Data independence refers to the ability to modify the database schema at one level without
+affecting the higher levels. It is classified into logical data independence and physical data
+independence. Logical data independence ensures that changes made to the conceptual
+schema do not affect the external schema or application programs.

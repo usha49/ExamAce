@@ -1,0 +1,6 @@
+When the server accepts 
+the client request, the client is authorized to access web pages. 
+HTTPS (also called HTTP over TLS, HTTP over SSL, and HTTP Secure) is a protocol for secure 
+communication over a computer network which is widely used on the Internet. HTTPS consists of 
+communication over Hypertext Transfer Protocol (HTTP) within a connection encrypted by Transport 
+Layer Security (TLS) or its predecessor, Secure Sockets Layer.

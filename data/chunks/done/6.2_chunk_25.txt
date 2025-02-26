@@ -1,0 +1,16 @@
+Formal Definition 
+A string  w is derived ambiguously in context-free grammar G if it has two or more different 
+leftmost derivations. Grammar G is ambiguous if it generates some string ambiguously. 
+ 
+ioenotes.edu.np
+
+ 
+ 
+ 
+ioenotes.edu.np
+
+ 
+Inherently ambiguous. 
+Sometimes when we have an ambiguous grammar we can find an unambiguous grammar that 
+generates the same language. Some context-free languages, however, can be generated only by 
+ambiguous grammars.

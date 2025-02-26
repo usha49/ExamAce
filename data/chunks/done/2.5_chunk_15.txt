@@ -1,0 +1,6 @@
+Serial Interface 
+A serial interface is a communication system in which data is transmitted one bit at a time over a single 
+communication line. Serial communication is commonly used in networking, telecommunications, and 
+data transfer between microcontrollers and external devices. The key advantages of serial 
+communication include reduced hardware complexity, lower cost, and longer transmission distances 
+compared to parallel communication.

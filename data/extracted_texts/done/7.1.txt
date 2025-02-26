@@ -1,0 +1,81 @@
+Introduction to Data Structure, Lists, Linked Lists, and Trees
+Data structures are fundamental concepts in computer science that help in organizing and
+storing data efficiently. They provide a structured way to manage and manipulate data, enabling
+efficient searching, sorting, and retrieval. Data structures can be broadly categorized into linear
+and non-linear types, each designed for specific operations and use cases.
+Data types define the kind of data that can be stored and manipulated within a program.
+Primitive data types include integers, floating-point numbers, characters, and booleans. Data
+structures, on the other hand, refer to the organization and storage format of data, facilitating
+efficient access and modification. Examples include arrays, linked lists, stacks, queues, trees,
+and graphs. Abstract Data Types (ADTs) define logical data structures without specifying their
+implementation details. ADTs include lists, stacks, queues, and trees, which specify the
+operations that can be performed rather than how they are implemented in memory.
+The efficiency of an algorithm is measured in terms of time and space complexity. Time
+complexity refers to the amount of time an algorithm takes to execute as a function of the input
+size. It is expressed using asymptotic notation such as Big-O, which represents the worst-case
+scenario, Omega, which represents the best-case scenario, and Theta, which represents the
+average-case scenario. Space complexity refers to the amount of memory an algorithm requires
+for execution, including both fixed and variable memory allocations. Analyzing these
+complexities helps in selecting the most efficient algorithm for solving a problem.
+Linear data structures store data sequentially. Examples include stacks and queues. A stack
+follows the Last-In-First-Out (LIFO) principle, meaning elements are added and removed from
+the top. The main operations performed on a stack include inserting an element at the top,
+removing the top element, retrieving the top element without removing it, and checking if the
+stack is empty. Stacks are widely used in function calls, recursion, undo operations in text
+editors, and expression evaluation.
+A queue follows the First-In-First-Out (FIFO) principle, meaning elements are added at the rear
+and removed from the front. The main operations performed on a queue include inserting an
+element at the rear, removing an element from the front, and checking if the queue is empty.
+Queues are commonly used in scheduling tasks, handling requests in operating systems, and
+managing buffers.
+
+Stacks are particularly useful in expression evaluation. Infix expressions, where operators
+appear between operands (e.g., A + B), can be converted into postfix notation (e.g., AB+) using
+stacks. Operators are pushed onto a stack while operands are directly placed in the output. In
+postfix evaluation, the operands appear before the operator, making computation
+straightforward using a stack. The operands are pushed onto the stack, and whenever an
+operator is encountered, the required number of operands is popped, the operation is performed,
+and the result is pushed back.
+Lists can be implemented using arrays or linked structures. An array-based implementation
+stores elements in a fixed-size sequential block of memory, whereas a linked list dynamically
+allocates memory. Stacks and queues can also be implemented as lists, where stacks allow
+only push and pop operations at one end, while queues allow insertion at the rear and removal
+from the front.
+A static list structure has a fixed size, meaning memory is allocated at the time of declaration
+and cannot be changed later. Examples include arrays. A dynamic list structure allows memory
+allocation and deallocation as needed. Linked lists are an example of dynamic list structures,
+where elements (nodes) can be added or removed without predefined constraints on size.
+A linked list consists of nodes, where each node contains data and a pointer to the next node in
+the sequence. Unlike arrays, linked lists provide dynamic memory allocation, allowing flexible
+modifications.
+Basic operations on linked lists include creating a linked list, inserting nodes at different
+positions, and deleting nodes from different positions. Insertion can be done at the beginning,
+middle, or end of the list. Deletion can be performed by removing nodes from specific positions.
+Doubly linked lists are particularly useful in applications requiring bidirectional traversal, such as
+ navigation in web browsers and undo-redo operations in text editors.
+There are different types of linked lists. A singly linked list consists of nodes where each node
+points to the next node in the sequence. A doubly linked list contains two pointers, one pointing
+to the next node and another pointing to the previous node, allowing bidirectional traversal. A
+circular linked list is where the last node of the list points back to the first node, creating a
+circular connection. Circular linked lists can be singly or doubly linked.
+
+A tree is a hierarchical, non-linear data structure consisting of nodes connected by edges. The
+top node is called the root, and every node can have child nodes. Trees are widely used in
+database indexing, file systems, artificial intelligence, and hierarchical data representation.
+A binary tree is a type of tree where each node has at most two children. Operations in a binary
+tree include insertion, deletion, and searching. Insertion involves adding a new node while
+maintaining the tree structure. Searching is performed to find whether a specific element exists
+within the tree. Deletion removes a node while restructuring the tree to maintain its properties.
+Traversal in binary trees is done using different methods. Pre-order traversal visits the root node
+first, then recursively visits the left subtree followed by the right subtree. Post-order traversal
+visits the left subtree first, then the right subtree, and finally the root node. In-order traversal
+visits the left subtree first, then the root node, and finally the right subtree. These traversal
+techniques are used in applications such as expression tree evaluation and hierarchical data
+processing.
+The height of a tree is the longest path from the root node to a leaf node. The level of a node
+represents the depth at which it exists in the tree, with the root being at level zero. The depth of
+a node is the number of edges from the root node to that specific node.
+An AVL tree is a type of self-balancing binary search tree where the height difference between
+the left and right subtrees of any node is at most one. If the balance factor of any node exceeds
+this limit, rotations are performed to restore balance. AVL trees are used in applications
+requiring efficient searching and sorting, such as database indexing and memory management.

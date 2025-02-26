@@ -1,0 +1,12 @@
+Common scheduling algorithms include:
+First-Come-First-Serve (FCFS): Tasks are executed in the order they arrive.
+Shortest Job Next (SJN): Executes the shortest task first, minimizing average 
+wait time.
+Round Robin (RR): Allocates a fixed time slice to each task in a cyclic manner.
+Priority Scheduling: Tasks with higher priority are executed before lower-
+priority ones.
+Real-Time Scheduling: Focuses on meeting deadlines, with algorithms like Rate-
+Monotonic Scheduling (RMS) and Earliest Deadline First (EDF).
+Task Synchronization
+Task synchronization ensures that multiple tasks access shared resources safely 
+without conflicts.

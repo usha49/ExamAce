@@ -1,0 +1,33 @@
+Solution 
+Let G = (V,∑, R, E) where V, ∑, and R are as follows. 
+V = {+,*, ( , ) , id, T,F , E}, 
+∑= {+, *, (, ), id}, 
+ 
+R = { 
+         E  E +T,  
+ 
+ 
+(R1) 
+         E T,  
+ 
+ 
+(R2) 
+        TT*F,  
+ 
+ 
+(R3) 
+        TF, 
+ 
+ 
+ 
+(R4) 
+        F  (E),  
+ 
+ 
+(R5) 
+        F  id }.  
+ 
+ 
+(R6) 
+The symbols  E, T, and F are abbreviations for expression, term, and factor, respectively. 
+The grammar G generates the string (id * id + id) * (id + id) by the following derivation.

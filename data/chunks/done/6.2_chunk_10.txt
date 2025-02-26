@@ -1,0 +1,9 @@
+Examples 
+Design a context-free grammar (CFG) for the language {anbn :  n ≥ O}. 
+Solution 
+Let required  CFG G = (V,∑, R, S)  where 
+ 
+V = {S, a, b},  
+∑ = {a, b}, and R consists of the rules  
+S  aSb   (rule 1) and 
+ S  e.

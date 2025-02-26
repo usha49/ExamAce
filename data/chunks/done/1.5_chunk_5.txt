@@ -1,0 +1,7 @@
+However, their 
+frequency range is limited compared to other types of oscillators.
+Basic Principles of LC Oscillators
+LC oscillators use inductors (L) and capacitors (C) to form a resonant circuit 
+that determines the oscillation frequency. When the circuit is energized, energy 
+oscillates between the magnetic field of the inductor and the electric field of 
+the capacitor, producing a sinusoidal waveform.

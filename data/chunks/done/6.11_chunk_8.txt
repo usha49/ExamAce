@@ -1,0 +1,5 @@
+Give a rigorous proof that problems that seem to be “hard” are really “hard”. 
+This course 
+ This course is about the fundamental capabilities and limitations of computers. These 
+topics form the core of computer science. 
+ It is about mathematical properties of computer hardware and software.

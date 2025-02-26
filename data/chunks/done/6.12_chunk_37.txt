@@ -1,0 +1,18 @@
+Example : Given the NFA as shown in fig. below, determine the equivalent DFA. 
+ 
+Solution 
+The given NFA has q2 and q4 as final states. It accepts strings ending in 00 or 11. The state table 
+is shown below. 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 12 of 30 
+ 
+The conversion of NFA to DFA is done through the subset construction. 
+ 
+ 
+Properties of Regular Languages 
+1.

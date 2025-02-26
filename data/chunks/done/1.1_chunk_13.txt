@@ -1,0 +1,9 @@
+Kirchhoff's Current Law (KCL), on 
+the other hand, asserts that the total current entering a junction equals the 
+total current leaving it. These laws are cornerstones of circuit theory, 
+enabling engineers to analyze and design complex electrical networks 
+systematically.
+ linear and non-linear circuit
+Circuits can be classified based on the relationship between voltage and 
+current. In linear circuits, this relationship is directly proportional, making 
+them predictable and easy to analyze.

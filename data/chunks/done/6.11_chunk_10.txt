@@ -1,0 +1,8 @@
+ This course is about rigorously analyzing capabilities and limitation of systems. 
+Turing machine is equivalent in computing power to the digital computer as we know it today 
+and also to all the most general mathematical notions of computation 
+ 
+1.1 Introduction to Set Theory  
+ Set 
+A set is a collection of objects. For example, the collection of the four letters a, b, c, and d is a 
+set, which we may name L; we write L = {a, b, c, d}.

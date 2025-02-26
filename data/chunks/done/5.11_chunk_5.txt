@@ -1,0 +1,6 @@
+Collaborative computing is the combination of centralized and distributed computing. 
+The local area network communication can be constructed by using a server-based model or a peer-to-
+peer model. In peer-to-peer networks, the individual clients share data and resources, but no one 
+computer is treated as a server. 
+LAN (Local Area Network) is a small network that covers a limited area. MAN (Metropolitan Area 
+Network) is created by combining various local area networks.

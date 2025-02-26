@@ -1,0 +1,6 @@
+Process Management System : The operating system is
+responsible for the following activities in connection with processes managed. The
+creation and deletion of both user and system process,the suspension is resumption of
+process, the provision of mechanism for process synchronization , the provision of
+mechanism for deadlock handling. Memory Management System : Memory is central to
+the operation of a modern computer system.

@@ -1,0 +1,5 @@
+Serial interfaces are classified based on transmission techniques, including synchronous and 
+asynchronous transmission. In synchronous transmission, data is sent at a fixed rate, synchronized with 
+a common clock signal. This method is used in high-speed communication systems such as Ethernet and 
+fiber optic networks. In asynchronous transmission, data is sent without a common clock, and each data 
+byte is framed with start and stop bits to indicate the beginning and end of transmission.

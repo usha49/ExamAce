@@ -1,0 +1,10 @@
+In verbal form  
+ First output an a then  
+ Either output  a number of  a's or output number of b's 
+ Finally output a b. 
+Using context free grammar same language can be generated . For a(a* b*) b  
+Let  S   be a new symbol interpreted as  "a string in the language"  
+M be a symbol standing for middle part. 
+Then ,we can express  
+S  aMb 
+Here, M can be either string of a's or string of b's .

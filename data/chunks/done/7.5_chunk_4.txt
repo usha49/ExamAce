@@ -1,0 +1,7 @@
+Moreover, multiple user programs are running at the
+same time, the processor itself is a resource and the Operating System decides how much
+processor time should be given for the execution of a particular user program.
+An
+operating system is a control program, a control program manages the execution of user
+program to prevent errors and improve use of computer. It is especially concerned with
+the operation and control of I/O devices.

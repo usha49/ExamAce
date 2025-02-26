@@ -1,0 +1,8 @@
+((s, e, e),(f, e))  //change the state non deterministically  (middle of the input 
+string is guessed by machine M itself) 
+4. (( f, a, a), (f, e))  // pop a 
+5. ((f, b, b),(f, e))  // pop b  
+ 
+Here, ((s, e, e), (f, e))   means change to state f without reading /consuming any symbol. Clearly 
+whenever the M is in state S it can non- deterministically choose either to push the next input 
+symbol on the stack or to switch to state f without consuming any input.

@@ -1,0 +1,10 @@
+When software is non-portable, moving to new display devices 
+necessitates expensive and time consuming rewriting of working programs
+Thus interactive computer graphics had a limited use when it started in the early sixties but it 
+became very common once the Apple Macintosh and IBM PC appeared in the market with 
+affordable cost.
+Representative uses of computer graphics
+Computer graphics is used today in many different areas of science, engineering , industry 
+business, education, entertainment, medicine art and training 
+All of these are included in the following categories
+1.

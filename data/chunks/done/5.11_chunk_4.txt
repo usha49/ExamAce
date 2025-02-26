@@ -1,0 +1,7 @@
+Subsequently, higher speeds 
+of up to 100 Gbit/s were added. 
+A computer network's communication can be based on centralized, distributed, or collaborative 
+computing. Centralized computing involves many workstations or terminals connected to one central 
+mainframe or another powerful computer. Distributed computing interconnects one or more personal 
+computers and allows various services like data sharing, hardware sharing, resource sharing, or network 
+sharing.

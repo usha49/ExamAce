@@ -1,0 +1,6 @@
+In
+Interactive environment, a process is created when a new user attempt to log on. The OS
+can create process to perform functions on the behalf a user program. A number of process
+can be generated from the main process. For the purpose of modularity or to exploit
+parallelism a user can create numbers of process. Process Termination : A process
+terminates when it finishes executing its last statement.

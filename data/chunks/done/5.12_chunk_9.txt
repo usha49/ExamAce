@@ -1,0 +1,4 @@
+Radio waves are commonly used for wireless networking, such as Wi-Fi and 
+mobile communication, due to their ability to travel long distances and penetrate obstacles. Microwaves 
+operate at higher frequencies and require a line-of-sight connection between transmitters and 
+receivers. They are used for point-to-point communication, satellite links, and cellular networks.

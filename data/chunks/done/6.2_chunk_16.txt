@@ -1,0 +1,22 @@
+We write  
+ if and only if x = wAβ, y = wαβ, where w є ∑ *, 0:,,8 E V', A є V*-I;, and 
+A  0: 
+is a rule of G. Thus, if Xl * X2 * ... * Xn is a leftmost derivation, then in 
+fact Xl i X2 i ... i Xn- 
+ 
+Rightmost derivation 
+ 
+ioenotes.edu.np
+
+ 
+ 
+ 
+ 
+Theorem  
+Let G = (V,∑, R, S) be a context-free grammar, and let A є V - ∑ , and w є ∑*. Then the 
+following statements are equivalent: 
+(a) A * w. 
+ 
+(b) There is a parse tree with root A and yield w. 
+(c) There is a leftmost derivation A  
+w.

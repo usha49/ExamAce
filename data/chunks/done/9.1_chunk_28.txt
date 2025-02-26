@@ -1,0 +1,16 @@
+Static Environment
+Description:
+The environment does not change while the agent is thinking or performing an action.
+Key Characteristics:
+Easier to design and control.
+Time is not a critical factor.
+Example: Solving a crossword puzzle.
+4. Dynamic Environment
+Description:
+The environment keeps changing while the agent is deciding or acting.
+Key Characteristics:
+Requires quick decision-making.
+Time-sensitive.
+Example: Robotics, autonomous vehicles.
+
+5.

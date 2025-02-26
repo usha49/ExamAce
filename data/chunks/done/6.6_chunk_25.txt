@@ -1,0 +1,11 @@
+So the general transformation matrix is: 
+                         M(θ)  = T-1 .  Rx
+-1 (θ )  .  Ry
+-1 (θ )  . Rflctz (θ )  .  Ry(θ)  . Rx (θ )  . T 
+  NOTE: 
+- 
+See class notes for rotation about arbitrary axis and rotation about arbitrary 
+plane 
+ 
+ 
+.

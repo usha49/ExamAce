@@ -1,0 +1,11 @@
+cosθ  -  r sinΦ. sinθ    ….(i)   
+y’ = r sin(Φ + θ)  =  r cosΦ. sinθ  + r sinΦ. cosθ    ….(ii)
+We know that original coordinates of point in polar coordinates are 
+x = r cosΦ
+y = r sinΦ
+substituting these values in (i) and (ii)
+we get,
+x’ = x cosθ  -  y sinθ       
+y’ = x sinθ  + y cosθ    
+so using column vector representation for coordinate points the matrix form would be
+             P’ =  R .

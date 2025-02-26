@@ -1,0 +1,5 @@
+We say that a schedule S is conflict serializable if it is conflict equivalent to a serial
+schedule.View Serializability : Let S and S´ be two schedules with the same set of transactions. S and S´ are
+view equivalent if the following three conditions are met, for each data item Q, If in schedule S, transaction Ti reads the
+
+initial value of Q, then in schedule S’ also transaction Ti must read the initial value of Q.

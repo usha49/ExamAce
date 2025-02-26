@@ -1,0 +1,5 @@
+The physical layer is responsible for several key tasks, including bit representation, data encoding, data 
+transmission, synchronization, transmission rates, physical topology, and physical addressing. Bit 
+representation defines how data is converted into electrical or optical signals. Different encoding 
+techniques such as Non-Return-to-Zero (NRZ), Manchester encoding, and Differential Manchester 
+encoding are used to represent binary data.

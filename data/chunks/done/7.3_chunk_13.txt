@@ -1,0 +1,8 @@
+DDL
+commands include CREATE, ALTER, and DROP, which define and modify database structures.
+DML commands include SELECT, INSERT, UPDATE, and DELETE, which manipulate data within
+tables.
+Views are virtual tables that provide a customized representation of data without storing it
+physically. They help in security and data abstraction by restricting access to specific columns
+or rows. Assertions are constraints that enforce specific conditions on data, ensuring that
+records meet predefined criteria.

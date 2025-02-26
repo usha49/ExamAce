@@ -1,0 +1,5 @@
+This method separates original file into subfiles. These
+subfiles contain every kth element of the original file. The value of k is called an
+increment. Eg. If k=5, then subfile consists of x[0], x[5], x[10],… is first sorted.After
+the first k subfiles are sorted (usually by simply insertion), a new smaller value of k is
+chosen and the file is again partitioned into a new set of subfiles.

@@ -1,0 +1,7 @@
+Each instruction executed by the 
+microprocessor consists of a sequence of binary operations that manipulate data, perform calculations, 
+or control hardware devices. 
+The fundamental components of a computer system include memory, input and output devices, and a 
+central processing unit. The introduction of microprocessors revolutionized computing by integrating 
+these functions into a single chip, reducing system size, increasing processing speed, and lowering 
+power consumption.

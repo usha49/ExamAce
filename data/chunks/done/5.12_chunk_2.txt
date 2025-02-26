@@ -1,0 +1,5 @@
+It defines the physical characteristics of network hardware such as 
+cables, connectors, switches, and wireless transmitters. The primary role of the physical layer is to 
+ensure the correct transmission and reception of unstructured raw data between connected devices. It 
+establishes the electrical and mechanical interfaces, the transmission medium, the data encoding 
+scheme, and the signal transmission techniques.

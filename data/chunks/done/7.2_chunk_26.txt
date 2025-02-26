@@ -1,0 +1,9 @@
+A topological sort of a graph can be viewed as
+an ordering of its vertices along a horizontal line so that all directed edges go from left to
+right.Applications:Consider the course available at university as the vertices of a directed
+graph; where there is an edge from one course to another if the first is a prerequisite for the
+second.A topological ordering is then a listing of all the courses such that all prerequisite for a
+course appear before it does.Algorithms to find out topological ordering:Breadth First
+Ordering:In Breadth First Topological ordering of a directed graph with no cycles, we start by
+finding the vertices that should be first in the topological order and then apply the fact that
+every vertex must come before its successors in the topological order.

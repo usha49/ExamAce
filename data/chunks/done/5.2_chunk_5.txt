@@ -1,0 +1,6 @@
+Synchronization ensures that both machines 
+are synchronized when data frames are sent on the link. Error control detects and attempts to recover 
+actual data bits when errors occur in transition. Flow control ensures that stations on the same link, 
+which may have different speeds or capacities, can exchange data at the same speed. Multi-access 
+mechanisms such as CSMA/CD are used to equip systems with the capability of accessing a shared 
+media.

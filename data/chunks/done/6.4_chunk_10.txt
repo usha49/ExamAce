@@ -1,0 +1,6 @@
+The whirlwind computer developed in 1950 at the 
+Massachusetts Institute of Technology (MIT) had computer driven CRT displays for output. The 
+SAGE air-defense system developed in the middle 1950s was the first to use command and 
+control CRT display consoles on which operators identified targets with light pens (hand held 
+pointing devices that sense light emitted by objects on the screen) Later on Sketchpad system by 
+Ivan Sutherland came in light.

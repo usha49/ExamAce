@@ -1,0 +1,5 @@
+These include Random 
+Access Protocols (e.g., ALOHA, CSMA), Channel Partitioning Protocols (e.g., TDMA, FDMA, CDMA), and 
+Controlled Access Protocols. Ethernet technology is widely used in LANs and MANs, defined by IEEE 
+802.3 standards. Token Ring (IEEE 802.5) uses token passing for network access control, while Token Bus 
+(IEEE 802.4) combines Ethernet and Token Ring characteristics.

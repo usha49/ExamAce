@@ -1,0 +1,6 @@
+Data transfer between the CPU and these devices can occur 
+synchronously or asynchronously, depending on the device's operating 
+characteristics.
+I/O modules Input-output interface
+I/O modules serve as intermediaries between the CPU and peripheral devices, 
+handling the complexities of communication and data transfer.

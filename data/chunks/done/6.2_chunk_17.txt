@@ -1,0 +1,11 @@
+(d) There is a rightmost derivation A 
+w. 
+ 
+ 
+ 
+Application of CFG 
+ An important application of context-free grammars occurs in the specification and 
+compilation of programming languages.  
+ Most compilers and interpreters contain a component called a parser that extracts the 
+meaning of a program prior to generating the compiled code or performing the 
+interpreted execution.

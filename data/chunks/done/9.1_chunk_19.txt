@@ -1,0 +1,18 @@
+Actuators (A)
+Actuators are the mechanisms by which an agent affects its
+environment.
+It answers the question: What actions can the agent perform?
+Actuators allow the agent to execute physical or virtual actions to
+achieve its goals.
+Examples of Actuators:
+Agent Actuators
+Autonomous Car
+Steering, acceleration, braking, lights, horn.
+Vacuum Cleaner Robot
+Wheels, suction motor, brush, dustbin control.
+Search Engine
+Displaying search results, suggesting corrections.
+Medical Diagnosis System
+Displaying diagnosis, prescribing
+medicine, sending alerts.
+4.

@@ -1,0 +1,6 @@
+2.3 Sequential Logic Circuits
+Sequential logic circuits differ from combinational circuits by including memory elements that
+store past input states. Flip-flops are the fundamental building blocks of sequential circuits,
+capable of storing one bit of information. The RS flip-flop, named for its Set (S) and Reset (R)
+inputs, changes state based on input conditions. When S is 1 and R is 0, the output is set to 1,
+while when S is 0 and R is 1, the output resets to 0.

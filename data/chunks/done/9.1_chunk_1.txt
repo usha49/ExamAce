@@ -1,0 +1,6 @@
+9.1 Introduction to AI and intelligent agent:
+Concept of Artificial Intelligence
+Artificial Intelligence (AI) refers to the simulation of human
+intelligence in machines designed to think and act like humans. This
+encompasses learning from experience, understanding language,
+recognizing patterns, and making decisions.

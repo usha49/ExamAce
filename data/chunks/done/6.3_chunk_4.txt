@@ -1,0 +1,9 @@
+(b) They should be as simple as possible to describe, define formally, and reason about. 
+(c) They should be as general as possible in terms of the computations they can carry out. 
+A Turing machine consists of a finite control, a tape, and a head that can be used for reading or 
+writing on that tape. 
+ioenotes.edu.np
+
+ 
+Communication between the two is provided by a single head, which reads symbols from the 
+tape and is also used to change the symbols on the tape.

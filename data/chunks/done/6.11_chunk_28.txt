@@ -1,0 +1,5 @@
+Fig: Surjection 
+ 
+(c) One-to-one onto Function (Bijection): A function that is both one-to-one and onto is called a 
+“Bijection”. Such a function maps each and every element of A to exactly one element of B, with 
+no elements left over. Fig. below shows bijection.

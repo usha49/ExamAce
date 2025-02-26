@@ -1,0 +1,12 @@
+Bayes' Rule and Its Use
+Bayes' Rule
+P(A∣B)=P(B∣A)⋅P(A)P(B)P(A∣B)=P(B)P(B∣A)⋅P(A)​
+P(A∣B)P(A∣B): Posterior probability.
+P(B∣A)P(B∣A): Likelihood.
+P(A)P(A): Prior probability.
+P(B)P(B): Evidence.
+
+Use
+Updating probabilities based on new evidence.
+Applications: Spam filtering, medical diagnosis.
+9.

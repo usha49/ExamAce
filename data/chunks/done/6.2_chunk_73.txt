@@ -1,0 +1,20 @@
+S → aS |bA  
+A → cA | ε 
+Solution:  
+ 
+ 
+Transform the following DFA to a right regular grammar 
+ 
+Solutions 
+ioenotes.edu.np
+
+ 
+ 
+Simplification of CFG 
+ 
+1. Elimination of useless symbols  
+ 
+2. Elimination of empty production (e-productions) 
+3. Elimination of unit Productions  
+ioenotes.edu.np
+.

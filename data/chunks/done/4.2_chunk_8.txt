@@ -1,0 +1,8 @@
+Temporal locality 
+suggests that recently accessed data is likely to be accessed again soon, while 
+spatial locality indicates that data located near recently accessed addresses is 
+also likely to be accessed. Cache memory reduces the latency of data retrieval 
+by serving as an intermediate storage layer between the CPU and main memory.
+Elements of Cache design:
+Cache size
+The size of the cache determines how much data it can hold.

@@ -1,0 +1,5 @@
+In each
+case, the abstraction offered by the operating system is simpler and easier to use than that
+offered by the underlying hardware. Moreover, in this view, the function of the operating
+system is to present the user with the equivalent of an extended machine or virtual
+machine that is easier to work with than the underlying hardware.

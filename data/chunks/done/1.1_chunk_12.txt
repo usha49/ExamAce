@@ -1,0 +1,7 @@
+Conversions between star and 
+delta are particularly important in electrical engineering to analyze power 
+distribution systems and ensure proper load balancing in three-phase circuits.
+ Kirchhoff’s law
+Kirchhoff's Voltage Law (KVL) states that in any closed-loop circuit, the sum of 
+the potential differences (voltages) is zero. This law is essential for 
+analyzing energy conservation within circuits.

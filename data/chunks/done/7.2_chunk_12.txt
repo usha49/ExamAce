@@ -1,0 +1,5 @@
+Basically, there are two methods of
+graph traversals.Breadth First Traversal,Depth First Traversal.Breadth First Traversal:The
+Breadth First Traversal begins with a given vertex and then it next visits all the vertices
+adjacent to v, putting the vertices adjacent to these in a waiting list to be traversed after all
+vertices adjacent to v have visited. Breadth First Traversal uses queue.

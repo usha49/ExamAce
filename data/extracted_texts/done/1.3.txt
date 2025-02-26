@@ -1,0 +1,52 @@
+Alternating current fundamentals:
+Principle of generation of alternating voltages and currents
+The generation of alternating voltage and current is based on the principle of 
+electromagnetic induction, discovered by Michael Faraday. When a conductor moves 
+through a magnetic field, or when the magnetic field surrounding a stationary 
+conductor varies, an electromotive force (EMF) is induced in the conductor. In 
+practical systems, this is achieved using rotating machines like alternators. In 
+an alternator, a coil of wire rotates in a magnetic field, creating a time-
+varying flux linkage. The induced EMF is sinusoidal because the flux linkage 
+changes sinusoidally with time as the coil rotates through the magnetic field. 
+This sinusoidal nature of EMF is foundational to alternating current systems, as 
+it allows for efficient transmission and transformation of electrical energy.
+Equations and waveforms of alternating Voltage and current 
+Alternating voltage and current vary periodically with time, described 
+mathematically by sinusoidal functions. For instance, an alternating voltage can 
+be expressed as ( )=
+ sin⁡(
++ ) where 
+ is the maximum or peak voltage, ω is
+𝑣𝑡
+𝑉𝑚
+𝜔𝑡𝜙
+𝑉𝑚
+ 
+the angular frequency,t is time, and ϕ is the phase angle. The waveform of 
+alternating voltage or current is typically represented as a sine wave, which 
+alternates between positive and negative values, completing a full cycle in one 
+period. These waveforms are fundamental to understanding AC systems, as they 
+define how voltage and current behave over time.
+Average, Peak and RMS values
+In AC systems, the average value, peak value, and root mean square (RMS) value 
+are essential metrics for analyzing and describing alternating voltages and 
+currents. The peak value is the maximum magnitude of the waveform, representing 
+the highest voltage or current attained during a cycle. The average value of a 
+sine wave over one complete cycle is zero, but over a half-cycle, it represents 
+the mean of the absolute values of the waveform. The RMS value is particularly 
+important in AC systems as it provides a measure of the effective or equivalent 
+DC value of an alternating quantity. It is calculated as the square root of the 
+average of the squares of instantaneous values over one cycle and is widely used 
+in practical applications to quantify power.
+Three phase system
+A three-phase system is a method of generating, transmitting, and distributing 
+electrical power using three alternating voltages or currents that are phase-
+shifted by 120 degrees from each other. This system is highly efficient and 
+widely used in industrial and power applications. In a balanced three-phase 
+system, the sum of instantaneous voltages or currents is always zero, 
+eliminating the need for a neutral conductor in transmission. Three-phase 
+systems can be connected in either a star (Y) or delta (Δ) configuration, each 
+with distinct characteristics and applications. The star connection allows for 
+the provision of a neutral point, making it suitable for systems requiring 
+multiple voltage levels. The delta connection, on the other hand, is often used 
+in transmission and distribution due to its higher efficiency in power transfer.

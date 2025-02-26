@@ -1,0 +1,5 @@
+the transition (( (ql, q2), α, β), ((p1, δ( q2, a)), γ)); and for each transition of the 
+form (( ql, e, β, (p1 , γ )) є  ∆ and each state q2 є  K2, we add to ∆  the transition (( (ql , q2), e, β), 
+((p1 , q2), γ))  That is, M passes from state (ql, q2) to state (pl, p2) in the same way that Ml passes 
+from state ql to p1, except that in addition M keeps track of the change in the state of 
+M2 caused by reading the same input.

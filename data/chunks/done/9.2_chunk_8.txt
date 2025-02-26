@@ -1,0 +1,83 @@
+If first player wins, the other player necessarily loses
+Opposition between the agent’s utility functions make the situation adversarial.
+Game
+A game can be formally be defined as a kind of search problem with the following components
+• Initial state
+• A successor function
+• A terminal test
+• A utility function
+Minimax Algorithm
+• It is a recursive algorithm for choosing the next move in a n-player game, usually a two
+player game
+• A value is associated with each position or state of the game
+• The value is computed by means of a position evaluation function and it indicates how
+good it would be for a player to reach the position.
+• The player then makes the move that maximizes the minimum value of the position from
+the opponents possible moves called maximizing player and other player minimize the
+maximum value of the position called minimizing player.
+MiniMax Game Search
+• It is a Depth-first search with limited depth.
+• Use a static evaluation function for all leaf states.
+• Assume the opponent will make the best move possible.
+Algorithm
+minimax(player,board)
+if(game over in current board position)
+return winner
+children = all legal moves for player from this board
+
+if(max's turn)
+return maximal score of calling minimax on all the children
+else (min's turn)
+return minimal score of calling minimax on all the children
+Alpha-beta pruning
+Minimax search explores some parts of tree it doesn’t have to
+• To avoid this, minimax algorithm is modified with two values alpha and beta, which
+represent the minimum score that the maximizing player is assured of and the maximum
+score that the minimizing player is assured respectively.
+• Alpha-beta pruning algorithm explores a branch only if there is possibility of
+producing superior alternatives.
+• It reduces the time required for the search and it must be restricted so that no time is to
+be wasted searching moves that are obviously bad for the current player.
+• The exact implementation of alpha-beta keeps track of the best move for each side as it
+moves throughout the tree.
+• It adapts minimax to consider the values of the nodes and whether exploration down a
+branch could possibly be fruitful.
+• It proceeds from the idea “If you have an idea that is surely bad, don’t take the time
+to see how truly awful it is (Pat Winston)”
+Properties of α-β
+• Pruning does not affect final result
+• Good move ordering improves effectiveness of pruning
+• With "perfect ordering," time complexity = O(bm/2)
+doubles depth of search
+• A simple example of the value of reasoning about which computations are relevant
+Alpha Beta Procedure
+• At each non-leaf node, store two values— alpha and beta.
+• Let alpha be the best (i.e., maximum) value found so far at a “max” node.
+• Let beta be the best (i.e., minimum) value found so far at a “min” node.
+• Initially assign alpha = –
+and beta =
+at the root.
+• Note alpha is monotonically non-decreasing and beta is monotonically non-increasing as
+you travel up the tree.
+• Given a node n, cut off the search below that node (i.e., generate no more children) if
+o n is a “max” node and alpha(n)
+beta(i) for some “min” ancestor i of n, or
+o n is a “min” node and beta(n)
+alpha(j) for some “max” ancestor j of n.
+Algorithm
+function alphabeta(node, depth, α, β, maximizingPlayer)
+if depth = 0 or node is a terminal node
+return the heuristic value of node
+if maximizingPlayer
+for each child of node
+α := max(α, alphabeta(child, depth - 1, α, β, FALSE))
+if β ≤α
+break (* β cut-off *)
+return α
+else
+for each child of node
+β := min(β, alphabeta(child, depth - 1, α, β, TRUE))
+if β ≤α
+break (* α cut-off *)
+return β
+.

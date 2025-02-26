@@ -1,0 +1,26 @@
+Properties of set operations 
+Idempotency:   
+A A= A 
+A ∩ A= A 
+Commutativity :    
+A B =BA 
+ 
+A∩ B = B∩ A   
+Associativity :  
+(A B)  C= A (B  C) 
+(A∩ B) ∩ C  = A  ∩ (B ∩ C  )  
+ 
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 4 of 20 
+ 
+ 
+ 
+ 
+Additional Terminology 
+(a) Disjoint Sets.

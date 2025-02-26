@@ -1,0 +1,6 @@
+Timeout-Based Schemes: a transaction waits for a lock
+only for a specified amount of time. After that, the wait times out and the transaction is rolled back.
+thus deadlocks are
+not possible . simple to implement; but starvation is possible. Also difficult to determine good value of the timeout
+interval.Failure Classification: Transaction failure : Logical errors: transaction cannot complete due to
+some internal error condition.

@@ -1,0 +1,6 @@
+The workstations (clients) have
+access to the resources available on the file servers. The network operating system allows
+multiple users to simultaneously share the same resources irrespective of physical location.
+Novell Netware and Windows 2000Server are examples of client/ server network
+operating systems . Distributed Operating System: A distributed operating system is an
+operating system that runs on several machines.

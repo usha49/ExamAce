@@ -1,0 +1,5 @@
+Crystal oscillators have a much higher Q-factor (quality factor) than LC 
+oscillators, resulting in better frequency stability and lower phase noise.
+Waveform Generators
+Waveform generators produce a variety of periodic waveforms, including sine, 
+square, triangular, and sawtooth waves.

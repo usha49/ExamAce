@@ -1,0 +1,8 @@
+Context Free Languages (CFL) 
+ 
+Language Recognizer 
+A device that accepts valid strings. The FA are formalized types of language recognizer. 
+Language Generator: 
+Context free grammars are language generators, which are based on a more complete 
+understanding of the structure of the strings belonging to the language. 
+Regular expression can be also viewed as language generator. E. g.  a(a* b*) b .

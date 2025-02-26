@@ -1,0 +1,4 @@
+Secure Sockets Layer 
+(SSL) and Transport Layer Security (TLS) encrypt data transmitted over the internet, securing web 
+browsing, online banking, and email services. Internet Protocol Security (IPSec) provides security at the 
+network layer by encrypting IP packets, protecting data as it travels between networks.

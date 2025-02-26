@@ -1,0 +1,10 @@
+What are the differences between simple FSAs and a Turing machine? 
+4. What is the only possible action when the head is at the left end symbol of the tape? 
+5. Is it allowed to write the left end symbol on the tape? 
+ 
+Computing with Turing Machines 
+Introduction 
+FSAs : Stop when the input has been consumed.  If the state is final - the string is accepted, if not 
+- the string is rejected. 
+Turing machines: the tape is infinite.  
+Halting states - to stop the machine.

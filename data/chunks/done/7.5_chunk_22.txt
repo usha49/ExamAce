@@ -1,0 +1,9 @@
+The
+
+Compiled By: Er. Pradip Khanal
+Lecturer, ACEM
+primary purpose of the network operating system is to allow shared file and printer access
+among multiple computers in a network, typically a local area network (LAN), and a
+private network or to other networks. Certain standalone operating systems, such as
+Microsoft Windows NT and Digital’s OpenVMS, come with multipurpose capabilities and
+can also act as network operating systems.

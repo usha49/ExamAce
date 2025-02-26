@@ -1,0 +1,21 @@
+δ : δ1 ∪ δ2 ∪ { (q0, e, q1), (q0, e, q2)}    is defined as follows:  
+For any r ∈ K and for any a ∈    
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 14 of 30 
+ 
+δ (r, a) = δ1(r, a)  
+if r ∈ K1 
+ 
+= δ2(r, a)  
+if r ∈ K2 
+ 
+= {q1, q2 }    
+if r = q0 and a = e 
+= ø   if r = q0 and a ≠ e 
+Steps in Union of L1 and L2 
+ Create a new start state 
+ Make a e-transition from the new start state to each of the original start states.

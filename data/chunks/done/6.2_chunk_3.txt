@@ -1,0 +1,25 @@
+So, M  A and M B  
+strings of a's can be empty string so A e  or  it may consist of a leading a followed by a string 
+of a's  
+A aA 
+Similarly  
+B e 
+B bB.  
+ 
+For Example : To generate a string aaab. 
+S  aMb 
+   aAb   
+ 
+ (MA) 
+   aaAb  
+ 
+ (AaA ) 
+    aaaAb 
+ 
+ (AaA ) 
+  aaab    
+ 
+(Ae ) 
+ 
+The Context free grammar is a language generator that operates like the one above ,with some 
+such a set of rules.

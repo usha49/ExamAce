@@ -1,0 +1,6 @@
+WPA2, an improved version 
+of WPA, uses stronger encryption algorithms such as AES to enhance security. Firewalls serve as a 
+barrier between trusted and untrusted networks, filtering incoming and outgoing traffic based on 
+predefined security rules. Firewalls can be hardware-based or software-based, providing network 
+protection against unauthorized access. 
+Intrusion detection systems (IDS) monitor network activity for signs of malicious behavior.

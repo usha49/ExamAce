@@ -1,0 +1,9 @@
+Environment (E)
+The environment is the context in which the agent operates. It
+includes everything external to the agent that can affect its
+performance.
+It answers the question: What kind of world does the agent operate in?
+Types of Environments:
+Fully Observable vs. Partially Observable: Can the agent perceive the
+complete state of the environment at any time?
+Deterministic vs.

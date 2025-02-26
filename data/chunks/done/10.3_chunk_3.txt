@@ -1,0 +1,4 @@
+The bar chart, commonly known as the Gantt chart, visually represents
+project timelines and dependencies. The critical path method (CPM) identifies the longest
+sequence of dependent tasks, helping project managers determine activities that cannot be
+delayed.

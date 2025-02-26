@@ -1,0 +1,11 @@
+Pigeonhole principle can be used to show that certain languages are not 
+regular. We will use pigeonhole principle in the topic pumping lemma later.  
+ 
+1.4 Some Terminologies 
+Alphabets : 
+An alphabet is a finite, nonempty set of symbols. The alphabet of a language is normally denoted 
+by   .  
+Example :    
+ 
+Strings or Words over Alphabet : 
+A string or word over an alphabet  is a finite sequence of concatenated symbols of .

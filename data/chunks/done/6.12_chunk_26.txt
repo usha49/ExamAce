@@ -1,0 +1,15 @@
+Formally for I ≥ 0 ,we define Ei(S) inductively to be the set of states reachable from s via exactly 
+i many  e-transitions,  so that E0(s)=s and for I ≥ 0  
+Ei+1(s) =   { r ∈ Q  |  Eq ∈  Ei(s)  : r ∈ δ (q, e) } 
+ 
+=  ⋃
+δ(q, e) 
+q∈ ୉୧(ୱ) 
+ 
+E(s) 
+=  ⋃
+Ei(s) 
+୧ஹୀ ଴  
+ 
+Namely, the set of all states reachable from s via zero or more e-transitions.  
+e-closure(q0 ) denotes a set of all vertices p such that there is a path from q0 to p labeled .

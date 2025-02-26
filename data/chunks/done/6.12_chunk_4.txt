@@ -1,0 +1,11 @@
+ Finite automaton is the simplest acceptor or rejecter  for language specification 
+ 
+Uses of finite automata 
+ 
+ 
+Used in software for verifying all kinds of systems with a finite number of states, such as 
+communication protocols 
+ 
+Used in software for scanning text, to find certain patterns 
+ 
+Used in “Lexical analyzers” of compilers (to turn program text into “tokens”, e.g.

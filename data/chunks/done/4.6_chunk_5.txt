@@ -1,0 +1,35 @@
+Common examples include multiplexers, decoders, and arithmetic units.
+Example: 4-to-1 Multiplexer in VHDL:
+entity MUX4 is
+  Port ( A, B, C, D : in STD_LOGIC;
+         S          : in STD_LOGIC_VECTOR(1 downto 0);
+         Y          : out STD_LOGIC);
+end MUX4;
+architecture Behavioral of MUX4 is
+begin
+  Y <= A when S = "00" else
+       B when S = "01" else
+       C when S = "10" else
+       D;
+end Behavioral;
+Sequential Logic:
+Sequential circuits depend on current inputs and the state of the system, often 
+requiring flip-flops or registers.
+Example: D Flip-Flop in VHDL:
+entity D_FlipFlop is
+  Port ( D, CLK : in STD_LOGIC;
+         Q      : out STD_LOGIC);
+end D_FlipFlop;
+architecture Behavioral of D_FlipFlop is
+begin
+  process(CLK)
+  begin
+    if rising_edge(CLK) then
+      Q <= D;
+    end if;
+  end process;
+end Behavioral;
+Pipelining using VHDL
+Pipelining is a technique used to improve the throughput of digital systems by 
+dividing a process into multiple stages, each handled by a separate hardware 
+module.

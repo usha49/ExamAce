@@ -1,0 +1,5 @@
+This searching scheme is easy to program compared to trees. But it is
+difficult to expand, since it is based on arrays.Hash Table: A hash table is simply an array that
+is address via a hash function. It is a data structure made up of A table of some fixed size to hold
+a collection of records each uniquely identified by some key,A function called hash function
+that is used to generate index values in the table.

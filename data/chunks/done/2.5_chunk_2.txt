@@ -1,0 +1,6 @@
+It is used for temporary storage of 
+data that the processor actively uses during program execution. RAM is further divided into Static RAM 
+(SRAM) and Dynamic RAM (DRAM). SRAM uses flip-flops to store data, making it faster and more 
+expensive, while DRAM uses capacitors, which require constant refreshing but provide higher storage 
+density. ROM is a non-volatile memory that stores permanent instructions such as the system firmware 
+or BIOS.

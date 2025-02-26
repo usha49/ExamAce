@@ -1,0 +1,17 @@
+an  
+  A leaf labeled l has no siblings, that is, a vertex with a child labeled e can have no other 
+children. 
+ 
+For example, in the grammar 
+A  0A1 
+A  B 
+B  # 
+Derivation of the string 000#111 is given by the tree: 
+ 
+ 
+ 
+ 
+Formally, for an arbitrary context-free grammar G = (V, ∑, R, S), we define its parse trees and 
+their roots, leaves, and yields, as follows. 
+1. This is a parse tree for each  a є ∑. The single node of this parse tree is both the root and 
+a leaf.

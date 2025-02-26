@@ -1,0 +1,11 @@
+Similarly, 
+there is an NFA M2 = (K2,∑, δ2, q2, F2), such that L2 = L(M2).  
+We may assume that K1 ∩ K2 = ∅, (K1 and K2 are disjoint sets) because otherwise, we can give 
+new “names” to the states of K1 and K2. 
+From these two NFAs, we will construct an NFA M = (K, ∑, δ, q0, F), such that L(M) = L1 ∪ 
+L2. The construction is illustrated in Figure 2.1. The 
+NFA M is defined as follows: 
+1. K = K1 ∪ K2 ∪ {q0}, where q0 is a new state. 
+2. q0 is the start state of M. 
+3. F = F1 ∪ F2. 
+4.

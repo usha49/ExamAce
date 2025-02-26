@@ -1,0 +1,7 @@
+Modern processors often combine elements of both 
+paradigms to achieve optimal performance.
+Pipelining parallel processing
+Pipelining is a technique where multiple instruction stages (fetch, decode, 
+execute) are overlapped to improve throughput. Each stage processes a different 
+instruction, akin to an assembly line. Parallel processing involves executing 
+multiple instructions simultaneously using multiple cores or threads.

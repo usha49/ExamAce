@@ -1,0 +1,42 @@
+Algorithm: void
+BFTraversal(Graph G)
+{ for each vertex v in G
+visited[v] = false;
+for each vertex v in G
+if(visited[v]==false)
+{ enqueue(V, Q); do
+{ v=dequeue(q)
+visited[v]=true;
+visited(v);
+for each vertex w adjacent to v
+if(visited[w]==false) enqueue(w, q);
+}while(isempty(Q)==false)
+}}
+Depth First Traversal:The Depth First Traversal algorithm is roughly analogous to
+preorder tree traversal, the algorithm follows: suppose that the traversal has just visited a
+
+Soring
+3
+vertex v, and let w0, w1, …wk be the vertices adjacent to v next, visit w0 and keep
+w1, …wk waiting after visiting w0, we traverse all the vertices to which it is adjacent
+before returning to traverse w1, …wk Depth first traversal uses stack to store the adjacent
+vertices but one.
+Algorithm: void DFTraversal(Graph G)
+{for each vertex v in G
+Visited[v]=false;
+for each vertex v in G
+If(visited[v]==false)
+Traverse(v);
+}
+void Traverse(Vertex v)
+{
+Visited[v]=true;
+Visited(v);
+For each vertex w adjacent to v
+{
+If(visited[w]==false)
+Traverse(w);
+}
+}
+Subgraph: Let H be a graph with vertex set v(H) and edge set E(H) and, similarly, let G be a
+graph with vertex set V(G) and edge set E(G).

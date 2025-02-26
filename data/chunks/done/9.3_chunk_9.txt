@@ -1,0 +1,16 @@
+Frames
+Structure
+A frame is a collection of slots (attributes) and fillers (values).
+Example: A "Person" frame:
+Frame: Person
+Slot: Name
+Filler: John
+Slot: Age
+Filler: 30
+Advantages
+Effective for representing structured, hierarchical knowledge.
+Easy to add default values and constraints.
+Disadvantages
+Rigid structure may not handle dynamic changes well.
+Limited ability to represent complex relationships.
+6.

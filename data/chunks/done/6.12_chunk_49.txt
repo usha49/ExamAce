@@ -1,0 +1,8 @@
+ Make a new final state; connect the original final state (which becomes non final) to it 
+with e-transitions. 
+ Connect the new start state and new final state with a pair of e-transitions. 
+ 
+Complementation 
+The set of regular languages is closed under the complement operations: 
+ If L1  is a regular language over the alphabet , then the complement L1 = {w є  *   : w  ∉ L1} 
+is also a regular language.

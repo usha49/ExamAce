@@ -1,0 +1,12 @@
+Examples  
+See on class notes 
+ 
+Decision property 
+Decision property for a class of languages is an algorithm that takes a formal description of a 
+language (e.g., a DFA) and tells whether or not some property holds. 
+Example : Is language L empty? 
+1. The Membership Question 
+2. The Emptiness Problem 
+3. The Infiniteness Problem 
+ioenotes.edu.np
+.

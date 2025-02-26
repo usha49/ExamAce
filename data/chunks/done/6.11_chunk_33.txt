@@ -1,0 +1,45 @@
+Induction hypothesis:  
+Assume that ,for some  m ≥ 0,1+2+3+…………………+ m  =  
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 9 of 20 
+ 
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 10 of 20 
+ 
+ 
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 11 of 20 
+ 
+ 
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 12 of 20 
+ 
+ 
+ 
+Diagonalization Principle 
+Let R be a binary relation on a set A, and let D, the diagonal set for R, be {a : a є A and (a, a)  ∉  
+R}.

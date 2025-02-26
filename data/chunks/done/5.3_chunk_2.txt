@@ -1,0 +1,6 @@
+Hubs can operate as repeaters by 
+relaying messages to all connected computers. A repeater cannot do the intelligent routing performed 
+by bridges and routers. 
+Hubs are very similar to repeaters. A Hub is essentially a multiport repeater. Any electrical signal that 
+comes into one port, goes out all other ports. Hubs are fundamentally used in networks that use twisted 
+pair cabling to connect devices. They act as pathways to direct electrical signals to travel along.

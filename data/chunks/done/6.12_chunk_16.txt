@@ -1,0 +1,39 @@
+Solution 
+Let required DFA M= (K,∑, δ, s, F)  
+where 
+K= {q0,  q1 , q2, q3 , q4} 
+∑= { a ,b} 
+s=q0 
+F= {   q3 } and δ is the function tabulated below 
+ 
+δ/∑
+a
+b
+q0 
+q4
+q1
+q1
+q2
+q1
+q2
+q4
+q3
+*q3
+q4
+q3
+q4
+q4
+q4
+ 
+State diagram is given as 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 5 of 30 
+ 
+ 
+Example 5:  
+Construct a DFA which recognizes the set of all strings on ∑ = {a, b} starting with the prefix ‘ab’.

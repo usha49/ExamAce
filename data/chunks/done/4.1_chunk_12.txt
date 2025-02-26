@@ -1,0 +1,8 @@
+Common formats include fixed-length and variable-length instructions. 
+Fixed-length instructions simplify decoding but may waste memory space, while 
+variable-length instructions optimize memory usage but require more complex 
+decoding. The choice of format depends on the CPU architecture and its intended 
+applications.
+Addressing modes
+Addressing modes define how operands are specified in instructions. Common modes 
+include immediate, direct, indirect, register, and indexed addressing.

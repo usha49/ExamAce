@@ -1,0 +1,4 @@
+Then personal computers with built in raster graphics displays such as the 
+Xerox Star Apple Macintosh and the IBM PC – popularized the use of bitmap graphics for user 
+computer interaction. A bitmap is a ones and zeros representation of the rectangular array of 
+points on the screen. Each point is called a pixel, short for “picture elements”.

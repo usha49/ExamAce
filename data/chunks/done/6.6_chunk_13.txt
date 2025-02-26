@@ -1,0 +1,15 @@
+P 
+ 
+Cyclic permutation of the coordinate parameters x , y and z are used to get transformation equations for 
+rotations about the other two coordinates                       
+                                                x  y  z   
+ 
+so, 
+substituting permutations in (i) for an x axis rotation we get, 
+    y’ =   ycosθ  -  zsinθ                 z’ =   ysinθ  +  zcosθ                      x’ =  x  
+  
+3D x-axis rotation equations in homogenous coordinate form as 
+ 
+      x’          1     0         0         0 
+x 
+      y’    =   0   cosθ   -sinθ     0     .

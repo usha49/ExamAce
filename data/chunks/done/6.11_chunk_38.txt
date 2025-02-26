@@ -1,0 +1,14 @@
+Denoted 
+by * 
+Example : 0110, 11, 001 are three strings over the binary alphabet { 0, 1 } .   
+aab, abcb, b, cc are  four strings over the alphabet { a, b, c }. 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 15 of 20 
+ 
+ 
+It is not the case that a string over some alphabet should contain all the symbols from the 
+alphabet.

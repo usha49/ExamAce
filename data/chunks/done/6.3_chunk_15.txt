@@ -1,0 +1,20 @@
+When in q1 and blank on the tape, M enters q0 and moves the head one position to the right 
+Rule: 
+q1 
+□ 
+(q0, →) 
+ 
+Result: ∆ □ □ □ 
+ 
+6. When in q0 and blank on the tape, M enters h (the halting state) 
+ 
+q0 
+□ 
+(h, □) 
+ioenotes.edu.np
+
+The operation stops. 
+Note that some of the transitions are never to be performed, but they are specified because  the 
+transition relation has to be a function, otherwise the transition will not be a function. 
+ 
+1.

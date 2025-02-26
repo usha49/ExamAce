@@ -1,0 +1,6 @@
+It is 
+the driving force that causes electrons to move through a conductor, creating an 
+electric current. Current, on the other hand, is the flow of electric charge 
+through a conductor, measured in terms of the amount of charge passing through a 
+point per unit time. Voltage is analogous to the pressure in a water pipe that 
+pushes water, while current is similar to the flow of water.

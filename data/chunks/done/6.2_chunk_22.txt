@@ -1,0 +1,15 @@
+The yield of this parse tree is a. 
+2. If Ae is a rule in R, then  
+ioenotes.edu.np
+
+ 
+ is a parse tree; its root is the node labeled A, its sole leaf is the node labeled e, and its yield is e. 
+3.  If 
+ 
+Are parse trees, where n ≥ 1, with roots labeled A1, . .. , An respectively, and with yields Y1, ... , 
+Yn, and A  Al ... An is a rule in R, then 
+ 
+is a parse tree. Its root is the new node labeled A, its leaves are the leaves of its constituent parse 
+trees, and its yield is Y1... Yn. 
+ 
+4.

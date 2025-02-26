@@ -1,0 +1,6 @@
+Introduction to Data Models, Normalization, and SQL
+Data models define how data is structured, stored, and manipulated within a database system.
+They serve as a blueprint for organizing and representing data efficiently. Different types of data
+models are used in database management systems, each providing a unique way of handling
+data relationships and constraints. The most common data models include the hierarchical
+model, the network model, the relational model, and the object-oriented model.

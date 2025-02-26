@@ -1,0 +1,5 @@
+Two-phase locking does not ensure freedom
+from deadlocks . Cascading roll-back is possible under two-phase locking. To avoid this, follow a modified protocol
+called strict two-phase locking. Here a transaction must hold all its exclusive locks till it commits/aborts. Rigorous
+two-phase locking is even stricter: here all locks are held till commit/abort. In this protocol transactions can be serialized
+in the order in which they commit.

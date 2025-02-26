@@ -1,0 +1,4 @@
+ASIPs provide better performance than general-purpose processors 
+and more flexibility than custom single-purpose processors, making them ideal 
+for domains like telecommunications, multimedia, and encryption.
+.

@@ -1,0 +1,9 @@
+The ALU 
+works closely with the control unit and registers to execute instructions. 
+Modern ALUs are designed for high-speed operations and may include floating-
+point units (FPUs) for handling complex mathematical computations. The design of 
+the ALU directly impacts the CPU's computational capabilities.
+Instruction formats
+Instruction formats define how machine instructions are encoded. They typically 
+include fields for the opcode, source and destination operands, and addressing 
+modes.

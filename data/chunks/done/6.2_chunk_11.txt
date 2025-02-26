@@ -1,0 +1,15 @@
+(rule 2) 
+ 
+Derivation example 
+A possible derivation is  
+S => aSb  ( apply rule  1) 
+ioenotes.edu.np
+
+    => aaSbb ( apply rule  1) 
+    => aabb ( apply rule  2) 
+ 
+Example 2 
+Design a CFG for the language consists of all strings over the alphabet {(,), +, *, id} that 
+represent syntactically correct arithmetic expressions involving + and *. id stands for any 
+identifier, that is to say, variable name .Examples of such strings are id and id * (id * id + id), but 
+not *id + ( or + * id.

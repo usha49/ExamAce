@@ -1,0 +1,13 @@
+The SIGNED type supports signed arithmetic, while UNSIGNED is for non-negative 
+numbers.
+Example of using signed numbers in VHDL:
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+signal A, B, Result: SIGNED(7 downto 0);
+Result <= A + B; -- Signed addition
+Design of combinational and sequential logic using VHDL
+
+VHDL enables the design of both combinational and sequential circuits:
+Combinational Logic:
+Combinational circuits have outputs that depend solely on the current inputs.

@@ -1,0 +1,7 @@
+Since the files are accessed in a serial
+
+Compiled By: Er. Pradip Khanal
+Lecturer, ACEM
+manner, a concurrency control mechanism is not required, making the file management
+also very simple matter in batch OS. The problems with Batch Systems are as follows:
+Lack of interaction between the user and the job.

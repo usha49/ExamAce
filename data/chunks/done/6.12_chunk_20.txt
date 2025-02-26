@@ -1,0 +1,2 @@
+e  or  transition : state transition can made without reading a symbol 
+b.

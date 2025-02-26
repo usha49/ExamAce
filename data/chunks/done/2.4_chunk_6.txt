@@ -1,0 +1,5 @@
+Read-only memory (ROM) contains 
+permanent instructions such as firmware, while random-access memory (RAM) provides temporary 
+storage for data being processed. Input and output devices allow the microprocessor to interact with 
+external systems. Input devices such as keyboards and sensors send data to the processor, while output 
+devices such as monitors and printers display the results of computation.

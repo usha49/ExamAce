@@ -1,0 +1,8 @@
+Heap Sort Efficiency:
+No of comparisons and assignments Worst-case: O(nlogn) ;Average case: O(nlogn).
+Hence time complexity of heap sort is O(nlogn) for both worst case and average
+case and space complexity is O(1). In average case, it is not as efficient as quick sort,
+
+Soring
+16
+however, it is far superior to quick sort in worse case.

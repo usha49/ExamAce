@@ -1,0 +1,7 @@
+To show this: 
+– Show we can express a DFA as an equivalent RE 
+– Show we can express a RE as an e-NFA. Since the e-NFA can be converted to a DFA and the 
+DFA to an NFA, then RE will be equivalent to all the automata we have described. 
+ 
+ 
+Theorem : A language is regular if and only if it is accepted by a finite automaton.

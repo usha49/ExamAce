@@ -1,0 +1,4 @@
+Fig: One to one function (Injection) 
+(b) Onto function (Surjection): A function f : A B is said to be an onto function if each element 
+of B is the image of some element of A. i.e., f :AB is onto if the image of f is the entire 
+codomain, i.e. if f (A) = B. i.e., f maps A onto B.

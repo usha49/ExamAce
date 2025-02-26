@@ -1,0 +1,5 @@
+They provide high bandwidth, long-distance transmission, and immunity to 
+electromagnetic interference, making them ideal for high-speed networks and telecommunications. 
+Unguided transmission media, also known as wireless media, transmit data through electromagnetic 
+waves without requiring a physical connection. These media include radio waves, microwaves, and 
+satellite communication.

@@ -1,0 +1,16 @@
+The Two-Phase Locking Protocol :This is a
+protocol
+which
+ensures
+conflict-serializable
+schedules.
+Phase
+1:
+Growing
+Phase
+:transaction
+may
+obtain
+locks ,transaction may not release locks .Phase 2: Shrinking Phase :transaction may release locks ,transaction may not
+obtain locks . The protocol assures serializability. It can be proved that the transactions can be serialized in the order of
+their lock points (i.e. the point where a transaction acquired its final lock).

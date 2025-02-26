@@ -1,0 +1,5 @@
+ISDN architecture consists of multiple channels, 
+including the bearer (B) channel for data transmission, the delta (D) channel for signaling and control, 
+and hybrid channels that combine both functions. ISDN supports faster data transfer rates than 
+traditional analog telephone systems and is used for applications such as video conferencing, remote 
+access, and high-speed internet.

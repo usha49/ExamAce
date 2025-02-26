@@ -1,0 +1,6 @@
+ When pushing symbol x, the configuration changes from (q, a.w, ε.t) to (qi, w, x.t). 
+ When popping symbol x, the configuration changes from(q, a.w, x.t) to (qi,w, t). 
+ When we don’t wish the stack to change at all in a computation step, the machine moves 
+from a configuration (q, a·w, ε·t) to (qi,w, ε.t). 
+ Finally, on the occasion that we actually do wish to change the symbol c at the top of stack 
+with symbol d, the configuration (q, a.w, c.t) changes to (qi,w, d.t).

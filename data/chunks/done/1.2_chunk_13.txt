@@ -1,0 +1,7 @@
+Resonance phenomena are critical in the design and analysis of AC circuits for 
+achieving desired frequency responses.
+ 
+active and reactive power
+In AC circuits, the concept of power is divided into active and reactive power. 
+Active power, measured in watts, represents the real power consumed by resistive 
+elements to perform useful work.

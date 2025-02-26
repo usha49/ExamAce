@@ -1,0 +1,7 @@
+An array-based implementation
+stores elements in a fixed-size sequential block of memory, whereas a linked list dynamically
+allocates memory. Stacks and queues can also be implemented as lists, where stacks allow
+only push and pop operations at one end, while queues allow insertion at the rear and removal
+from the front.
+A static list structure has a fixed size, meaning memory is allocated at the time of declaration
+and cannot be changed later. Examples include arrays.

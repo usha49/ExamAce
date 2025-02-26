@@ -1,0 +1,9 @@
+In fig above fig (a) is Finite automata and fid  (d) is 
+Generalized Finite Automata of fig a. 
+ 
+Pumping Lemma for Regular Languages 
+Let L be a regular language. There is an integer n ≥  1 such that any string W  є  L with |w| ≥ n 
+can be rewritten as W = xyz such that  
+ y ≠ e,  
+ |xy| ≤  n, and  
+ xyiz є  L for each i ≥  0.

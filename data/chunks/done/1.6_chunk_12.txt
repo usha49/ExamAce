@@ -1,0 +1,5 @@
+They feature a robust construction with large junction areas to manage heat 
+dissipation effectively. Power BJTs operate in the active region for 
+amplification and the saturation or cutoff regions for switching. Their 
+performance is characterized by parameters like current gain, thermal 
+resistance, and switching speed.

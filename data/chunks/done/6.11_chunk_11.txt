@@ -1,0 +1,9 @@
+The objects comprising a set are called its 
+elements or members. For example, b is an element of the set L; in symbols, b є  L. Sometimes 
+we simply say that b is in L, or that L contains b. On the other hand, z is not an element of L, and 
+we write z є  L. 
+Singleton set 
+A set may have only one element; it is then called a singleton. For example, {1} is the set with 1 
+as its only element; thus {1} and 1 are quite different.  
+Empty set 
+There is also a set with no element at all.

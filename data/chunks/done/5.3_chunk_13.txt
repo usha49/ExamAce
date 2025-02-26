@@ -1,0 +1,5 @@
+Routing Protocols: RIP, OSPF, BGP, Unicast and Multicast Routing Protocols 
+RIP (Routing Information Protocol) is the distance vector routing protocol which means that each router 
+may not know where the final destination network is, but it does know in which direction it exists and 
+how far away it is. It employs the hop count as the routing metrics. Hop count is the number of a router 
+the packet must travel till it reaches its destination.

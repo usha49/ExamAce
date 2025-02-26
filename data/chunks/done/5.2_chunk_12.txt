@@ -1,0 +1,6 @@
+Stop-and-Wait ARQ sends a frame and waits for 
+an acknowledgment before transmitting the next frame. If no acknowledgment is received in time, the 
+sender retransmits the frame. Piggybacking is used in bidirectional communication, where 
+acknowledgements are placed in data frame headers to save bandwidth. Go-Back-N ARQ allows the 
+sender to send multiple frames without receiving acknowledgments for each. If a frame is lost, all 
+subsequent frames are retransmitted.

@@ -1,0 +1,9 @@
+Write-through policy updates both the cache and main memory 
+simultaneously, ensuring consistency but increasing latency. Write-back policy 
+updates the main memory only when the cached data is replaced, reducing write 
+operations but requiring additional control mechanisms to maintain consistency.
+ 
+Number of caches
+Modern CPUs often include multiple levels of cache (L1, L2, and sometimes L3) to 
+optimize performance. L1 cache is the fastest but smallest, located closest to 
+the CPU.

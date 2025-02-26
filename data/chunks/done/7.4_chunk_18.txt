@@ -1,0 +1,5 @@
+a transaction may die several times before acquiring needed data item wound-wait
+scheme — preemptive : older transaction wounds (forces rollback) of younger transaction instead of waiting for it.
+Younger transactions may wait for older ones. may be fewer rollbacks than wait-die scheme. Both in wait-die and in
+wound-wait schemes, a rolled back transactions is restarted with its original timestamp. Older transactions thus have
+precedence over newer ones, and starvation is hence avoided.

@@ -1,0 +1,7 @@
+Thus,
+the programs that do not require interaction are well served by batch OS. Since the jobs
+are executed in the FIFO manner, the batch OS require very simple CPU scheduling
+techniques. In addition, batch system allow only one user program to reside in the
+memory at a time, thus memory management is also very simple affairs in batch OS.
+Since only one program is in execution at a time any time critical device management is
+not required, which simplifies the I/O management.

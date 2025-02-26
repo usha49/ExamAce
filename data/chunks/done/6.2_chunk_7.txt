@@ -1,0 +1,24 @@
+(SENTENCE) (NOUN-PHRASE) (VERB-PHRASE) 
+ (CMPLX-NOUN)(VERB-PHRASE) 
+ (ARTICLE) (NOUN) (VERB-PHRASE) 
+ a (NOUN)(VERB-PHRASE) 
+ a boy (VERB-PHRASE) 
+ a boy (CMPLX-VERB) 
+ a boy (VERB) 
+ a boy sees 
+ 
+ 
+ 
+ioenotes.edu.np
+
+Formal Definition 
+A Context free grammar G is quadruple (V, ∑, R, S) , where  
+ V is an alphabet  (finite set of variables) 
+ ∑ the set of terminals (is a subset of V) 
+ R the set of rules (is finite subset of V-∑ x V*) 
+ S the start symbol (is an element of V- ∑) 
+Here the member of V - ∑ is called non terminals 
+ 
+Derivation of string from CFG 
+A derivation of a string w in a given grammar G is a sequence of substitutions starting with the 
+start symbol and resulting in w.

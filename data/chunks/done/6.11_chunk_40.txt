@@ -1,0 +1,15 @@
+The length of the empty string e is zero, i.e., | e | = 0. 
+ 
+Empty string:  
+The string of zero length is empty string. It is denoted by e or .  
+ 
+Reverse string: 
+IF w= w1w2….wn where each wi  є   , the reverse of w is  wnwn-1……w1 
+ 
+Substring: 
+Z is a substring of w if z appears consecutively within w .  
+e.g " deck" is a substring of abcdeckabcjkl. 
+ 
+Concatenation 
+Two strings over the same alphabet can be combined to form a third by operation of 
+concatenation.

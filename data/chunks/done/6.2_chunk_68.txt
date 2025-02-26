@@ -1,0 +1,7 @@
+Regular Grammars 
+A Context free grammar G = (V, ∑, R, S)  is said to be regular if each production has a right 
+hand side that consists of a string of terminals followed by at most one non terminal.  
+ 
+ A grammar is regular if it is either left- or right-linear. 
+ A linear grammar may have a mix of left and right productions.  Its only restriction is that 
+there is at most one symbol on the right.

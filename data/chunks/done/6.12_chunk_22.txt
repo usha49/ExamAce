@@ -1,0 +1,12 @@
+Solution: 
+Let required NFA M=   (K, ∑, ∆, s, F), where 
+K= { qO , ql, q2, q3, q4 } 
+∑= {a, b } 
+s= qO 
+F= { q4  } and  
+ 
+ 
+and state diagram is given by  
+ 
+ 
+When M is given the string bababab as input, several different sequences of moves may ensue.

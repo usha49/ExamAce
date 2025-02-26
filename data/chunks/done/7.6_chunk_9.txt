@@ -1,0 +1,7 @@
+A
+file is a collection of related data stored under a specific name, while a directory is a container
+that holds files and other directories. File paths specify the location of a file in the directory
+hierarchy, either as an absolute path (full path from the root directory) or a relative path (path
+relative to the current directory).
+File system implementation involves organizing files and directories efficiently to allow quick
+access and retrieval.

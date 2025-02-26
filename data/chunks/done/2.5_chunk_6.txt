@@ -1,0 +1,6 @@
+Interfacing I/O and Memory 
+Interfacing in a microprocessor system refers to the connection between the microprocessor, memory, 
+and peripheral devices to facilitate data transfer. Memory interfacing involves connecting external 
+memory modules to the processor's address, data, and control buses. The processor selects memory 
+locations using the address bus, transfers data through the data bus, and manages read/write operations 
+using control signals such as RD (Read) and WR (Write).

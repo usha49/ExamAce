@@ -1,0 +1,2 @@
+This model tracks the current state based on past
+percepts and actions.

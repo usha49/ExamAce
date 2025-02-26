@@ -1,0 +1,6 @@
+The algorithm finds the
+location 'loc' of item in ‘a’ or give the failure message.Read the item to be
+searched.[Initialize counter] set loc= -1,j=0[Search for item]Repeat while j<n If a[j] = item
+Set loc = j Break Else Set j = j+1 Wend [Successful] if loc>=0 Print the searched value’s
+(item’s) position (loc) [Unsuccessful] else Print the searching item is not found. [END]
+Binary Search: Binary search is an extremely efficient algorithm.

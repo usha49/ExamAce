@@ -1,0 +1,13 @@
+To prove this property, P 
+using mathematical induction following are the steps:  
+Basic Step: 
+First show that property P is true for 0 or 1 
+Induction Hypothesis: 
+Assume that property P holds for n 
+Induction Step:  
+Using induction hypothesis, show that P is true for n+1 
+Then by the principle of mathematical induction, P  is true for all natural numbers 
+Example 
+Let us show that for any n ≥ 0, 1+2+3+…………………+ n  =  
+ 
+Basic Step. Let n=0.

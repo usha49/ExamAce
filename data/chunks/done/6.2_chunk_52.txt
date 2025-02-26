@@ -1,0 +1,7 @@
+ioenotes.edu.np
+
+The Languages of a PDA 
+We have assumed that a PDA accepts its input by consuming it and entering an accepting state. 
+We call this approach acceptance by final state. We may also define for any PDA the language 
+accepted by empty stack, that is, the set of  strings that cause the PDA to empty it stack, starting 
+from the initial ID.

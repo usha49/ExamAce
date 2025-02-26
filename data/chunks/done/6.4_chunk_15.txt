@@ -1,0 +1,5 @@
+User interfaces
+most applications have user interfaces that rely on the desktop window systems to manage 
+multiple simultaneous activities and on point and click facilities to allow users to select menu 
+items, icons, and objects on the screen These activities fall under computer graphics. Typing is 
+necessary only to input text to be stored and manipulated.

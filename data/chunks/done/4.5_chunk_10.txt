@@ -1,0 +1,9 @@
+This is achieved through 
+context switching, where the OS saves the state of one task and loads the state 
+of another. Multitasking can be:
+Preemptive: The OS forcibly interrupts a task to switch to another.
+Cooperative: Tasks voluntarily yield control to the OS.
+Multitasking enhances system responsiveness and resource utilization.
+Task Scheduling 
+Task scheduling determines the order and timing of task execution to optimize 
+system performance.

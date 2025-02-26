@@ -1,0 +1,6 @@
+The vertices are
+represented by points or circles and the edges are line segments connecting the vertices.
+If the graph is directed, then the line segments have arrow heads indicating the direction.
+Directed Graphs: If every edge (i, j), in E(G) of a graph G is marked by a direction
+from i to j, then the graph is called directed graph. It is often called diagraph. In edge e =
+(i, j), we say, e leaves i and enters j. In diagraphs, self loops are allowed.

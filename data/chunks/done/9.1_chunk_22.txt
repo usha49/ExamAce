@@ -1,0 +1,12 @@
+Their behavior is defined by
+condition-action rules, also called production rules or if-then rules.
+These agents are the simplest type but are limited in environments
+that require memory or knowledge of past states.
+Key Characteristics:
+No internal model of the world.
+Works best in fully observable environments.
+Fails in partially observable or dynamic environments.
+Efficient for straightforward, repetitive tasks.
+Model Based,
+Model-based reflex agents maintain an internal model of the
+environment.

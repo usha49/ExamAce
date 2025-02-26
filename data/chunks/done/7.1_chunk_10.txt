@@ -1,0 +1,5 @@
+A dynamic list structure allows memory
+allocation and deallocation as needed. Linked lists are an example of dynamic list structures,
+where elements (nodes) can be added or removed without predefined constraints on size.
+A linked list consists of nodes, where each node contains data and a pointer to the next node in
+the sequence.

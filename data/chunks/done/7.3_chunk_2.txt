@@ -1,0 +1,6 @@
+Among these,
+the relational model is the most widely used in modern databases, as it provides a structured
+and efficient way to store and retrieve data using tables, relationships, and constraints.
+Data abstraction is the process of hiding the complexity of data storage and representation
+while providing a simplified view to the user. It is categorized into three levels: physical level,
+logical level, and view level.

@@ -1,0 +1,7 @@
+In
+heap sort, the heap creation takes time, but the retrieval takes no time.Heap
+Sort:The heap sort algorithm sorts by representing its input as a heap in the
+array.Two phases in sorting:Converts the array representation of the tree into a
+heap;Repeatedly moves the largest element to the last position by swapping the
+firstelement with the last element and adjusts the heap property at each stage in the
+remaining elements.

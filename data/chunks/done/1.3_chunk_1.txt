@@ -1,0 +1,7 @@
+Alternating current fundamentals:
+Principle of generation of alternating voltages and currents
+The generation of alternating voltage and current is based on the principle of 
+electromagnetic induction, discovered by Michael Faraday. When a conductor moves 
+through a magnetic field, or when the magnetic field surrounding a stationary 
+conductor varies, an electromotive force (EMF) is induced in the conductor. In 
+practical systems, this is achieved using rotating machines like alternators.

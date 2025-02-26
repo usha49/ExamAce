@@ -1,0 +1,4 @@
+Interest represents the cost of borrowing
+money or the return on investment, and it can be categorized into simple interest, where interest
+is calculated on the principal amount, and compound interest, where interest is accrued on both
+the principal and accumulated interest over time.

@@ -1,0 +1,8 @@
+Reactive power, measured in volt-amperes 
+reactive (VAR), represents the power that oscillates between the source and 
+reactive components, such as inductors and capacitors, without being dissipated. 
+The combination of these powers forms the apparent power, which is represented 
+as a vector sum in the power triangle. Understanding the interplay between 
+active and reactive power is crucial in power system design and operation, as it 
+affects the efficiency and stability of electrical systems.
+.

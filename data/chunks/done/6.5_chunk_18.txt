@@ -1,0 +1,7 @@
+Composite Transformation
+With the matrix representation of transformation equations it is possible to setup a matrix for any sequence of 
+transformations as a composite transformation matrix by calculating the matrix product of individual 
+transformation.
+For column matrix representation of coordinate positions we form composite transformation by multiplying 
+matrices in order from right to left.
+i.

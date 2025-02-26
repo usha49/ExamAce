@@ -1,0 +1,4 @@
+Engineers use different types of scales, including full
+scale (1:1), where the drawing size is the same as the actual size, enlarged scales (e.g., 2:1 or
+10:1) for small components, and reduced scales (e.g., 1:10 or 1:100) for large structures like
+buildings or mechanical assemblies.

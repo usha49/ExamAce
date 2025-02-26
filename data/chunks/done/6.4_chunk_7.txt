@@ -1,0 +1,6 @@
+spreadsheet programs) use graphics extensively in the user interface and for visualizing and 
+manipulating the application specific objects.
+Anil Verma, IOE Pulchowk
+
+Even people who do not use computers encounter computer graphics in TV commercials and as 
+cinematic special effects.

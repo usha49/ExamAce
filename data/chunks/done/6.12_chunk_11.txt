@@ -1,0 +1,11 @@
+We denote the reflexive, transitive closure of 
+is read, (q, 
+w) yields (q', w') (after some number, possibly zero, of steps).  
+ 
+A string w є ∑* is said to be accepted by M if and only if there is a state q є F such that  
+(s, w) 
+ (q, e). Finally, the language accepted by M, L(M), is the set of all strings accepted by M. 
+ 
+Example 1 
+Design a DFA that accepts the language L which has set of strings in {a, b } *  that have even number of 
+b's .

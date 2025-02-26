@@ -1,0 +1,7 @@
+They are
+classified into strong entities, which have a primary key to uniquely identify each record, and
+
+weak entities, which do not have a unique identifier and rely on a strong entity for identification.
+Attributes define the characteristics of an entity, and they can be simple, composite, derived, or
+multivalued. Keys are attributes or sets of attributes used to uniquely identify records within a
+table.

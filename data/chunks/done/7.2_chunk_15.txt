@@ -1,0 +1,7 @@
+If T is a
+subgraph of G and contains all the vertices but no cycles/circuits, then ‘T’ is said to be spanning
+tree of G.In other words, the spanning tree of an undirected graph G is the free tree formed from
+graph edges which connects all the vertices of G.
+Minimum Spanning Tree:The cost of a spanning tree of a weighted, undirected graph is the
+sum of the costs (weights) of the edges in tree.The minimum spanning tree of a weighted
+undirected graph is the spanning tree that connects all the vertices in G at lowest cost.

@@ -1,0 +1,7 @@
+In a balanced three-phase 
+system, the sum of instantaneous voltages or currents is always zero, 
+eliminating the need for a neutral conductor in transmission. Three-phase 
+systems can be connected in either a star (Y) or delta (Δ) configuration, each 
+with distinct characteristics and applications. The star connection allows for 
+the provision of a neutral point, making it suitable for systems requiring 
+multiple voltage levels.

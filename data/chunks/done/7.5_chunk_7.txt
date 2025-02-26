@@ -1,0 +1,6 @@
+Also, dealing with them is
+easier than directly dealing with hardware. Thus, Operating System hides the complexity
+of hardware and presents a beautiful interface to the users. Just as the operating system
+shields (protect from an unpleasant experience) the programmer from the disk hardware
+and presents a simple file-oriented interface, it also conceals a lot of unpleasant business
+concerning interrupts, timers, memory management, and other low-level features.

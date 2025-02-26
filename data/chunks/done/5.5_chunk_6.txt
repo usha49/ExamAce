@@ -1,0 +1,6 @@
+IMAP (Internet Message Access Protocol) is a standard protocol for accessing e-mail from your local 
+server. IMAP is a client/server protocol in which e-mail is received and held for you by your Internet 
+server. 
+DNS (Domain Name System) 
+The Domain Name System (DNS) works on the Client-Server model. It uses the UDP protocol for 
+transport layer communication. DNS uses a hierarchical domain-based naming scheme.

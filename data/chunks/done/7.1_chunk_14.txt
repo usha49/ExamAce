@@ -1,0 +1,6 @@
+Trees are widely used in
+database indexing, file systems, artificial intelligence, and hierarchical data representation.
+A binary tree is a type of tree where each node has at most two children. Operations in a binary
+tree include insertion, deletion, and searching. Insertion involves adding a new node while
+maintaining the tree structure. Searching is performed to find whether a specific element exists
+within the tree.

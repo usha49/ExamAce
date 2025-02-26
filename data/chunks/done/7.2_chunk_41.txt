@@ -1,0 +1,6 @@
+Hash Function: The basic idea in hashing is
+the transformation of a key into the corresponding location in the hash table. This is done by a
+hash function. A hash function can be defined as a function that takes key as input and
+transforms it into a hash table index usually denoted by H. Some popular hash functions are
+Folding, Mid square method,Division method. Hash of Key Let H be a hash function and k is a
+key then H(k) is called hash-of-key.

@@ -1,0 +1,6 @@
+Advantages are: increased processor and disk utilization, leading to better transaction
+throughput , reduced average response time for transactions: short transactions need not wait behind long ones.
+Concurrency control schemes – mechanisms
+to achieve isolation that is, to control the interaction among the
+concurrent transactions in order to prevent them from destroying the consistency of the database Serializability : Each
+transaction preserves database consistency.

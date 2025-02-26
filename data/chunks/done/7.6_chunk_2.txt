@@ -1,0 +1,6 @@
+Memory addressing can be physical or logical, where
+logical addresses are mapped to physical addresses using the memory management unit
+(MMU).
+Swapping is a memory management technique where processes are temporarily moved from
+main memory to secondary storage (such as a hard disk) to free up space for other processes.
+When required, the process is swapped back into memory for execution.

@@ -1,0 +1,14 @@
+It involves encoding information
+about the world into a format that machines can understand and manipulate.
+Purpose
+Facilitates reasoning and decision-making by providing a structured way to store and retrieve
+knowledge.
+Enables machines to interpret and understand complex information.
+Mappings
+Real-world to Symbolic Representation:
+Translates real-world entities (e.g., objects, events) into symbolic forms (e.g., variables, predicates).
+Example: Representing "It is raining" as a proposition RR.
+Symbolic to Computational Representation:
+Encodes symbols into data structures (e.g., graphs, logical formulas) that computers can process.
+Example: Representing relationships between objects using a graph structure.
+2.

@@ -1,0 +1,4 @@
+Introduction to Data Structure, Lists, Linked Lists, and Trees
+Data structures are fundamental concepts in computer science that help in organizing and
+storing data efficiently. They provide a structured way to manage and manipulate data, enabling
+efficient searching, sorting, and retrieval.

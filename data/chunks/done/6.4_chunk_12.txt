@@ -1,0 +1,3 @@
+The General Motors DAC system for 
+automobile design and the Itek-Digitek system for lens design were pioneering efforts that 
+showed the utility of graphical interaction in the iterative design cycles common in engineering.

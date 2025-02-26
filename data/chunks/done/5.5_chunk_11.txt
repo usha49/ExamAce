@@ -1,0 +1,6 @@
+PRTG (Paessler Router Traffic Grapher) is a server uptime and utilization, network monitoring, and 
+bandwidth usage software package for server infrastructure from Paessler AG. It can monitor and 
+classify bandwidth usage in a network using SNMP, packet sniffing, and Netflow. 
+SNMP (Simple Network Management Protocol) is a tool (protocol) that allows for remote and local 
+management of items on the network including servers, workstations, routers, switches, and other 
+managed devices.

@@ -1,0 +1,7 @@
+ Reverse the direction of every arc 
+ 
+ 
+Steps for Intersection and Set Difference 
+Just as with the other operations, it can be proved that regular languages are closed under 
+intersection and set difference by starting with automata for the initial languages, and 
+constructing a new automaton that represents the operation applied to the initial languages.

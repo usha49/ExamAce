@@ -1,0 +1,28 @@
+E(q0) = { q0, q1,q2,q3 }  
+ 
+δ'(s', a)= E(q0) U E(q4) = { q0, q1,q2,q3 , q4} 
+Similarly, 
+ 
+δ'(s', b)= E(q2) U E(q4)=  { q2,q3 , q4} 
+Again for newly introduced states 
+δ'({ q0, q1,q2,q3 , q4} , a)= { q0, q1,q2,q3 , q4} 
+δ'({ q0, q1,q2,q3 , q4} , b)= {q2,q3 , q4} 
+Again for newly introduced states  {q2,q3 , q4} 
+δ'({q2, q3 , q4} , a)= {q3 , q4} 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 11 of 30 
+ 
+δ'({q2,q3 , q4} , b)= {q3 , q4} 
+Again, 
+δ'({q3 , q4} , a)= {q3 , q4} 
+δ'({q3 , q4} , b)= { Ø } 
+and finally 
+δ'({Ø , a)= { Ø } 
+δ'({Ø , b)= { Ø } 
+ 
+F' , the set of final states contains each set of states of which q4 is member , since q4 is 
+the sole final member of  F.

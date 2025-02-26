@@ -1,0 +1,17 @@
+The DMA controller takes 
+over the bus, performs the transfer, and notifies the CPU upon completion via an 
+interrupt.
+Key steps in DMA operation:
+The CPU initializes the DMA controller with the memory address, data size, and 
+device information.
+The DMA controller requests bus access from the CPU.
+Upon gaining control of the bus, the controller transfers data directly between 
+the memory and the device.
+Once the transfer is complete, the controller generates an interrupt to inform 
+the CPU.
+The DMA transfer rate is higher than that of programmed or interrupt-driven I/O, 
+making it ideal for high-speed peripherals like disk drives and network 
+
+adapters.
+Characteristics of multiprocessors
+Multiprocessors consist of two or more CPUs working together to execute tasks.

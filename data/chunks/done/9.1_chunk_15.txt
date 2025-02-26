@@ -1,0 +1,41 @@
+PEAS
+stands for:
+P
+Performance Measure
+E
+Environment
+A
+Actuators
+S
+Sensors
+Each of these components defines a crucial aspect of an agent’s
+functionality.
+The performance measure defines the criteria by which the success of
+an agent is evaluated.
+It answers the question: What is considered a good outcome for the
+agent?
+
+The performance measure should be well-defined, reflecting the
+desired outcomes rather than the internal process of the agent.
+It is not about how the agent achieves the goal but about how well
+the goal is achieved.
+Examples of Performance Measure:
+Agent Performance Measure
+Autonomous Car
+Safety, travel time, passenger comfort, fuel
+efficiency.
+Vacuum Cleaner Robot
+Cleanliness, battery efficiency, coverage.
+Search Engine
+Relevance of search results, user satisfaction.
+Medical Diagnosis System
+Accuracy of diagnosis, speed, patient
+recovery rate.
+Key Considerations for Performance Measure:
+Completeness: It should consider all relevant aspects (e.g., a car
+shouldn't drive fast but dangerously).
+Balance: Avoid over-optimizing one criterion (e.g., a vacuum robot
+cleaning the same spot repeatedly to ensure it is "clean").
+Trade-offs: Often involves balancing multiple goals (e.g., speed vs.
+safety).
+2.

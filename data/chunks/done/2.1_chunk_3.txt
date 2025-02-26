@@ -1,0 +1,4 @@
+The hexadecimal system, base 16, consists of digits 0 to 9 and letters A to F,
+where each hexadecimal digit represents four binary bits, making it useful for compact data
+representation in computing and memory addressing.
+Logic levels define voltage ranges representing binary states.

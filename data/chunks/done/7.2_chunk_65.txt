@@ -1,0 +1,4 @@
+of comparisons:Average case: O(n log n) Worst case: O(n2) .No of
+interchanges (swaps) Average case: O(n log n) Worst case: O(n2).Hence, the time complexity
+of QuickSort is O(n log n) for average case and O(n2) for worst case.Merge Sort:
+The merge sort also uses divide and conquer approach. It divides the list into sub lists.

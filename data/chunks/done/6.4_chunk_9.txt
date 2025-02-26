@@ -1,0 +1,6 @@
+The theme is that learning how to program and use computers now includes 
+learning how to use simple 2D graphics
+Early history of computer graphics
+We need to take a brief look at the historical development of computer graphics to place today’s 
+system in context. Crude plotting of hardcopy devices such as teletypes and line printers dates 
+from the early days of computing.

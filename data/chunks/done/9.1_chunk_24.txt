@@ -1,0 +1,16 @@
+When the environment is partially observable,
+the agent uses its internal model to fill in the gaps about
+unobservable parts.
+The model describes how the environment evolves (state transition)
+and how the agent’s actions affect the environment.
+Key Characteristics:
+Maintains an internal state.
+Uses a model of the environment to predict unobservable aspects.
+Suitable for partially observable environments.
+Updates the internal state continuously as it perceives and acts.
+Goal Based,
+Goal-based agents choose actions by considering future consequences
+and select actions that achieve specific goals.
+Unlike reflex agents, they evaluate the desirability of different
+sequences of actions rather than reacting to individual percepts.
+A goal is a desired state of the environment.

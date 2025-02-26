@@ -1,0 +1,5 @@
+Hardwired control units use 
+fixed logic circuits to generate control signals, offering high speed but 
+limited flexibility. Microprogrammed control units rely on microinstructions 
+stored in control memory, enabling easier modifications but at the cost of 
+slower execution.

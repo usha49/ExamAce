@@ -1,0 +1,10 @@
+Configuration: determined by the current state, the state of the tape, and the position of the 
+head. 
+e.g . (q1, 
+ # a ) is a configuration. (written informally) 
+Formal definition of a configuration: 
+Let M = (K, ∑, δ, s, H) be a Turing machine. A configuration of M is a member of 
+K x 
+∑* x (∑* (∑ - {#})  {e}) 
+When M is in a given configuration C1 and we apply the transition function, another 
+configuration C2 is obtained.

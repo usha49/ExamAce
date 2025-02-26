@@ -1,0 +1,6 @@
+The operating system
+provides a variety of services that programs can obtain using special instructions called
+system calls.Types of Operating System :Batch Processing: In the batch system requires
+the grouping of similar jobs which consists of programs data and system commands. The
+instructions, data and some controlled information are submitted to the computer operator
+in the form of job. The users are not allowed to interact with the computer system.

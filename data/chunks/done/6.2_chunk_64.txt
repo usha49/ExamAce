@@ -1,0 +1,6 @@
+And not all context-free languages are accepted by deterministic 
+pushdown automata (e.g WWR   is context free language but not accepted by Deterministic PDA 
+but can be accepted by non deterministic PDA) 
+ 
+Theorem: The intersection of a context-free language with a regular language is a context-free 
+language.

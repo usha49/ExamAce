@@ -1,0 +1,8 @@
+A x B = { (x, y) : x є A and y  є B }  
+1.3 Relations and Functions 
+Definition of Relation: A relation on sets S and T is a set of ordered pairs (s, t), where 
+(a) s  є  S  (s is a member of S ) 
+(b) t  є  T 
+(c) S and T need not be different 
+(d) The set of all first elements in the “domain” of the relation, and 
+(e) The set of all second elements is the “range” of the relation.

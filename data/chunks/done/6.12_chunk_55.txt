@@ -1,0 +1,11 @@
+L1 ∩ L2 = ∑* - (( ∑*-L1 ) U ( ∑*-L2 ))  
+ 
+Indirect way to proof is 
+ 
+Direct Way to proof 
+ 
+Proof: Let A and B be DFA’s whose languages are L1 and L2, respectively. 
+ Construct C, the product automaton of A and B. 
+ Make the final states of C be the pairs consisting of final states of both A and B. 
+Since L1 is regular, there is,  an DFA  M1 = (K1, ∑, δ1, q1, F1), such that L1 = L(M1). Similarly, 
+there is an DFA M2 = (K2, ∑, δ2, q2, F2), such that L2 = L(M2).

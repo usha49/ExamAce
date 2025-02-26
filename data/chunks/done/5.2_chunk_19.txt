@@ -1,0 +1,7 @@
+VLANs (Virtual Local Area Networks) logically group devices within a network, improving security, 
+reducing broadcast traffic, and enhancing management. VLANs can be configured statically or 
+dynamically using VLAN Membership Policy Servers (VMPS). WLAN (Wireless LAN), based on IEEE 802.11 
+standards, enables wireless networking through infrastructure or ad-hoc modes. Wireless networks 
+offer mobility, cost-effectiveness, and flexibility in various environments. 
+ 
+.

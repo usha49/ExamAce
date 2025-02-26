@@ -1,0 +1,6 @@
+This technique is known as linear
+probing.Disadvantages of linear probing: One main disadvantage of linear probing is that,
+records tend to cluster, that is, the records appear next to one another when the table is about
+half full.
+Clustering occurs when a hash function is biased towards the placement of keys into a given
+region within the storage space.

@@ -1,0 +1,6 @@
+When a computer has multiple users, the
+operating system manages and protects the memory I/O devices. The operating system
+also keeps in trace that who is using which resource and to whom to the grant resource.
+Virtual Machine Management : The architecture (instruction set, memory, I/O, and bus
+structure) of most computers at the machine level language is primitive and awkward to
+program, especially for input/output operations.

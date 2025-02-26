@@ -1,0 +1,7 @@
+Tuned amplifiers are extensively used in 
+communication systems, such as radio and TV receivers, to filter and amplify 
+specific signals while rejecting noise and interference. Their performance 
+depends on factors like quality factor (Q), bandwidth, and stability.
+Op-Amps
+Operational amplifiers are highly versatile electronic components used in a 
+myriad of analog applications.

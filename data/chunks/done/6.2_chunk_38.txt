@@ -1,0 +1,50 @@
+((f, b, b),(f, e)) // pop b on reading of input symbol b 
+ 
+State  diagram 
+ 
+ 
+ 
+ 
+ 
+ 
+e.g Lets check for the string abbcbba  
+ 
+State 
+Unread input 
+stack content 
+Transition used 
+s 
+abbcbba 
+e 
+- 
+s 
+bbcbba 
+a 
+1 
+s 
+bcbba 
+ba 
+2 
+s 
+cbba 
+bba 
+2 
+f 
+bba 
+bba 
+3 
+f 
+ba 
+ba 
+5 
+f 
+a 
+a 
+5 
+f 
+e 
+e 
+4 
+ 
+ Here when machine sees a 'c' in input string , it switches from state s to f without 
+operating on its stack.

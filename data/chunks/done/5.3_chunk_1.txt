@@ -1,0 +1,6 @@
+Chapter 4: Network Layer 
+Internetworking & Devices: Repeaters, Hubs, Bridges, Switches, Router, Gateway 
+Repeaters are used in transmission systems to replicate or regenerate analog or digital signals distorted 
+by transmission loss. Analog Repeaters frequently can only amplify the signal while Digital Repeaters can 
+reconstruct a signal to near its original quality. In a data network, a repeater can relay messages 
+between subnetworks that use different protocols or cable types.

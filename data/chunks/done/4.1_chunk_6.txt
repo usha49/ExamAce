@@ -1,0 +1,8 @@
+The design of the configuration greatly 
+impacts system performance and energy efficiency.
+Microinstruction Format
+Microinstructions are the lowest-level instructions that define the operations 
+of a CPU. The format of a microinstruction includes fields specifying the 
+control signals for hardware units, the address of the next microinstruction, 
+and any additional data required for execution. Common formats include 
+horizontal and vertical microinstruction encoding.

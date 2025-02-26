@@ -1,0 +1,6 @@
+Root users or administrators have full control over the system, while regular users
+have limited access. Group management allows multiple users to be assigned shared
+permissions, facilitating collaborative access to files and resources.
+Start and shutdown procedures are critical for system stability and data integrity. The boot
+process involves loading the operating system from disk into memory, initializing hardware
+components, and starting system services.

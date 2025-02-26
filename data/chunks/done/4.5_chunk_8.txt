@@ -1,0 +1,2 @@
+It is a form of parallel 
+processing aimed at improving performance and reliability.

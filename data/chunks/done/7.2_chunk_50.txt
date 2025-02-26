@@ -1,0 +1,5 @@
+If the hash function produces collisions, we create a new hash table of
+double size. We may use the old hash value on input to a rehash function and compute a new
+hash value. For rehashing with linear probing, we can use the rehash function as:(old hash value
++ constant) % array-size Where constant and array size are relatively prime, i.e, the largest
+number that divides both of them is 1.

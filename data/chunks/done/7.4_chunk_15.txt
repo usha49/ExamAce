@@ -1,0 +1,8 @@
+There can be conflict serializable schedules that cannot be obtained if two-phase
+locking is used.
+However, in the absence of extra information (e.g., ordering of access to data), two-phase locking is
+needed for conflict serializability in the following sense: Given a transaction Ti that does not follow two-phase locking,
+we can find a transaction Tj that uses two-phase locking, and a schedule for Ti and Tj that is not conflict serializable.
+
+Deadlock Handling: System is deadlocked if there is a set of transactions such that every transaction in the
+set is waiting for another transaction in the set.

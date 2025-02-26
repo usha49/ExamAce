@@ -1,0 +1,8 @@
+Compiled By: Er. Pradip Khanal
+Lecturer, ACEM
+An operating system (OS) is system software that manages computer hardware and
+software resources and provides common services for computer programs. An operating
+system is a collection of system programs that control computer and any other peripherals
+connected to it. The program that hides the truth about the hardware from the programmer
+and present and a nice simple view a named file that can be read &amp; written as
+“operating system”.

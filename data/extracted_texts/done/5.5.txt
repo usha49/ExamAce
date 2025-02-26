@@ -1,0 +1,73 @@
+Chapter 6: Application Layer 
+Web: HTTP & HTTPS 
+HTTP (Hyper Text Transfer Protocol) is the foundation of the World Wide Web. Hypertext is a well-
+organized documentation system that uses hyperlinks to link the pages in the text documents. HTTP 
+works on a client-server model. When a user wants to access any HTTP page on the internet, the client 
+machine at the user end initiates a TCP connection to the server on port 80. When the server accepts 
+the client request, the client is authorized to access web pages. 
+HTTPS (also called HTTP over TLS, HTTP over SSL, and HTTP Secure) is a protocol for secure 
+communication over a computer network which is widely used on the Internet. HTTPS consists of 
+communication over Hypertext Transfer Protocol (HTTP) within a connection encrypted by Transport 
+Layer Security (TLS) or its predecessor, Secure Sockets Layer. 
+File Transfer: FTP, PuTTY, WinSCP 
+FTP (File Transfer Protocol) helps a user to transfer text-based or binary files across the network. A 
+user can use this protocol in either GUI-based software like FileZilla or CuteFTP and the same user can 
+use FTP in Command Line mode. 
+PuTTY is a free and open-source terminal emulator, serial console, and network file transfer 
+application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket 
+connection. It can also connect to a serial port. 
+WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, and SCP client for 
+Microsoft Windows. Its main function is secure file transfer between a local and a remote computer. 
+Beyond this, WinSCP offers basic file manager and file synchronization functionality. 
+Electronic Mail: SMTP, POP3, IMAP 
+SMTP (Simple Mail Transfer Protocol) is used to transfer electronic mail from one user to another. 
+Mail User Agent (MUA) is an application (e.g., Outlook Express, Thunderbird) that runs on a user’s 
+computer. Mail user agents are used to compose and send messages, as well as to display and manage 
+messages in a user’s mailbox. 
+POP3 (Post Office Protocol) provides a simple, standardized way for users to access mailboxes and 
+download messages to their computers. When using the POP protocol, all your e-mail messages will 
+be downloaded from the mail server to your local computer. 
+IMAP (Internet Message Access Protocol) is a standard protocol for accessing e-mail from your local 
+server. IMAP is a client/server protocol in which e-mail is received and held for you by your Internet 
+server. 
+DNS (Domain Name System) 
+The Domain Name System (DNS) works on the Client-Server model. It uses the UDP protocol for 
+transport layer communication. DNS uses a hierarchical domain-based naming scheme. The DNS 
+server is configured with Fully Qualified Domain Names (FQDN) and email addresses mapped with 
+their respective Internet Protocol (IP) addresses. 
+
+P2P Applications 
+P2P (Peer-to-Peer) architecture is a distributed application architecture that partitions tasks or 
+workloads between peers. Peers are equally privileged, equipotent participants in the application. 
+They are said to form a peer-to-peer network of nodes. 
+Socket Programming 
+A network socket is presented as the endpoint of an inter-process communication flow across a 
+computer network. Today, most communication between computers is based on the Internet 
+Protocols. So, nowadays, most network sockets that we use are Internet sockets. A socket address 
+possesses the combination between the IP address and a port number, much like one of the ends of a 
+telephone connection has the combination between a phone number and a particular extension in a 
+telephone system. 
+Application Server Concept: Proxy Caching, Web/Mail/DNS Server Optimization 
+Proxy caching allows a server to act as an intermediary between a user and a provider of web content. 
+When a user accesses a website, proxies interpret and respond to requests on behalf of the original 
+server. 
+Concept of Traffic Analyzer: MRTG, PRTG, SNMP, Packet Tracer, Wireshark 
+MRTG (Multi Router Traffic Grapher) is a tool to monitor the traffic load on network links. MRTG 
+generates HTML pages containing PNG images which provide a LIVE visual representation of this 
+traffic. 
+PRTG (Paessler Router Traffic Grapher) is a server uptime and utilization, network monitoring, and 
+bandwidth usage software package for server infrastructure from Paessler AG. It can monitor and 
+classify bandwidth usage in a network using SNMP, packet sniffing, and Netflow. 
+SNMP (Simple Network Management Protocol) is a tool (protocol) that allows for remote and local 
+management of items on the network including servers, workstations, routers, switches, and other 
+managed devices. 
+Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s 
+happening on your network at a microscopic level and is the de facto (and often de jure) standard 
+across many commercial and non-profit enterprises, government agencies, and educational 
+institutions. 
+Packet Tracer is a powerful network simulation program that allows students to experiment with 
+network behavior and ask “what if” questions. As an integral part of the Networking Academy 
+comprehensive learning experience, Packet Tracer provides simulation, visualization, authoring, 
+assessment, and collaboration capabilities and facilitates the teaching and learning of complex 
+technology concepts. 
+ 

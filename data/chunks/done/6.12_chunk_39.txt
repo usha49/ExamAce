@@ -1,0 +1,10 @@
+Theorem: The class of languages accepted by finite automata is closed under 
+ union; 
+ concatenation; 
+ Kleene star; 
+ complementation; 
+ intersection. 
+ reverse 
+ set difference 
+We shall show that the set of regular languages is closed under each of the operations defined 
+above.

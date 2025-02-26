@@ -1,0 +1,155 @@
+Knowledge Representation in Artificial Intelligence
+1. Knowledge Representation and Mappings
+Definition
+Knowledge representation (KR) refers to the formalization of knowledge in a way that enables a
+computer system to process, reason, and make decisions based on it. It involves encoding information
+about the world into a format that machines can understand and manipulate.
+Purpose
+Facilitates reasoning and decision-making by providing a structured way to store and retrieve
+knowledge.
+Enables machines to interpret and understand complex information.
+Mappings
+Real-world to Symbolic Representation:
+Translates real-world entities (e.g., objects, events) into symbolic forms (e.g., variables, predicates).
+Example: Representing "It is raining" as a proposition RR.
+Symbolic to Computational Representation:
+Encodes symbols into data structures (e.g., graphs, logical formulas) that computers can process.
+Example: Representing relationships between objects using a graph structure.
+2. Approaches to Knowledge Representation
+1. Logical Representation
+Uses formal logic (e.g., Propositional Logic, Predicate Logic) to represent knowledge.
+Example: "If it rains, the ground is wet" is represented as R→WR→W.
+Advantages: Precise and unambiguous.
+Disadvantages: Limited expressiveness for uncertain or incomplete knowledge.
+2. Semantic Networks
+A graphical representation where nodes represent objects or concepts, and edges represent
+relationships.
+Example:
+
+[Dog] --(is-a)--> [Animal]
+[Dog] --(has)--> [Tail]
+Advantages: Intuitive and easy to visualize.
+Disadvantages: Limited ability to represent complex relationships.
+3. Frames
+A structured representation using slots (attributes) and fillers (values).
+Example: A "Car" frame:
+Frame: Car
+Slot: Color
+Filler: Red
+Slot: Model
+Filler: Sedan
+Advantages: Effective for hierarchical and structured knowledge.
+Disadvantages: Rigid structure may not handle dynamic changes well.
+4. Rule-Based Systems
+Uses "if-then" rules to represent knowledge.
+Example: "If temperature > 30°C, then turn on the fan."
+Advantages: Simple and effective for expert systems.
+Disadvantages: Scalability issues with large rule sets.
+5. Probabilistic Representations
+Uses probability theory to handle uncertainty.
+Example: Bayesian Networks.
+Advantages: Suitable for uncertain and incomplete knowledge.
+Disadvantages: Computationally intensive.
+
+3. Issues in Knowledge Representation
+Expressiveness:
+The ability of a representation to capture complex real-world knowledge.
+Example: Predicate Logic is more expressive than Propositional Logic.
+Efficiency:
+The computational complexity of reasoning with the representation.
+Example: Semantic networks are efficient for simple queries but may struggle with complex
+inferences.
+Ambiguity:
+Handling vague or uncertain information.
+Example: Probabilistic representations are better suited for ambiguous data.
+Scalability:
+The ability to handle large amounts of knowledge.
+Example: Rule-based systems may become inefficient as the number of rules grows.
+4. Semantic Nets
+Structure
+Nodes: Represent objects or concepts.
+Edges: Represent relationships (e.g., "is-a", "has-a").
+Example
+[Bird] --(is-a)--> [Animal]
+[Bird] --(has)--> [Wings]
+Advantages
+Intuitive and easy to visualize.
+Effective for representing hierarchical relationships.
+
+Disadvantages
+Limited expressiveness for complex relationships.
+Difficult to represent negation or disjunction.
+5. Frames
+Structure
+A frame is a collection of slots (attributes) and fillers (values).
+Example: A "Person" frame:
+Frame: Person
+Slot: Name
+Filler: John
+Slot: Age
+Filler: 30
+Advantages
+Effective for representing structured, hierarchical knowledge.
+Easy to add default values and constraints.
+Disadvantages
+Rigid structure may not handle dynamic changes well.
+Limited ability to represent complex relationships.
+6. Propositional Logic (PL)
+Syntax
+Basic elements: Propositions (e.g., PP, QQ).
+Logical connectives: ∧∧(AND), ∨∨(OR), ¬¬ (NOT), →→(IMPLIES).
+Semantics
+Truth tables define the meaning of logical expressions.
+Key Concepts
+Tautology: A statement that is always true (e.g., P∨¬PP∨¬P).
+Validity: A statement that is true under all interpretations.
+
+Well-Formed Formula (WFF): A syntactically correct logical expression.
+Inference using Resolution
+A rule of inference used in automated theorem proving.
+Example: Resolving P∨QP∨Q and ¬P∨R¬P∨R to infer Q∨RQ∨R.
+7. Predicate Logic (First-Order Predicate Logic - FOPL)
+Syntax
+Constants, variables, predicates, and quantifiers (∀∀, ∃∃).
+Example: ∀x (Human(x)→Mortal(x))∀x(Human(x)→Mortal(x)).
+Semantics
+Interpretation of predicates and quantifiers over a domain.
+Quantification
+Universal (∀∀): "For all."
+Existential (∃∃): "There exists."
+Rules of Inference
+Modus Ponens, Universal Instantiation, Existential Generalization.
+Unification
+Finding a substitution that makes two logical expressions identical.
+Resolution Refutation System
+A proof technique that uses resolution to derive a contradiction.
+8. Bayes' Rule and Its Use
+Bayes' Rule
+P(A∣B)=P(B∣A)⋅P(A)P(B)P(A∣B)=P(B)P(B∣A)⋅P(A)​
+P(A∣B)P(A∣B): Posterior probability.
+P(B∣A)P(B∣A): Likelihood.
+P(A)P(A): Prior probability.
+P(B)P(B): Evidence.
+
+Use
+Updating probabilities based on new evidence.
+Applications: Spam filtering, medical diagnosis.
+9. Bayesian Networks
+Definition
+A graphical model representing probabilistic relationships among variables.
+Structure
+Nodes: Random variables.
+Edges: Conditional dependencies.
+Example
+[Rain] --> [Wet Grass]
+[Sprinkler] --> [Wet Grass]
+Reasoning
+Inference using conditional probability tables (CPTs).
+10. Reasoning in Belief Networks
+Types of Reasoning
+Causal Reasoning: From causes to effects.
+Diagnostic Reasoning: From effects to causes.
+Intercausal Reasoning: Between causes of a common effect.
+Algorithms
+Exact Inference: Variable Elimination.
+Approximate Inference: Monte Carlo methods.

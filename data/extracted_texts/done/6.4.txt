@@ -1,0 +1,144 @@
+Computer Graphics
+Introduction
+Computer graphics is a field related to the generation of graphics using computers. It includes 
+the creation, storage and manipulation of images of objects. These objects come from diverse 
+fields such as physical, mathematical engineering , architectural abstract structures and natural 
+phenomenon. Computer graphics today is largely interactive; that is largely interactive; that is 
+the user controls the contents structure and appearance of images of the objects by using input 
+devices such as a keyboard, mouse, or touch sensitive panel on the screen
+Until the early 1980’s computer graphics was a small specialized field, largely because the 
+hardware was expensive and graphics based application programs that were easy to use and cost 
+effective were few. Then personal computers with built in raster graphics displays such as the 
+Xerox Star Apple Macintosh and the IBM PC – popularized the use of bitmap graphics for user 
+computer interaction. A bitmap is a ones and zeros representation of the rectangular array of 
+points on the screen. Each point is called a pixel, short for “picture elements”. Once the bitmap 
+graphics became affordable an explosion of easy to use and inexpensive graphics based user 
+interfaces allowed millions of new users to control simple low cost application programs such as 
+word processors, spreadsheets and drawing programs
+The concept of a “desktop” now became popular metaphor for organizing screen space. By means 
+of a window manager the user could create position and resize rectangular screen areas called 
+windows. This allowed user to switch among multiple activities just by pointing and clicking at 
+the desired window , typically with a mouse. Besides windows, icons which represent data files , 
+application program, file cabinets, mailboxes. Printers , recycle bin and so on, made the user 
+computer interaction more effective . by pointing and clicking the icons, users could activate the 
+corresponding programs or objects which replaced much of the typing of the commands used in 
+earlier operating systems and computer applications . today almost all interactive application 
+programs even those for manipulating text i.e. word processor) or numerical data (e.g. 
+spreadsheet programs) use graphics extensively in the user interface and for visualizing and 
+manipulating the application specific objects.
+Anil Verma, IOE Pulchowk
+
+Even people who do not use computers encounter computer graphics in TV commercials and as 
+cinematic special effects. Thus computer graphics is an integral part of all computer user 
+interfaces, and is indispensable for visualizing 2D, 3D objects in all most all areas such as 
+education , science , engineering, medicine, commerce the military adversiting and 
+entertainment. The theme is that learning how to program and use computers now includes 
+learning how to use simple 2D graphics
+Early history of computer graphics
+We need to take a brief look at the historical development of computer graphics to place today’s 
+system in context. Crude plotting of hardcopy devices such as teletypes and line printers dates 
+from the early days of computing. The whirlwind computer developed in 1950 at the 
+Massachusetts Institute of Technology (MIT) had computer driven CRT displays for output. The 
+SAGE air-defense system developed in the middle 1950s was the first to use command and 
+control CRT display consoles on which operators identified targets with light pens (hand held 
+pointing devices that sense light emitted by objects on the screen) Later on Sketchpad system by 
+Ivan Sutherland came in light. That was the beginning of modern interactive graphics. In this 
+system, keyboard and light pen were used for pointing, making choices and drawing.
+At the same time, it was becoming clear to computer, automobile, and aerospace manufacturers 
+that (CAD) and computer aided manufacturing (CAM) activities had enormous potential for 
+automating drafting and other drawing intensive activities. The General Motors DAC system for 
+automobile design and the Itek-Digitek system for lens design were pioneering efforts that 
+showed the utility of graphical interaction in the iterative design cycles common in engineering. 
+By the mid 60s, a number of commercial products using these systems had appeared
+At that time only the most technology intensive organizations could use the interactive computer 
+graphics where as others used punch cards, a non-interactive system .
+Among the reasons for this were these:
+•
+The high cost of graphics hardware – at a time when automobiles cost a few thousand 
+dollars, computers cost several millions of dollars, and the first commercial computer 
+displays cost more than a hundred thousand dollars
+Anil Verma, IOE Pulchowk
+
+•
+The need for large scale expensive computing resources to support massive design 
+database
+•
+The difficulty of writing large interactive programs using batch oriented FORTRAN 
+programming
+•
+One of a kind , non-portable software, typically written for a particular manufacturer’s 
+display devices. When software is non-portable, moving to new display devices 
+necessitates expensive and time consuming rewriting of working programs
+Thus interactive computer graphics had a limited use when it started in the early sixties but it 
+became very common once the Apple Macintosh and IBM PC appeared in the market with 
+affordable cost.
+Representative uses of computer graphics
+Computer graphics is used today in many different areas of science, engineering , industry 
+business, education, entertainment, medicine art and training 
+All of these are included in the following categories
+1. User interfaces
+most applications have user interfaces that rely on the desktop window systems to manage 
+multiple simultaneous activities and on point and click facilities to allow users to select menu 
+items, icons, and objects on the screen These activities fall under computer graphics. Typing is 
+necessary only to input text to be stored and manipulated. For example, word processing 
+spreadsheet and desktop publishing programs are the typical examples where user interface 
+techniques are implemented
+2. Plotting
+plotting 2D and 3D graphs of mathematical physical and economic functions use computer 
+graphics extensively The histograms, bar and pie charts, the task scheduling charts, are the 
+most commonly used plotting . These are all used to present meaningfully and concisely the 
+trends and patterns of complex data
+3. Office automation and electronic publishing
+Anil Verma, IOE Pulchowk
+
+computer graphics has facilitated the office automation and electronic publishing which is 
+also popularly known as desktop publishing, giving more power to the organizations to print 
+the meaningful materials in house. Office automation and electronic publishing can produce 
+both traditional printed (hardcopy) documents and electronic (softcopy) documents that 
+contain text tables, graphs and other forms of drawn or scanned in graphics
+4. Computer aided drafting and design
+one of the major uses of computer graphics is to design components and systems of 
+mechanical , electrical , electrochemical and electronic devices , including structures such as 
+buildings automobile bodies, airplane and ship hulls, very large scale integrated (VLSI) chips 
+optical systems and telephone and computer networks . These designs are more frequently 
+used to test structural , electrical and thermal properties of the systems
+5. Scientific and business visualization
+Generating computer graphics for scientific, engineering and medical data sets is termed as 
+scientific visualization where as business visualization is related with the non scientific data 
+sets such as  those obtained in economics. Visualization makes easier to understand the trends 
+and patterns inherent in huge amount of data sets. It would otherwise be almost impossible to 
+analyze those data numerically
+6. Simulation
+Simulation is the imitation of the conditions like those, which is encountered in real life. 
+Simulation thus helps to learn or to feel the conditions one might have to face in near future 
+with out being in danger at the beginning of the course. For example, astronauts can exercise 
+the feeling of weightlessness in a simulator, similarly a pilot training can be conducted in a 
+flight simulator . The military tank simulator the naval simulator, driving simulator , air 
+traffic control simulator, heavy duty vehicle simulator and so on are some of the mostly used 
+simulator in practice. Simulators are also used to optimize the system
+Anil Verma, IOE Pulchowk
+
+For example the vehicle, observing the reactions of the driver during the operation of the 
+simulator
+7. Entertainment
+Disney movies such as Lion King and the beauty and the beast, and other scientific movies 
+like star trek are the best examples of the application of computer graphics in the field of 
+entertainment. Instead of drawing all the necessary frames with slightly changing scenes for 
+the production of cartoon film only the key frames are sufficient for such cartoon film where 
+the in between frames are interpolated by the graphics system dramatically decreasing the 
+cost production while maintaining the quality. Computer and video games such as Fifa, 
+Formula-1, Doom and Pools are few to name where computer graphics is used extensively
+8. Art and commerce
+Here computer graphics is used to produce pictures that expresses a message and attract 
+attention such as a new model of a car moving along the ring of the Saturn. These pictures are 
+frequently seen at transportation terminals, supermarkets, hotels etc. the slide production for 
+commercial , scientific, or educational presentations is another cost effective use of computer 
+graphics. One of such graphics packages is “PowerPoint”.
+9. Cartography
+Cartography is a subject which deals with the making of maps and charts. Computer graphics 
+is used to produce both accurate and schematic representations of geographical and other 
+natural phenomena from measurement data. Examples include geographic maps, 
+oceanographic charts, weather maps, contour maps and population density maps
+Surfer is one of such graphics packages which is extensively used for cartography
+ 
+Anil Verma, IOE Pulchowk

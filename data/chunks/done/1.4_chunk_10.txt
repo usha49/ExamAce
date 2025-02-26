@@ -1,0 +1,8 @@
+This characteristic makes CMOS the 
+preferred technology for integrated circuits, particularly in digital 
+applications. The low static power dissipation and high noise immunity of CMOS 
+circuits contribute to their widespread adoption in microprocessors, memory 
+devices, and application-specific integrated circuits.
+Application of MOSFET
+MOSFETs are versatile devices with a broad range of applications, including 
+power electronics, signal amplification, and switching.

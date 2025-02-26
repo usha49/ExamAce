@@ -1,0 +1,9 @@
+Then
+merge two sorted into a single list.Algorithm outline:If size of list is greater than 1 then divide
+the list into two sublists of sizes nearly equal as possible;recursively sort the sublist
+separately.Merge the two sorted sublists into a single sorted list End if.
+C-Code:
+void main()
+{
+clrscr(); int n,i; int x[N]; int temp[N];
+printf("\nEnter no.

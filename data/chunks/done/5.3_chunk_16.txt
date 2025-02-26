@@ -1,0 +1,5 @@
+BGP (Border Gateway Protocol) is the Exterior Gateway Protocol which is used for communicating 
+information among autonomous systems (AS is the unit of router policy, either a single network or a 
+group of networks that is controlled by a common network administrator (or group of administrators) 
+on behalf of a single administrative entity (such as a university, a business enterprise, or a business 
+division),) on the Internet. BGP is the routing method that enables the Internet to function.

@@ -1,0 +1,17 @@
+Steps Complementation  of L1 
+ 
+Start with a complete DFA, not with an NFA 
+ 
+Make every final state non final and every non final state final. 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 17 of 30 
+ 
+ 
+Steps in Reverse of L1 
+ Start with an automaton with just one final state. 
+ Make the initial state final and final state initial.

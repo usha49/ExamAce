@@ -1,0 +1,5 @@
+Standard 
+organizations such as IEEE, ANSI, ITU, ISO, and W3C establish networking guidelines. 
+The OSI (Open Systems Interconnection) model consists of seven layers: physical, data link, network, 
+transport, session, presentation, and application. The TCP/IP model, which is widely used on the 
+internet, consists of four layers: link, internet, transport, and application.

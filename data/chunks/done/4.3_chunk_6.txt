@@ -1,0 +1,15 @@
+They can be classified into:
+Symmetric Multiprocessing (SMP): All processors share the same memory and are 
+equally capable of executing instructions.
+Asymmetric Multiprocessing (AMP): Processors have specialized roles, with one 
+serving as the master and the others as slaves.
+Key characteristics include:
+Parallelism: Multiprocessors achieve high performance by executing multiple 
+instructions simultaneously.
+Scalability: Adding more processors can increase the system's processing 
+capability.
+Shared Resources: Memory, I/O devices, and the bus are shared among processors, 
+requiring efficient resource management.
+Interconnection Structure
+The interconnection structure determines how processors, memory, and I/O devices 
+communicate in a multiprocessor system.

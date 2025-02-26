@@ -1,0 +1,6 @@
+Byte 
+stuffing, or Character Stuffing, recognizes frame boundaries using flag bytes, inserting an escape byte 
+before any flag byte in the data. Physical Layer Coding Violations apply to networks where data 
+encoding on the physical medium contains redundancy. 
+Error detection and correction mechanisms are used to ensure accurate transmission. Errors can be of 
+three types: single-bit errors, multiple-bit errors, and burst errors.

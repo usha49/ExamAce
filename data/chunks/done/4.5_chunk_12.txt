@@ -1,0 +1,10 @@
+Common synchronization techniques include:
+Semaphores: Counting mechanisms to control access to a shared resource.
+Mutexes: Mutual exclusion locks that allow only one task to access a resource at 
+a time.
+Monitors: High-level synchronization constructs combining mutexes and condition 
+variables.
+Barriers: Ensure all tasks reach a specific point before proceeding.
+Device Drivers 
+Device drivers are specialized software that act as intermediaries between the 
+operating system and hardware devices.

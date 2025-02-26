@@ -1,0 +1,8 @@
+This theorem is limited to linear systems where the 
+principle of superposition applies.
+ Thevenin`s theorem
+Thevenin's theorem is another powerful tool used in circuit analysis, 
+particularly for simplifying complex networks. According to this theorem, any 
+linear electrical network with voltage sources and resistances can be 
+represented as an equivalent circuit with a single voltage source in series with 
+a resistance.

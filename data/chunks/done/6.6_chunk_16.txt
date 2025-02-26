@@ -1,0 +1,13 @@
+y 
+      z’           -sinθ      0     cosθ       0              z 
+      1             0           0        0          1              1 
+ 
+or,           P’  =  Ry (θ)  .  P 
+ 
+ 
+Rotation about an axis parallel to one of the coordinate axes : 
+Steps: 
+i.   Translate object so that rotation axis coincides with the parallel coordinate axis. 
+ii.  Perform specified rotation about that axis 
+iii. Translate object back to it’s original position. 
+  ie.       P’ = T-1 .  Rx(θ)  . T  .

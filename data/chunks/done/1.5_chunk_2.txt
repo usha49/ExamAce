@@ -1,0 +1,6 @@
+The key components of an oscillator circuit 
+include an amplifier, which provides the necessary gain, and a feedback network, 
+which determines the frequency of oscillation. The Barkhausen Criterion is a 
+fundamental condition for sustained oscillation, stating that the loop gain 
+(product of amplifier gain and feedback gain) must be equal to one, and the 
+phase shift around the loop must be zero or an integer multiple of 2π.

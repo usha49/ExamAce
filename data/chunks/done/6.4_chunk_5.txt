@@ -1,0 +1,4 @@
+This allowed user to switch among multiple activities just by pointing and clicking at 
+the desired window , typically with a mouse. Besides windows, icons which represent data files , 
+application program, file cabinets, mailboxes. Printers , recycle bin and so on, made the user 
+computer interaction more effective .

@@ -1,0 +1,7 @@
+Larger caches can 
+store more data but may result in increased access times and higher costs. The 
+optimal cache size balances capacity, speed, and cost to maximize system 
+performance.
+
+Mapping function
+The mapping function defines how data from main memory is placed into the cache.

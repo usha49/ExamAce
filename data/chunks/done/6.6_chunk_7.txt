@@ -1,0 +1,16 @@
+S(sx , sy , sz).T(-xf , -yf , -zf) 
+ 
+ 
+ 
+ 
+ 
+Reflection: 
+Reflections with respect to a plane are equivalent to 180* rotations in four dimensional space. 
+ 
+                  1     0      0     0               
+    RFz =    0      1     0     0              
+                  0      0    -1     0               
+                  0      0     0     1          
+ 
+This transformation changes the sign of  the z coordinates, leaving the x and y coordinate  
+values unchanged.

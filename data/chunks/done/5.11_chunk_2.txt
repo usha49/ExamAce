@@ -1,0 +1,5 @@
+Networks provide the benefits of exchanging information or data, sharing 
+resources, reducing system costs, increasing reliability, and creating a flexible working environment. 
+Chronology of Significant Computer-Network Developments 
+In the late 1950s, early networks of computers included the U.S. military radar system. In 1960, the 
+commercial airline reservation system went online with two connected mainframes.

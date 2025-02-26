@@ -1,0 +1,8 @@
+accepts every string of the language and rejects every string (over the same alphabet) that is 
+not in the language. 
+ 
+Theorem: The class of recursive languages is closed under complement. 
+Given a Turing machine and a language L, it might or it might not decide L,  and there is no 
+obvious way to tell whether it does. 
+Definition: A Turing machine semidecides (recognizes) a language if the following is true: 
+ If the string is in L, the machine accepts it.

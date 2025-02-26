@@ -1,0 +1,5 @@
+Process State (Five state model): New: A process that has just been
+created but has not yet been admitted to the pool of executable processes by the OS.
+Ready: Process that is prepared to execute when given the opportunity. That is, they are
+not waiting on anything except the CPU availability. Running: the process that is
+currently being executed.

@@ -1,0 +1,6 @@
+Examples 
+include industrial robots and medical monitoring devices.
+Stand-Alone Embedded Systems: Perform a specific function independently, such as 
+calculators and MP3 players.
+Networked Embedded Systems: Connected to a network for communication and data 
+sharing.

@@ -1,0 +1,2 @@
+Then H is said to be a subgraph of G,written as H
+≤G if V(H) ≤V(G) and E(H) ≤E(G).Spanning Tree:Let a graph G=(V,E) be a graph.

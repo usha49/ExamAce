@@ -1,0 +1,23 @@
+10.3 Project Planning and Scheduling
+Project planning and scheduling are critical components of engineering project management,
+ensuring that projects are completed efficiently, within budget, and on time. The classification
+of projects is based on various factors, including scope, duration, funding source, and technical
+complexity. Projects can be categorized as public or private, infrastructure or technology-based,
+and short-term or long-term.
+The project life cycle consists of multiple phases, including initiation, where project feasibility
+and objectives are defined; planning, where detailed scheduling, budgeting, and resource
+allocation take place; execution, where actual work is carried out and project deliverables are
+produced; monitoring and control, where progress is tracked and necessary adjustments are
+made; and closure, where final evaluations and documentation are completed.
+Project scheduling involves organizing tasks and activities in a structured manner to ensure
+efficient progress. The bar chart, commonly known as the Gantt chart, visually represents
+project timelines and dependencies. The critical path method (CPM) identifies the longest
+sequence of dependent tasks, helping project managers determine activities that cannot be
+delayed. The program evaluation and review technique (PERT) is used for projects with
+uncertain task durations, employing probabilistic time estimates to improve scheduling
+accuracy.
+Resource leveling and resource smoothing are techniques used to optimize resource allocation.
+Resource leveling ensures that resource demand does not exceed availability, while resource
+smoothing adjusts task distribution to maintain a consistent workload. Monitoring, evaluation,
+and control are essential for tracking project performance, identifying deviations, and
+implementing corrective actions.

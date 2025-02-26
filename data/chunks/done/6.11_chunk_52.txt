@@ -1,0 +1,17 @@
+For example: 
+The expression 10*+0 is grouped (1(0)*)+0. 
+ 
+ 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 18 of 20 
+ 
+ 
+Difference between L* and L+ 
+L* denotes Kleene closure and is given by L* =  
+i 
+Example :  0*= {e, 0,00,000,…. } 
+Language includes empty words also.

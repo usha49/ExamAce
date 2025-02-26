@@ -1,0 +1,16 @@
+Problem
+involving fares can be modeled by assigning fares to the edges.Thus, we can model airplane or
+other mass transit routes by graphs and use shortest path algorithm to compute the best route
+between two points.Similarly, if the vertices represent computers; the edges represent a link
+between computers; and the costs represent communication costs, delay costs, then we can use
+the shortest-path algorithm to find the cheapest way to send electronic news, data from one
+computer to a set of other computers.Basically, there are three types of shortest path
+problems:Single path: Given two vertices, s and d, find the shortest path from s to d and its
+length (weights).Single source: Given a vertex, s find the shortest path to all other vertices.All
+pairs: Find the shortest path from all pair of vertices.Dijkstra’s Algorithm to find the shortest
+path:Mark all the vertices as unknown;for each vertex v keep a distance dv from source vertex s
+to v initially set to infinity except for s which is set to ds = 0;repeat these steps until all vertices
+are known:select a vertex v, which has the smallest dv among all the unknown vertices;mark v
+as known;for each vertex w adjacent to v;if w is unknown and dv + cost(v, w) < dw update dw to
+dv + cost(v, w).Greedy Algorithm:One of the simplest approaches that often leads to a solution
+of an optimization problem.

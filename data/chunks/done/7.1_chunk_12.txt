@@ -1,0 +1,5 @@
+Deletion can be performed by removing nodes from specific positions.
+Doubly linked lists are particularly useful in applications requiring bidirectional traversal, such as
+ navigation in web browsers and undo-redo operations in text editors.
+There are different types of linked lists. A singly linked list consists of nodes where each node
+points to the next node in the sequence.

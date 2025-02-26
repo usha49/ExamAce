@@ -1,0 +1,4 @@
+After a transaction
+completes successfully, the changes it has made to the database persist, even if there are system failures. Transaction
+State: Active – the initial state; the transaction stays in this state while it is executing. Partially committed – after the
+final statement has been executed. Failed- after the discovery that normal execution can no longer proceed.

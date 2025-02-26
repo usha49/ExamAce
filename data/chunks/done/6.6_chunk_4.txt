@@ -1,0 +1,5 @@
+This matrix representation is equivalent to three equations: 
+                          x’ =   x  + tx                  y’ =   y  + ty                       z’ =   z  + tz 
+                                                  
+Scaling: 
+Scaling changes size of an object and repositions the object relative to the coordinate origin.

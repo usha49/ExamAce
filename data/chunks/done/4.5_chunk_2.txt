@@ -1,0 +1,13 @@
+Examples of operating systems include Windows, Linux, macOS, and real-time 
+operating systems (RTOS) like VxWorks.
+The OS can be classified into different types based on functionality:
+Batch Operating Systems: Execute batches of jobs without user interaction.
+Time-Sharing Operating Systems: Allow multiple users to interact with the system 
+simultaneously.
+Real-Time Operating Systems (RTOS): Ensure tasks are executed within specific 
+timing constraints.
+Distributed Operating Systems: Enable resource sharing across multiple systems 
+connected via a network.
+Task
+A task is a basic unit of work in a computing environment, often representing a 
+program or a process to be executed.

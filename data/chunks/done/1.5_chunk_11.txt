@@ -1,0 +1,9 @@
+They are widely used 
+
+in laboratories for testing and troubleshooting circuits.
+Signal Generators: Specifically designed to produce high-frequency signals, 
+often with modulated waveforms, for use in communication and radar systems.
+Pulse Generators: Used to produce square or rectangular pulses for testing 
+digital circuits and timing applications.
+The design of waveform generators typically involves the use of oscillators 
+combined with shaping circuits to produce the desired waveform.

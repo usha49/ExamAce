@@ -1,0 +1,3 @@
+They enable the OS and applications to 
+communicate with hardware without needing to know the device's underlying 
+details.

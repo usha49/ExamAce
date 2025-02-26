@@ -1,0 +1,7 @@
+Pigeonhole  Principle  
+ 
+1. Induction Principle 
+The principle of mathematical induction states that any set of natural numbers containing zero, 
+and with the property that it contains n + 1 whenever it contains all the numbers up to and 
+including n, must in fact be the set of all natural numbers. 
+Let we want to show that property P holds for all natural numbers.

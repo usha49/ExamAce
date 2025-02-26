@@ -1,0 +1,7 @@
+Physical data independence
+ensures that changes to the internal schema, such as indexing and storage structures, do not
+impact the logical schema.
+A database schema represents the structure of a database, defining tables, attributes, and
+relationships. It remains fixed for a given database, providing a logical framework for organizing
+data. An instance, on the other hand, refers to the actual data stored in the database at a
+specific moment in time.

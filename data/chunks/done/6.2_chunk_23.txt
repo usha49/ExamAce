@@ -1,0 +1,13 @@
+Nothing else is a parse tree. 
+ 
+Example 
+For example, if G is the context-free grammar that generates the language of balanced 
+parentheses , then the string ()() can be derived from S by at least two distinct derivations, 
+namely, 
+         
+S  S S  (S)S  ()S  () (S)  ()() 
+and 
+S SSS(S)  (S)(S)  (S()  () () 
+ 
+However, these two derivations are in a sense "the same." The rules used are the same, and they 
+are applied at the same places in the intermediate string.

@@ -1,0 +1,33 @@
+non-determinism : zero or more than one possible value may exist for state transition 
+For each p є K and each a є ∑{ e} , δ (s, a) =R  means  
+"Upon reading an 'a ' the automaton M may transition from state s to any state in R." 
+For e in particular, δ (s, e) =R means,  
+"Without reading the symbol the automaton M may transition from s to any state in R" 
+Configuration of NFA: 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 6 of 30 
+ 
+ 
+Examples  
+To see that a nondeterministic finite automaton can be a much more convenient device to design than a 
+deterministic finite automaton, consider the language L = (ab U aba)*, which is accepted by the 
+deterministic finite automaton illustrated in below 
+ 
+L is accepted by the simple nondeterministic device shown in fig below  
+ 
+Fog: NFA for  L = (ab U aba)* 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 7 of 30 
+ 
+ 
+Fig: NFA for  L = (ab U aba)* with e-transition 
+Example 2: Design a nondeterministic finite automata (NFA) that accept the set of all strings 
+containing an occurrence of the pattern bb or of the pattern bab.

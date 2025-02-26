@@ -1,0 +1,13 @@
+Example 
+ 
+ 
+Equivalence of DFA and NFA 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 9 of 30 
+ 
+A DFA is just a special type of NFA . In a DFA it so happens that the transition relation  ∆  is in 
+fact a function from K x ∑ to K i.e.

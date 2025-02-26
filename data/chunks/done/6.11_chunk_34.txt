@@ -1,0 +1,1 @@
+For each a є A, let Ra = {b : b є A and (a, b) є R}. Then D is distinct from each Ra.

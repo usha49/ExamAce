@@ -1,0 +1,7 @@
+Functions as relations 
+A function f :A B is a relation from A to B i.e., a subset of A x B, such that each a є  A belongs 
+to a unique ordered pair (a, b) in  f. 
+Kinds of Functions 
+(a) One-to-One Function (Injection): A function f : A B is said to be one-to-one if different 
+elements in the domain A have distinct images in the range. 
+A function f is one-to-one if f (a) = f (a') implies a = a'.

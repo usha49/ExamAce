@@ -1,0 +1,4 @@
+Examples include circuits with resistors 
+and capacitors. Non-linear circuits, such as those involving diodes or 
+transistors, do not have a proportional relationship between voltage and 
+current.

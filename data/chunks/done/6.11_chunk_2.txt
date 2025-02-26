@@ -1,0 +1,12 @@
+Nowadays, the Theory of Computation can be divided into the 
+following three areas:  
+ Automata Theory 
+ Computability Theory 
+ Complexity Theory, 
+ 
+Automata theory 
+Automata Theory deals with definitions and properties of different types of “computation 
+models”. Examples of such models are: 
+ Finite Automata. These are used in text processing, compilers, and hardware design. 
+  Context-Free Grammars. These are used to define programming languages and in 
+Artificial Intelligence.

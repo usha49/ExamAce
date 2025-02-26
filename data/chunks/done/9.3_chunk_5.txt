@@ -1,0 +1,11 @@
+Frames
+A structured representation using slots (attributes) and fillers (values).
+Example: A "Car" frame:
+Frame: Car
+Slot: Color
+Filler: Red
+Slot: Model
+Filler: Sedan
+Advantages: Effective for hierarchical and structured knowledge.
+Disadvantages: Rigid structure may not handle dynamic changes well.
+4.

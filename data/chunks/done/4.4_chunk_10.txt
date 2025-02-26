@@ -1,0 +1,4 @@
+This provides precise 
+control over timing and resource usage.
+High-Level Operation: Abstracted programming using real-time operating systems 
+(RTOS) or middleware, enabling easier development and modularity.

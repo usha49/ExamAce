@@ -1,0 +1,10 @@
+ Any string containing exactly one ........: To describe any string that contains exactly one 
+‘a’ put “any string not containing an a”, on either side of the ‘a’ like: (b + c)* a(b + c)* . 
+ 
+The Operators of Regular Expressions: 
++, .  , * (Union, concatenation , kleene star) 
+ 
+Precedence of Regular-Expression Operators 
+ The star Operator is of highest precedence. 
+ Next in precedence comes the concatenation or dot operator. 
+ Finally, unions are grouped with their operands.

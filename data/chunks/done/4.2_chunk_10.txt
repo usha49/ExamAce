@@ -1,0 +1,7 @@
+Common mapping techniques include direct mapping, where each memory block maps 
+to a specific cache line; associative mapping, which allows a block to occupy 
+any cache line; and set-associative mapping, which is a hybrid of the two. Each 
+mapping technique has trade-offs in terms of complexity, speed, and hit ratio.
+Replacement algorithm 
+When the cache is full, a replacement algorithm determines which data to evict 
+to make space for new data.

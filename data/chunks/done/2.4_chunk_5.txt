@@ -1,0 +1,5 @@
+The central processing unit (CPU) 
+is the core of the microprocessor, responsible for executing instructions and performing arithmetic and 
+logic operations. The CPU contains an arithmetic and logic unit (ALU) that performs mathematical 
+calculations, a control unit that manages data flow, and a register array that temporarily stores data. 
+Memory is used to store both program instructions and data.

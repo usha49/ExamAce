@@ -1,0 +1,3 @@
+Examples of parallel interfaces include the Centronics parallel port used in printers and the Parallel 
+Advanced Technology Attachment (PATA) used in older hard drives. Parallel interfaces are gradually being 
+replaced by faster and more efficient serial communication standards, such as USB and SATA.

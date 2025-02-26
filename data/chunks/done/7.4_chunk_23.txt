@@ -1,0 +1,5 @@
+Two approaches using logs :Deferred database modification ,Immediate database
+modification . The immediate-modification scheme allows updates of an uncommitted transaction to be made to the
+buffer, or the disk itself, before the transaction commits .Update log record must be written before database item is
+written We assume that the log record is output directly to stable storage . Output of updated blocks to stable storage can
+take place at any time before or after transaction commit .

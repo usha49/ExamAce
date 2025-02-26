@@ -1,0 +1,8 @@
+Manipulation operations include arithmetic and logical processing of data. 
+Efficient data transfer mechanisms, such as direct memory access (DMA) and cache 
+memory, are critical for high-performance computing. Manipulation instructions 
+enable complex computations, including arithmetic calculations, bitwise 
+operations, and data formatting.
+ RISC and CISC 
+Reduced Instruction Set Computing (RISC) and Complex Instruction Set Computing 
+(CISC) are two architectural paradigms for CPUs.

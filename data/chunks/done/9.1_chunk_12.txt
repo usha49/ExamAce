@@ -1,0 +1,14 @@
+Philosophy as the Foundation of AI
+Philosophy underpins the ethical, logical, and epistemological
+aspects of AI.
+Key Philosophical Questions:
+Can machines think?
+What is intelligence?
+How can we ensure AI systems align with human values?
+AI Applications:
+Developing ethical AI systems.
+Addressing biases in machine learning models.
+Defining AI's role in society.
+Introduction of agents
+An agent is an entity that perceives its environment through sensors
+and acts upon it using actuators to achieve specific goals.

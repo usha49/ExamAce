@@ -1,0 +1,12 @@
+The design involves:
+Defining Specifications: Identifying the specific task and performance 
+requirements.
+Creating Data Path: Designing the computational logic, including ALUs, 
+registers, and memory components, tailored to the task.
+Implementing Control Logic: Developing finite state machines (FSMs) or 
+microprograms to control data flow and operation sequencing.
+Custom processors are preferred for applications where general-purpose 
+processors cannot meet the performance, power, or cost constraints, such as in 
+signal processing or cryptographic systems.
+Optimizing Custom Single-Purpose Processors
+Optimization focuses on improving speed, power efficiency, and area (size).

@@ -1,0 +1,5 @@
+10.1 Engineering Drawings and Its Concepts
+Engineering drawing is an essential tool in the field of engineering, serving as a precise
+graphical representation of objects, structures, and systems. It plays a crucial role in
+communicating technical details among engineers, designers, manufacturers, and builders,
+ensuring that the intended design is accurately understood and implemented.

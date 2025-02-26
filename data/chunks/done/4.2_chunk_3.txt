@@ -1,0 +1,8 @@
+For floating-point arithmetic, the IEEE 
+754 standard is commonly used, defining rules for representation, addition, 
+subtraction, multiplication, and division of floating-point numbers. Logical 
+operations are essential for tasks like mask generation, error checking, and 
+data encryption.
+The Memory Hierarchy
+The memory hierarchy is a structured arrangement of memory types designed to 
+balance speed, cost, and capacity.

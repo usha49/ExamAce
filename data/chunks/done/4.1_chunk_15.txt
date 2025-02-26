@@ -1,0 +1,5 @@
+RISC emphasizes simplicity and 
+efficiency with a small set of simple instructions, leading to faster execution 
+and easier pipeline implementation. CISC, on the other hand, includes a larger 
+set of complex instructions, reducing the need for multiple instructions to 
+perform a single task.

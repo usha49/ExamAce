@@ -1,0 +1,11 @@
+The Algorithm for minimizing a DFA as follows: 
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 20 of 30 
+ 
+1. Step 1: Eliminate any state that cannot be reached from the start state. 
+2. Step 2: partition the remaining states into blocks so that all the states in the same block 
+are equivalent and no pair of states from different blocks are equivalent.

@@ -1,0 +1,5 @@
+Congestion in a network may occur when the load on the network (i.e., the 
+number of packets sent to the network) is greater than the capacity of the network (i.e., the number of 
+packets a network can handle). 
+ 
+.

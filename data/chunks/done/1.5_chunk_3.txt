@@ -1,0 +1,8 @@
+Oscillators are widely used in communication systems, signal processing, and 
+timing circuits.
+Basic Principles of RC Oscillators
+RC oscillators generate sinusoidal waveforms using resistors and capacitors in 
+their feedback network. These oscillators operate at low to moderate frequencies 
+and are known for their simplicity and stability. The frequency of oscillation 
+is determined by the RC time constant, which defines how quickly the circuit 
+charges and discharges.

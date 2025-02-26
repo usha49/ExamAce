@@ -1,0 +1,7 @@
+Protection can improve reliability by
+detecting latent errors at the interfaces between component subsystems. Early detection of
+interface errors can often prevent contamination of a healthy subsystem by a subsystem
+that is malfunctioning. An unprotected resource cannot defend against use (or misuse) by
+an unauthorized or incompetent user. Networking : A networking system of a computer
+OS that is designed of networking use. Networking system is an OS with file, task and job
+management.

@@ -1,0 +1,4 @@
+In 
+an alternator, a coil of wire rotates in a magnetic field, creating a time-
+varying flux linkage. The induced EMF is sinusoidal because the flux linkage 
+changes sinusoidally with time as the coil rotates through the magnetic field.

@@ -1,0 +1,6 @@
+The first 
+component is the state of the machine (K), the second is the portion of the input yet to be read 
+(∑*) , and the third is the contents of the pushdown store, read top-down (Г *).  
+For example, if the configuration were (q, W, abc), the ' a '  would be on the top of the stack and 
+the 'c' on the bottom. If (p, x, α) and (q, y, β) are configurations of M, we say that (p, x, α) yields 
+in one step (q, y, β) . Thus a configuration of the machine is a triple (q, string,  stack).

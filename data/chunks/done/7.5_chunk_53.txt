@@ -1,0 +1,7 @@
+Pradip Khanal
+Lecturer, ACEM
+illusion that the threads are running in parallel. Like a traditional process i.e., process
+with one thread, a thread can be in any of several states (Running, Blocked, Ready or
+terminated). A thread consists of a program counter (PC), a register set, and a stack
+space. Threads are not independent of one other like processes. Threads shares address
+space, program code, global variables, OS resources with other thread.

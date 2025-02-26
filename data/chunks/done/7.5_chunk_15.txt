@@ -1,0 +1,5 @@
+Time Sharing Operating System : Time-
+sharing is a technique which enables many people, located at various terminals, to use a
+particular computer system at the same time. Time-sharing or multitasking is a logical
+extension of multiprogramming. Processor's time which is shared among multiple users
+simultaneously is termed as time-sharing.

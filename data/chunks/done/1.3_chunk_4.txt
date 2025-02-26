@@ -1,0 +1,14 @@
+For instance, an alternating voltage can 
+be expressed as ( )=
+ sin⁡(
++ ) where 
+ is the maximum or peak voltage, ω is
+𝑣𝑡
+𝑉𝑚
+𝜔𝑡𝜙
+𝑉𝑚
+ 
+the angular frequency,t is time, and ϕ is the phase angle. The waveform of 
+alternating voltage or current is typically represented as a sine wave, which 
+alternates between positive and negative values, completing a full cycle in one 
+period.

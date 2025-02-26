@@ -1,0 +1,9 @@
+Proof : In each case we show how to construct an automaton M that accepts the appropriate 
+language, given two automata Ml and M2 (only Ml in the cases of Kleene star and 
+complementation). 
+Union  
+The set of regular languages is closed under the union operation, i.e., if L1 and L2 are regular 
+languages over the same alphabet ∑, then L1 ∪ L2 is also a regular language. 
+ 
+Proof.   
+Since L1 is regular, there is,  an NFA M1 = (K1, ∑, δ1, q1, F1), such that L1 = L(M1).

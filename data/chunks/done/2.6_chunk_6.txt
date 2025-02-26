@@ -1,0 +1,6 @@
+Vectored interrupts 
+have predefined memory addresses for their corresponding ISRs, allowing for faster execution. Non-
+vectored interrupts require additional processing to determine the ISR address. Maskable interrupts can 
+be enabled or disabled through software, while non-maskable interrupts (NMIs) have the highest 
+priority and cannot be disabled. 
+The 8259 Programmable Interrupt Controller (PIC) is used to manage multiple interrupts efficiently.

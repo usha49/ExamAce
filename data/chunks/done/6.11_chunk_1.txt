@@ -1,0 +1,10 @@
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 1: Review of Set Theory 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 1 of 20 
+ 
+ 
+Chapter 1: Introduction 
+Introduction 
+Purpose of the Theory of Computation: Develop formal mathematical models of computation 
+that reflect real-world computers.

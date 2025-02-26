@@ -1,0 +1,11 @@
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 1 of 30 
+ 
+Chapter 2 :Finite Automata 
+2.1 Finite Automata 
+Automata are computational devices to solve language recognition problems. Language 
+recognition problem is to determine whether a word belongs to a language.   
+Automaton = abstract computing device, or “machine” 
+An automaton is an abstract model of a digital computer.

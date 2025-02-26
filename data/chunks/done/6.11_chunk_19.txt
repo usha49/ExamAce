@@ -1,0 +1,7 @@
+The directed graph representing a 
+reflexive relation has a loop from each node to itself. 
+Let A= { 1, 2, 3}  
+then R= { (1, 1),  (2, 2) , (3, 3) } is a reflexive relation defined on set A  
+ 
+Symmetric 
+A relation R  A x A is symmetric if (b, a) ∈ R whenever (a, b) ∈ R.

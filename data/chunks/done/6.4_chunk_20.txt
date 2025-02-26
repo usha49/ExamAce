@@ -1,0 +1,7 @@
+Scientific and business visualization
+Generating computer graphics for scientific, engineering and medical data sets is termed as 
+scientific visualization where as business visualization is related with the non scientific data 
+sets such as  those obtained in economics. Visualization makes easier to understand the trends 
+and patterns inherent in huge amount of data sets. It would otherwise be almost impossible to 
+analyze those data numerically
+6.

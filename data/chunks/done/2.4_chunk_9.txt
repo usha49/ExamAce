@@ -1,0 +1,8 @@
+Advancements in microprocessor technology have led to the development of multi-core processors, 
+cache memory, and parallel processing techniques. Multi-core processors contain multiple processing 
+
+units on a single chip, allowing for concurrent execution of tasks. Cache memory reduces access times 
+by storing frequently used data close to the processor. Parallel processing techniques, such as pipelining 
+and vector processing, further enhance computational efficiency. 
+ 
+.

@@ -1,0 +1,8 @@
+Designing ASIPs 
+involves:
+Instruction Set Extension: Adding new instructions to support specific 
+operations.
+Compiler Support: Modifying compilers to recognize and utilize the extended 
+instructions.
+Hardware Implementation: Creating hardware units to execute the new instructions 
+efficiently.

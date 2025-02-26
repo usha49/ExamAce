@@ -1,0 +1,8 @@
+File
+Management system : The operating system is responsible for the following activities in
+connection with file management: The creation and deletion of files, The creation and
+deletion of directory, The support of primitives for manipulating files and directories, The
+mapping of files onto disk storage, Backup of files on stable (nonvolatile) storage.
+Protection System : Protection refers to a mechanism for controlling the access of
+programs, processes, or users to the resources defined by a computer controls to be
+imposed, together with some means of enforcement.

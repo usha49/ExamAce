@@ -1,0 +1,20 @@
+The control 
+action is described as:
+u(t)=Kp e(t)+Ki â «e(t)dt+Kd de(t)/dt
+
+â
+Where:
+
+u(t): Control output.
+e(t): Error signal.
+K p,Ki,Kd: Proportional, integral, and derivative gains.
+Feedforward Control: Uses knowledge of the system to preemptively adjust inputs 
+without relying on feedback.
+Adaptive Control: Adjusts control parameters dynamically to handle system 
+variations or disturbances.
+Applications:
+Control systems are vital in industries such as:
+Automotive: Anti-lock braking systems and engine control units.
+Aerospace: Flight stabilization and autopilot systems.
+Manufacturing: Robotic arm movement and conveyor belt operations.
+.

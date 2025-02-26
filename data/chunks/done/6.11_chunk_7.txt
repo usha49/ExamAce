@@ -1,0 +1,7 @@
+On the other hand, 
+a problem is called “hard”, if it cannot be solved efficiently, or if we don’t know whether it can 
+be solved efficiently. Examples of “hard” problems are (i) time table scheduling for all courses at 
+Carleton, (ii) factoring a 300-digit integer into its prime factors, and (iii) computing a layout for 
+chips in VLSI. 
+Central Question in Complexity Theory: Classify problems according to their degree of 
+“difficulty”.

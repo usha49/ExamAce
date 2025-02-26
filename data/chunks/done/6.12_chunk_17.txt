@@ -1,0 +1,11 @@
+Solution 
+ 
+ 
+ 
+NONDETERMINISTIC FINITE AUTOMATA (NFA) 
+ 
+ 
+NFA has Ability to change states in a way that is only partially determined by the current state 
+and input symbol.  
+ 
+Permit several possible "next states" for a given combination of current state and input symbol.

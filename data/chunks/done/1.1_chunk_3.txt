@@ -1,0 +1,7 @@
+Understanding Ohm's Law is crucial for analyzing both 
+simple circuits, like a single resistor connected to a voltage source, and 
+complex systems involving networks of components. 
+electric voltage and current
+Voltage and current are two fundamental concepts in electrical circuits. 
+Voltage, often referred to as potential difference, is the measure of the 
+electric potential energy per unit charge between two points in a circuit.

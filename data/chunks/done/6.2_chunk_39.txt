@@ -1,0 +1,16 @@
+ If the input symbol does not match the top stack symbol,  no further operation is 
+possible 
+ IF an automaton M reaches in configuration (f, e, e) , final state, end of input , empty 
+stack , then the input was indeed of the form WcWR 
+ 
+ 
+Example 2 
+Design a PDA M that accept a language given by L= { anbn :    n ≥ 1 } . 
+Solution 
+Let required PDA,   M= (K, ∑, Г ,∆ , S , F) where  
+K = {s , q, f} 
+∑= {a,b} 
+Г= {a} 
+F = {f} and  
+∆  is given by following five transitions 
+1.

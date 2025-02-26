@@ -1,0 +1,5 @@
+In summary, the physical layer is the foundation of network communication, ensuring that data is 
+transmitted accurately over various transmission media. It defines the hardware specifications, encoding 
+techniques, transmission methods, and switching technologies required for effective communication. 
+The choice of transmission media and switching techniques depends on factors such as bandwidth 
+requirements, distance limitations, interference susceptibility, and cost considerations.

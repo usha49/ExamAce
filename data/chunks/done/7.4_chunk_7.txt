@@ -1,0 +1,6 @@
+Thus serial execution of a set of transactions preserves database consistency.
+A (possibly concurrent) schedule is serializable if it is equivalent to a serial schedule.
+Different forms of schedule
+equivalence give rise to the notions of: conflict serializability ,view serializability.Conflict Serializability : If a
+schedule S can be transformed into a schedule S´ by a series of swaps of non-conflicting instructions, we say that S and S´
+are conflict equivalent.

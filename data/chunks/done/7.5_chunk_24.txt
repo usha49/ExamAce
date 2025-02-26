@@ -1,0 +1,7 @@
+Peer-to-peer networks are designed primarily for
+small to medium local area networks. Windows for Workgroups is an example of the
+program that can function as peer-to-peer network operating systems.
+Client/server
+network operating systems allow the network to centralize functions and applications in
+one or more dedicated file servers. The file servers become the heart of the system,
+providing access to resources and providing security.

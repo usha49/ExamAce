@@ -1,0 +1,11 @@
+Control systems are 
+categorized as:
+Continuous-Time Control: Operates on analog signals and is described using 
+differential equations.
+Discrete-Time Control: Processes sampled signals and uses difference equations.
+Types of Control Strategies
+Proportional-Integral-Derivative (PID) Control:
+PID controllers combine three control actions:
+Proportional (P): Produces an output proportional to the error.
+Integral (I): Accounts for accumulated error over time.
+Derivative (D): Predicts future error based on its rate of change.

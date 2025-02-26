@@ -1,0 +1,9 @@
+We say that C1 immediately yields C2 ,  C1 ├ M C2 
+Initial configuration: initial state, contents of the tape, the head may be in any position 
+Halting configuration: halting state, any contents of the tape, any position of the head 
+Computation: defined as a sequence of configurations, each one immediately yielding the next, 
+except for the last configuration 
+ 
+Example 
+The erasing machine: 
+Reads a symbol a from the tape, replaces the symbol with a blank, and moves to the next symbol.

@@ -1,0 +1,5 @@
+Integrity constraints are rules that maintain the accuracy and consistency of data in
+a database. These include domain constraints, which specify the valid values for an attribute,
+referential integrity, which ensures consistency in foreign key relationships, and entity integrity,
+which ensures that primary key values are unique and not null.
+Relations in a database refer to tables that store data.

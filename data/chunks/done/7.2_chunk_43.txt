@@ -1,0 +1,6 @@
+A situation in which two different keys k1 and k2 hash to the same index of the table i.e.
+h(k1) = h(k2), it is called collision or hash clash. We have, in general following
+methods.Folding method,Mid square method,Division method.Folding method Eg. Let the
+keys be of four digits, chopping the key into two parts and adding yields Hash(5421) = 54 + 21
+= 75 So 75 is the index at which w e should store or retrieve record with key 5421. Mid square
+method: The key is squared.

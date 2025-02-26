@@ -1,0 +1,6 @@
+Examples include registers, cache, and RAM. These memories are critical for 
+high-speed data processing and temporary storage during program execution. 
+External memory, on the other hand, includes storage devices such as hard 
+drives, SSDs, and external USB drives. These are used for long-term data storage 
+and backup. External memory is slower than internal memory but offers 
+significantly larger storage capacities.

@@ -1,0 +1,35 @@
+PDA have three things 
+ input tape 
+  Finite control 
+ Stack  
+ 
+Input Tape 
+a 
+b 
+c 
+b 
+a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definition of PDA: 
+A pushdown automata is a system  which is mathematically defined by sixtuple 
+M= (K, ∑, Г ,∆ , S , F) 
+where ,  
+K: Finite set of states 
+∑: is an alphabets (input symbols) 
+Г : stack symbols 
+S ∈ K ,initial state 
+F K :set of final states 
+∆ : transition relation is a finite subset of Kx(∑  {e} x Г * ) x (K x Г *) 
+i.e  
+Kx (∑  {e} x Г * )   (Kx Г *) 
+Transition :  
+if (p, a, β) , (q , γ)  ∈ ∆ , then  M whenever it is in state p with ' β ' at the top of stack may read ' γ' 
+from the input tape ,replace ' β'  by  ' γ'  on the top of the stack and enter state q.

@@ -1,0 +1,4 @@
+Advances in 
+digital technology have also led to the development of arbitrary waveform 
+generators, which use digital signal processing to generate complex waveforms.
+.

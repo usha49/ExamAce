@@ -1,0 +1,48 @@
+Now the new transition table is 
+Current state 
+input symbol 
+a 
+b 
+q0 
+q5 
+q1 
+q1 
+q2 
+q6 
+*q2 
+q2 
+q0 
+q4 
+q5 
+q7 
+q5 
+q6 
+q2 
+q6 
+q4 
+q6 
+q7 
+q2 
+q6 
+Step 2: Divided the rows of the table into 2 sets as 
+1. one set containing only rows which starts from non final states 
+Set 1 
+q0 
+q5 
+q1 
+q1 
+q2 
+q6 
+q4 
+q5 
+q7 
+q5 
+q6 
+q2 
+q6 
+q4 
+q6 
+q7 
+q2 
+q6 
+2.

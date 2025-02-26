@@ -1,0 +1,10 @@
+P  
+Here the composite transformation matrix for this sequence of translation is 
+or,  
+              cosθ2    -sinθ2                  cos θ1     -sin θ1                             
+              sinθ2    cosθ2           .        sin θ1      cos θ1       	
+                    
+ 
+or,              
+              cosθ2 . cosθ1 - sinθ2  . sinθ1            -cosθ2 . sinθ1 - sinθ2  . cosθ1
+              sinθ2 . cosθ1 + sinθ1  . cosθ2     .      cosθ2 . cosθ1 - sinθ2  .

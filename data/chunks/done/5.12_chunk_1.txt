@@ -1,0 +1,5 @@
+Chapter 2: Physical Layer 
+The physical layer is the lowest layer in the OSI model and is responsible for transmitting raw data bits 
+from one node to another over a communication medium. This layer is not concerned with the meaning 
+of the data but focuses on ensuring that the data is accurately transmitted as electrical, optical, or radio 
+signals over the physical medium.

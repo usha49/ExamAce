@@ -1,0 +1,6 @@
+Services Provided by System Calls: Process creation
+and management, Main memory management ,File Access, Directory and File system
+management , Device handling(I/O) ,Protection,Networking, etc. A process is defined as an
+entity which represents the basic unit of work to be implemented in the system i.e. a
+process is a program in execution. The execution of a process must progress in a
+sequential fashion.

@@ -1,0 +1,8 @@
+4.2 Computer arithmetic and memory system:
+Arithmetic and Logical operation
+Arithmetic and logical operations are the fundamental building blocks of 
+computational processes in a CPU. Arithmetic operations include addition, 
+subtraction, multiplication, and division, which are performed using specialized 
+hardware units like adders and multipliers. These operations can be extended to 
+support floating-point calculations, enabling high-precision mathematical 
+computations.

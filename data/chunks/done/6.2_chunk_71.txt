@@ -1,0 +1,17 @@
+Left Regular Grammars: 
+Rules of the forms 
+ 
+A → ε 
+ 
+A → a 
+ 
+A → Ba 
+ 
+A, B: variables (Non terminals) and 
+a: terminal 
+ 
+Prove: All right-linear grammars describe regular languages 
+ Idea: Find a way to convert any right-linear grammar into a FSA. 
+o Terminals before a non-terminal represent arcs 
+o Non-terminals represent non-final states. 
+o Terminals without non-terminals following represent final states.

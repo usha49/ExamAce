@@ -1,0 +1,7 @@
+Subnetting 
+Subnetting is a process of dividing a large network into smaller networks known as subnets based on 
+layer 3 IP address. Every computer on the network has an IP address that represents its location on the 
+network. Two versions of IP addresses are available: IPv4 and IPv6. 
+Routing: Techniques, Static vs. Dynamic Routing, Routing Table for Classful Address 
+Routing is the process of selecting a path for traffic in a network, or between or across multiple 
+networks.

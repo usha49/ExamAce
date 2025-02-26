@@ -1,0 +1,8 @@
+The distributive law ensures that
+multiplication distributes over addition, expressed as A·(B + C) = A·B + A·C. De Morgan’s
+theorems help transform logic expressions, where (A + B)’ = A’·B’ and (A·B)’ = A’ + B’.
+
+The sum-of-products (SOP) method expresses Boolean functions as a sum of minterms, where
+each term corresponds to an AND combination of input variables that produce a high output. If
+a truth table lists an output as 1, the corresponding product term is included in the SOP
+expression.

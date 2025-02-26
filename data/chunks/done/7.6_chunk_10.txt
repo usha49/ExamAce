@@ -1,0 +1,8 @@
+File allocation methods determine how file data is stored on disk and
+include contiguous allocation, where files are stored in continuous blocks, leading to fast
+access but possible fragmentation; linked allocation, where each file is stored as a linked list of
+disk blocks, eliminating fragmentation but slowing down access due to pointer traversal; and
+indexed allocation, where an index block contains pointers to all the file’s data blocks, providing
+direct access to any block.
+The impact of the allocation policy on fragmentation is significant, as different allocation
+methods lead to varying levels of fragmentation.

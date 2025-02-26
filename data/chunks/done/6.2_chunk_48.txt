@@ -1,0 +1,21 @@
+ioenotes.edu.np
+
+ 
+ 
+ 
+ 
+ 
+ 
+Deterministic PDA (DPDA) 
+ 
+ A PDA is deterministic if there is at most one move for any input symbol, any top stack 
+symbol and at any state 
+ A no move or move without advancing input string are possible in a deterministic PDA 
+ A move without advancing input string implies that no other move exists 
+ The PDA for WCWR   is deterministic 
+ The set of languages accepted by DPDA's is only a subset of language accepted by non 
+deterministic PDA 
+ A regular languge is language accepted by a DPDA 
+ Not all language accepted by DPDA are regular 
+ All languages accepted by DPDA have an unambiguous VFG 
+ Not all unambiguous languages are accepted by DPDA.

@@ -1,0 +1,6 @@
+Risk identification
+involves recognizing potential issues such as budget overruns, resource shortages, technical
+failures, and regulatory changes. Once identified, risks are assessed based on their likelihood
+and impact on the project. Risk mitigation strategies are then developed to minimize negative
+consequences. These strategies may include contingency planning, insurance, diversification,
+and contractual protections.

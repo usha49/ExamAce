@@ -1,0 +1,2 @@
+y and z components of the projected vector are 
+cy and  cz (the direction cosines), so from fig.

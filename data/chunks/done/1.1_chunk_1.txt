@@ -1,0 +1,8 @@
+1. Concept of Basic Electrical and Electronics Engineering     
+1.1 Basic concept: 
+Ohm´s law
+Ohm's Law is a fundamental principle in electrical engineering that explains the 
+relationship between voltage, current, and resistance in an electric circuit. 
+According to this law, the current passing through a conductor is directly 
+proportional to the voltage across its ends and inversely proportional to the 
+resistance offered by the conductor.

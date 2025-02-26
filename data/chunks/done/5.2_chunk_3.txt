@@ -1,0 +1,6 @@
+It provides an interface to the upper layer, flow 
+control, error control, and management functions. The MAC sub-layer deals with the actual control of 
+media, constructing headers and trailers, assembling frames, addressing, error checking, and accessing 
+the medium. 
+The data link layer performs several functions, including framing, addressing, synchronization, error 
+control, flow control, and multi-access.

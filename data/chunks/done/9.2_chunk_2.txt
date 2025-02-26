@@ -1,0 +1,30 @@
+This process is often conceptualized as a search through a state
+space, where each state represents a possible configuration of the system.
+Problem as a State Space Search
+In this framework, a problem is defined by:
+Initial State: The starting point of the problem.
+Goal State: The desired outcome.
+State Space: The set of all possible states reachable from the initial state.
+Operators: Actions that transition the system from one state to another.
+Path Cost: A numerical value representing the cost associated with a path from the initial to the
+current state.
+The objective is to find a path from the initial state to the goal state with minimal path cost.
+Problem Formulation
+Formulating a problem involves:
+Defining the State Space: Identifying all possible states.
+Specifying the Initial State: Determining where the problem-solving process begins.
+Defining the Goal Test: A function to determine if a given state is the goal state.
+Identifying Operators: Actions available to transition between states.
+Assigning Path Costs: Evaluating the cost associated with each action or sequence of actions.
+A well-formulated problem provides a clear roadmap for the search process.
+Well-Defined Problems
+A problem is well-defined if it has:
+Clear Initial State: Unambiguously specified starting point.
+Explicit Goal State: Clearly defined desired outcome.
+Defined State Space: Comprehensive set of all possible states.
+Known Operators: Clearly specified actions for state transitions.
+
+Deterministic Outcomes: Actions have predictable effects.
+Examples include puzzles like the 8-queens problem or the traveling salesman problem.
+Constraint Satisfaction Problem (CSP)
+A CSP is a problem where the solution must satisfy a set of constraints or conditions.

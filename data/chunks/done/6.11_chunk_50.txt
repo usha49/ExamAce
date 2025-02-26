@@ -1,0 +1,6 @@
+ Any string at all: To describe any string at all (with = { a, b, c} you can use (a + b + 
+c)*. 
+ Any nonempty string: This is written any character from = {a, b, c} followed by any 
+string at all: (a + b + c) (a + b + c)* 
+ Any string not containing ..........: To describe any string at all that does not contain an ‘a’ 
+(with ={a, b, c}), you can use (b + c)*.

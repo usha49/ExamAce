@@ -1,0 +1,8 @@
+Fatal Error (Involuntary): An error caused by
+process due to a bug in program for example, executing an illegal instruction, referring
+
+Compiled By: Er. Pradip Khanal
+Lecturer, ACEM
+non-existing memory or dividing by zero. Killed by another Process (Industrial): A
+process executes a system call telling the Operating Systems to terminate some other
+process. In UNIX, this call is kill.

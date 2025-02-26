@@ -1,0 +1,5 @@
+Proof: If L is a context-free language and R is a regular language, then L = L(M1) for some 
+pushdown automaton Ml = (K1 ,, Г , ∆, S1, F1 ), and R = L(M2) for some deterministic finite 
+automaton M2 = (K2, , δ, S2, F2)  The idea is to combine these machines into a single pushdown 
+automaton M that carries out computations by Ml and M2 in parallel and accepts only if both 
+would have accepted.

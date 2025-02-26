@@ -1,0 +1,5 @@
+Destruction is assumed to be detectable: disk drives use checksums to detect
+failures. Recovery and Atomicity: To ensure atomicity despite failures, we first output information
+describing the modifications to stable storage without modifying the database itself. We study log-based recovery
+mechanisms in detail We first present key concepts And then present the actual recovery algorithm .Less used alternative:
+shadow-paging.Log Based Recovery: A log is kept on stable storage.

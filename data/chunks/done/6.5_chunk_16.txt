@@ -1,0 +1,10 @@
+y 
+                             	
+ 1                 0          0        1        1
+or, P’  =   R(θ)  .  P                                        
+Here, rotation operator R(θ) is a 3 x 3 matrix and inverse rotation is obtained with –θ.
+Similarly, scaling relative to coordinate origin is 
+ x’              shx     0     0          x
+            		
+  	
+ y’     =      0     shy     0      .

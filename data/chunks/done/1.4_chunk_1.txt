@@ -1,0 +1,6 @@
+1.4 Semiconductor devices:
+Semiconductor diode and its characteristics
+A semiconductor diode is a two-terminal electronic device made from a p-n 
+junction, where one side is doped with acceptor atoms (p-type) and the other 
+with donor atoms (n-type). This configuration allows current to flow primarily 
+in one direction, making it a key component in rectification processes.

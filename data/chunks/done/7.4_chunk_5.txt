@@ -1,0 +1,5 @@
+Aborted –
+after the transaction has been rolled back and the database restored to its state prior to the start of the transaction. Two
+options after it has been aborted: restart the transaction can be done only if no internal logical error ,kill the
+transaction .Committed – after successful completion. Concurrent Executions : Multiple transactions are allowed to
+run concurrently in the system.

@@ -1,0 +1,6 @@
+Its purpose is to provide a useful set of
+services, generally to make the collection of machines behave more like a single machine.
+Distributed operating systems typically run cooperatively on all machines whose
+resources they control. These machines might be capable of independent operation, or
+they might be usable merely as resources in the distributed system. In some architectures,
+each machine is an equally powerful peer as all the others.

@@ -1,0 +1,31 @@
+Techniques 
+include:
+Locks: Ensure only one processor accesses a critical section at a time.
+Barriers: Processors wait until all others reach a certain point before 
+proceeding.
+Atomic Operations: Hardware-supported operations that execute without 
+interruption, such as test-and-set or compare-and-swap.
+Formulas used in synchronization include: 
+ð
+ð
+  =ð
+1+ð
+ð
+
+  ð
+¦ð
+ð
+â
+/ð
+Tsâ
+ Where ð
+ð
+
+  
+
+	
+   is the synchronized 
+execution time, ð
+1 is the execution time on a single processor, T synch is 
+
+the synchronization overhead, and n is the number of processors.

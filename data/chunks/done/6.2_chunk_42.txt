@@ -1,0 +1,12 @@
+Solution: By analysis of language the machine must guess when it has reached the middle of the 
+input string and change from state s to state f in a non deterministic fashion.  
+ 
+Let required PDA,   M= (K, ∑, Г ,∆ , S , F) where  
+K = {s , q, f} 
+∑= {a, b} 
+Г= {a, b} 
+F = {f} and  
+∆  is given by following five transitions 
+1. ((s, a, e),(s, a) //push a 
+2. ((s, b, e),(s, b) //push b 
+3.

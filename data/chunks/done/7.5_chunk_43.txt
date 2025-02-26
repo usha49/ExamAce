@@ -1,0 +1,7 @@
+In some systems when a process kills all processes it
+created are killed as well (UNIX does not work this way).
+Process State (Two state model) : In this model, we consider two main states of the
+process. These two states are State 1: Process is Running on CPU ,State 2: Process
+is Not Running on CPU . New: First of all, when a new process is created, then it is in
+Not Running State. Suppose a new process P2 is created then P2 is in NOT Running
+State.

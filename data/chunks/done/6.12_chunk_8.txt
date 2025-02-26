@@ -1,0 +1,10 @@
+If M is in state q є K and the symbol read from the input tape is a є ∑, then δ(q, a) є K is the uniquely  
+determined state to which K passes. 
+ 
+The transition from one internal state to another are governed by transition function δ.  
+If δ (q0, a) q1    then if the DFA is in state q0 and the current input symbol is 'a' the DFA will go into state 
+q1   . 
+ 
+Configuration of DFA 
+ 
+A configuration is determined by the current state and the unread part of the string being processed.

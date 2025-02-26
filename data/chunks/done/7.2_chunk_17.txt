@@ -1,0 +1,5 @@
+Initially each node is considered to be a partial tree. Each partial
+tree is maintained in a queue Q. Priority queue is associated with each partial tree, which
+contains all the arcs ordered by their weights.Shortest Path Algorithm:There are many
+problems that can be modeled using graph with weight assigned to their edges. Eg, we may set
+up the basic graph model by representing cities by vertices and flights by edges.

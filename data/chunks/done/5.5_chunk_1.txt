@@ -1,0 +1,6 @@
+Chapter 6: Application Layer 
+Web: HTTP & HTTPS 
+HTTP (Hyper Text Transfer Protocol) is the foundation of the World Wide Web. Hypertext is a well-
+organized documentation system that uses hyperlinks to link the pages in the text documents. HTTP 
+works on a client-server model. When a user wants to access any HTTP page on the internet, the client 
+machine at the user end initiates a TCP connection to the server on port 80.

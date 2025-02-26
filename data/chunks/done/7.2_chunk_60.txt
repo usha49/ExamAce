@@ -1,0 +1,9 @@
+For a list that is nearly correct to begin with, selection sort is
+slower than insertion sort.Divide and Conquer Sorting Algorithms:The idea of dividing a
+problem into smaller but similar subproblems is called divide and conquer.Divide and Conquer
+Sorting:Procedure :Sort(list) if (list has length greater than 1),Partition the list into two sublists
+lowlist, highlist;Sort(lowlist);Sort(highlist);Combine (lowlist, highlist);End If;End Procedure
+Quick Sort:It is the fastest known sorting algorithms used in practice.Divide the list into two
+sublists such that all elements in the first list is less than some pivot key and all elements in the
+second list is greater than the pivot key, and finally sort the sublists independently and combine
+them.Algorithm:If size of list A is greater than 1:Pick any element v from A.

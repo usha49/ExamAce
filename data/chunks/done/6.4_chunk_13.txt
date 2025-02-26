@@ -1,0 +1,19 @@
+By the mid 60s, a number of commercial products using these systems had appeared
+At that time only the most technology intensive organizations could use the interactive computer 
+graphics where as others used punch cards, a non-interactive system .
+Among the reasons for this were these:
+•
+The high cost of graphics hardware – at a time when automobiles cost a few thousand 
+dollars, computers cost several millions of dollars, and the first commercial computer 
+displays cost more than a hundred thousand dollars
+Anil Verma, IOE Pulchowk
+
+•
+The need for large scale expensive computing resources to support massive design 
+database
+•
+The difficulty of writing large interactive programs using batch oriented FORTRAN 
+programming
+•
+One of a kind , non-portable software, typically written for a particular manufacturer’s 
+display devices.

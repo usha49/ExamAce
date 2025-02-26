@@ -1,0 +1,7 @@
+it simply
+serves as the respiratory for any information that may vary from process to process.The
+information stored in the Process Control Block in given below Process State: The state
+may be new, ready, running, and waiting, halted, and so on. Program Counter: the
+counter indicates the address of the next instruction to be executed for this process.
+CPU register: The registers vary in number and type, depending on the computer
+architecture.

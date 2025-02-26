@@ -1,0 +1,13 @@
+ioenotes.edu.np
+
+Class Notes on Theory of Computation   [BCT II/I]  
+Chapter 2: Finite Automata 
+Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
+Page 26 of 30 
+ 
+IF Part  
+ 
+(b) Finite Automata  to Regular Expression 
+ 
+Turning a DFA into a RE 
+ Theorem: If L=L(A) for some DFA A, then there is a regular expression R such that L=L(R).

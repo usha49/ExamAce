@@ -1,0 +1,10 @@
+The operating system is responsible for the
+following activities in connection with disk management
+Free space management,
+Storage allocation, Disk scheduling. I/O System : One of the important jobs of OS is to
+manage various I/O devices including mouse, keyboard, touch pad etc. The I/O system
+
+Compiled By: Er. Pradip Khanal
+Lecturer, ACEM
+consists of: A buffer caching system, A general device driver code, Drivers for specific
+hardware devices.

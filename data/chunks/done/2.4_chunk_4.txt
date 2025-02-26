@@ -1,0 +1,6 @@
+The 16-
+bit Intel 8086 and 8088 processors marked a significant milestone in the development of modern 
+computing, enabling the widespread adoption of personal computers. Subsequent generations 
+introduced 32-bit and 64-bit architectures, allowing for greater memory addressing, enhanced 
+processing capabilities, and support for complex applications. 
+A microprocessor-based system consists of three primary components.

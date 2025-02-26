@@ -1,0 +1,6 @@
+Mode 1 introduces handshake signals 
+to facilitate synchronized data transfer, while Mode 2 allows bidirectional data flow between peripherals 
+and the microprocessor. 
+PPIs are widely used in applications such as keyboard interfacing, digital displays, and industrial 
+automation systems. They simplify data transfer between the processor and peripherals, reducing the 
+complexity of direct interfacing.

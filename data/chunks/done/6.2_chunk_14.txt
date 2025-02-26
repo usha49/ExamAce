@@ -1,0 +1,19 @@
+Solution 
+Let required grammar G = (V, ∑, R, S), where 
+V = { S, ( , ) }, 
+∑= { ( , ) }, 
+R = { 
+Se, 
+S  SS, 
+S  (S)  
+       }. 
+ 
+To generate the string   ()(()) 
+ one possible derivation is 
+S  SS  
+S(S) 
+S((S)) 
+  S(())  
+ ()(()) 
+ 
+or  we can generate by following  way.

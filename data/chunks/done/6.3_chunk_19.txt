@@ -1,0 +1,10 @@
+ioenotes.edu.np
+
+Accepting configuration: Any halting configuration whose state component is “y”  
+Rejecting configuration: Any halting configuration whose state component is “n” 
+M accepts an input w є (∑ - {□, ∆})* if (s, ∆□w) yields an accepting configuration. 
+M rejects an input w є (∑ - {□, ∆})* if (s, ∆□w) yields a rejecting configuration. 
+ 
+ 
+Recursive and recursively enumerable languages 
+There are three possible outcomes of executing a Turing machine over a given input.

@@ -1,0 +1,3 @@
+First Phase:The entries in the array being sorted are interpreted
+as a binary tree in array implementation; Tree with only one node automatically
+satisfies the heap property.

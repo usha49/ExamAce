@@ -1,0 +1,14 @@
+Perform the inverse of the translation. 
+ 
+ 
+ 
+
+Anil Verma, IOE Pulchowk 
+ 
+Making an arbitrary axis passing thru origin coincident with one of the coordinate axes requires two 
+successive rotations about the other two coordinate axes. 
+ 
+To make arbitrary rotation axis  coincident with 
+the rotation angle, about the x axis used to place the  
+arbitrary axis in the xz plane, first project the unit  
+vector along the axis onto the yz plane.

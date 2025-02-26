@@ -1,0 +1,8 @@
+The only realistic way to 
+recognize a string of a context-free grammar is to parse it. 
+ 
+A parse tree is a convenient way to represent a derivation of a particular string.  
+A ‘derivation tree’ is an ordered tree which the  nodes are labeled with the left sides of 
+productions and in which the children of a node represent its corresponding right sides. 
+Formal Definition 
+Let G = (V, ∑, R, S) be a CFG.

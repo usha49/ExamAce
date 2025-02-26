@@ -1,0 +1,28 @@
+The system adjusts its input based on the error signal 
+(difference between reference and actual output) to achieve the desired 
+performance.
+Characteristics of Close-Loop Control Systems
+Feedback: Continuous monitoring of output to ensure accuracy.
+Higher Accuracy: Able to adapt to disturbances and maintain performance.
+Complex Design: Requires additional components like sensors and controllers.
+Stability Challenges: Feedback loops must be carefully designed to avoid 
+instability.
+Examples
+A thermostat adjusts the heating or cooling based on the difference between the 
+room temperature and the desired setpoint.
+Cruise control in cars maintains a set speed by adjusting throttle input based 
+on road conditions.
+Mathematical Representation
+Close-loop systems are represented as: T(s)= G(s)/(1+G(s)H(s)) Where:
+T(s) is the overall transfer function.
+G(s) is the plant's transfer function.
+H(s) is the feedback path's transfer function.
+Components of a Close-Loop System
+Sensor: Measures the output and sends feedback.
+Controller: Computes the error and determines corrective actions.
+Actuator: Implements the controller's output to adjust the system.
+Plant: The system being controlled.
+Control:
+Control engineering focuses on designing systems to achieve desired outputs by 
+
+manipulating inputs based on feedback or predefined rules.

@@ -1,0 +1,6 @@
+Chapter 1: Introduction to Computer Networks 
+A computer network is an interconnection of various computers to share software, hardware, resources, 
+and data through a communication medium between them. Any computer networking communication 
+needs a sender, a receiver, a communication medium, protocols, and an operating system to establish 
+networking and transfer data. A network model describes the organization of various computers in a 
+network for using resources.

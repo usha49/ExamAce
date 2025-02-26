@@ -1,0 +1,7 @@
+The tape has a left end marked by special symbol denoted by ∆, but it extends infinitely to the 
+right. We will use distinct symbols ←, and → to denote the head movement to left or right. 
+Formal definition 
+A Turing Machine is a quintuple (K, ∑, δ, s, H), where: 
+ K - a finite set of states 
+ ∑ - an alphabet. ∑ contains the blank symbol □ and the left end symbol ∆, but does 
+not contain ← and →.

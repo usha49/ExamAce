@@ -1,0 +1,5 @@
+This shared key is used for encrypted communication. 
+Digital signatures play a vital role in ensuring data authenticity and integrity. A digital signature is 
+created by generating a hash of the message and encrypting it with the sender’s private key. The 
+recipient verifies the signature by decrypting the hash with the sender’s public key and comparing it to 
+the computed hash of the received message.

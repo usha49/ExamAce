@@ -1,0 +1,8 @@
+Coordinate axes Rotations: 
+ 2D z-axis rotation equations are easily extended to 3D: 
+    x’ =   xcosθ  -  ysinθ                 y’ =   xsinθ  +  ycosθ                      z’ =   z  …………(i) 
+ 
+3D z-axis rotation equations are expressed in homogenous coordinate form as 
+ 
+      x’          cosθ    -sinθ      0      0              x 
+      y’    =    sinθ     cosθ      0      0      .

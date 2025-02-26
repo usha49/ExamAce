@@ -1,0 +1,10 @@
+Proof 
+– Construct GNFA, Generalized NFA 
+– State Elimination 
+ Eliminates states of the automaton and replaces the edges with regular 
+expressions that include the behavior of the eliminated states. 
+ Eventually we get down to the situation with just a start and final node, and this is 
+easy to express as a RE 
+ 
+Let M = (K,,∆, s, F) be a finite automaton (not necessarily deterministic). We shall construct a 
+regular expression R such that L(R) = L(M).

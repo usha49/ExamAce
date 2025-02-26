@@ -1,0 +1,5 @@
+At each pass, each element in
+the list is compared to its successor and they are interchanged if they are not in proper order. At
+each pass, one element will be in its proper positions. In general, A[n-i] will be in its place after
+pass i. Since each pass place a new element in its proper position, a total of N-1 passes are
+required for a list of N elements.

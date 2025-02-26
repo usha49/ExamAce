@@ -1,0 +1,9 @@
+In embedded or real-time systems, tasks are 
+defined to perform specific operations, such as reading sensor data or 
+controlling actuators. Tasks can be classified into:
+Periodic Tasks: Execute at regular intervals.
+Aperiodic Tasks: Execute sporadically, triggered by events.
+Critical Tasks: Must meet strict timing deadlines to ensure system reliability.
+Process
+A process is an executing instance of a program, consisting of the program code, 
+data, and execution context.

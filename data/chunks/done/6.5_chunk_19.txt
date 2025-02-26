@@ -1,0 +1,3 @@
+Two Successive Translation are Additive
+Let two successive translation vectors ( tx1 , ty1 ) and ( tx2 , ty2 ) are applied to a coordinate position P then
+or, P’  =   T( tx2 , ty2 )   .  {T( tx1 , ty1 ) .  P}                and      P’  =   {T( tx2 , ty2 )  .  T( tx1 , ty1 ) } .

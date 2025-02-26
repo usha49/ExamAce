@@ -1,0 +1,6 @@
+This equivalent circuit simplifies the analysis, especially when 
+studying the effect of different load resistances on the circuit.
+ Norton`s theorem
+Norton’s theorem offers an alternative way to simplify electrical networks. It 
+states that a linear electrical network can be reduced to an equivalent circuit 
+consisting of a single current source in parallel with a resistance.

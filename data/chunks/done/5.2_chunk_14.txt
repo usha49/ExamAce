@@ -1,0 +1,5 @@
+The Sliding Window mechanism 
+allows multiple frames to be transmitted before an acknowledgment is required, improving efficiency 
+over Stop-and-Wait. 
+HDLC is a data link layer transmission protocol developed by IBM, ensuring successful data transmission 
+through frames containing address, control, data, and checksum fields.

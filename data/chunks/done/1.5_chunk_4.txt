@@ -1,0 +1,4 @@
+A common example is the Wien Bridge Oscillator, which 
+uses a bridge circuit with RC components to produce stable, low-distortion sine 
+waves. The stability and tunability of RC oscillators make them ideal for 
+applications such as audio signal generation and testing.

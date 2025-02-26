@@ -1,0 +1,6 @@
+Different types of ROM include PROM (Programmable ROM), EPROM (Erasable Programmable 
+ROM), and EEPROM (Electrically Erasable Programmable ROM), each with varying capabilities for data 
+modification. 
+Cache memory is a high-speed memory placed between the processor and RAM. It stores frequently 
+accessed data and instructions to reduce access time. It is classified into levels, such as L1 (Level 1), L2 
+(Level 2), and L3 (Level 3) cache, based on proximity to the processor.

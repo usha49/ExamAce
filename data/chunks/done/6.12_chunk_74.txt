@@ -1,0 +1,8 @@
+Since the 
+labels on the edges of an NFA may be either e  or members of each of these can be 
+considered to be a regular expression. 
+3. Removes states one by one from the NFA, relabeling edge as you go, until only the 
+initial and the final state remain. 
+4. Read the final regular expression from the two state automatons that results. The 
+regular expression derived in the final step accepts the same language as the original 
+NFA.

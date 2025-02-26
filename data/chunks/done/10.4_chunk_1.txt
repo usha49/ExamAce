@@ -1,0 +1,5 @@
+10.4 Project Management
+Project management is the systematic process of planning, executing, monitoring, and
+completing projects within defined constraints such as time, cost, and resources. It involves
+various knowledge areas and methodologies that help ensure projects are completed efficiently
+and successfully.

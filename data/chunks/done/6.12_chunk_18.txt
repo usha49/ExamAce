@@ -1,0 +1,8 @@
+ 
+The automaton, as it reads the input string, may choose at each step to go into anyone of these 
+legal next states; the choice is not determined by anything in our model, and is therefore said to 
+be nondeterministic. 
+ 
+Nondeterministic devices are not meant as realistic models of computers. They are simply a 
+useful notational generalization of finite automata, as they can greatly simplify the description of 
+these automata.

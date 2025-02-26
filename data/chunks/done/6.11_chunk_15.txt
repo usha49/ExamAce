@@ -1,0 +1,6 @@
+If A and B have no common element, that is, A ∩B = ø , then the sets A and B 
+are said to be disjoint. 
+(b) Cardinality. The “Cardinality” of a set A, written |A|, is the number of elements in set A. 
+(c) Powerset. The “powerset” of a set A, written 2A, is the set of all subsets of 
+A; i.e., a set containing ‘n’ elements has a powerset containing 2n elements. 
+(d) Cartesian Product. Let A and B be two sets.

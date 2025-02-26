@@ -1,0 +1,5 @@
+System errors: the database system must terminate an active transaction due to an error
+condition (e.g., deadlock). System crash: a power failure or other hardware or software failure causes the system to
+crash. Fail-stop assumption: non-volatile storage contents are assumed to not be corrupted by system crash . Database
+systems have numerous integrity checks to prevent corruption of disk data . Disk failure: a head crash or similar disk
+failure destroys all or part of disk storage.

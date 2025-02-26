@@ -1,0 +1,6 @@
+The program evaluation and review technique (PERT) is used for projects with
+uncertain task durations, employing probabilistic time estimates to improve scheduling
+accuracy.
+Resource leveling and resource smoothing are techniques used to optimize resource allocation.
+Resource leveling ensures that resource demand does not exceed availability, while resource
+smoothing adjusts task distribution to maintain a consistent workload.
