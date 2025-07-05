@@ -1,6 +1,0 @@
-At the transport layer, an address is needed to choose among multiple processes running on the 
-destination host called Port Number. A socket is one endpoint of a two-way communication link 
-between two processes running on the network. A socket is bound to a port number so that the TCP 
-layer can identify the application that data is destined to be sent. 
-Connection Establishment, Connection Release 
-A TCP uses a 3-way handshaking mechanism to establish the connection between the nodes.

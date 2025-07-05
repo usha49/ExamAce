@@ -1,8 +1,0 @@
-Generally, heap sort is used
-for large amount of data.
-Heap as Priority Queue:A priority queue is a data structure with the following
-primitive operations:Insert an item;Remove the item having the largest (or smallest)
-key.Implementations:Use a sorted contiguous list, removal takes O(1) but insertion takes
-O(n);Use an unsorted list, insertion takes O(1) but removal takes O(n) Efficiency
-Priority Queue:Consider the properties of heap:The item with largest key is on the top
-and can be removed immediately.

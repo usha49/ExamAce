@@ -1,8 +1,0 @@
-These two methods are equivalent, in the sense that a language L has a PDA that accepts it by 
-final state if and only if L has a PDA that accepts it by empty stack. 
-However for a given PDA P, the languages that P accepts by final state and by empty stack are 
-usually different. We will show conversion of a PDA accepting L by final state into another PDA 
-that accepts L by empty stack, and vice-versa. 
-Acceptance by Final State 
- 
-Let M = (K,, δ, s, Г,  F) be a PDA.

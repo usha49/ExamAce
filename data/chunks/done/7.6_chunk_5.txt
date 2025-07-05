@@ -1,5 +1,0 @@
-This allows large
-applications to run even if the system has limited physical memory. Paging is a technique used
-in virtual memory management, where memory is divided into fixed-sized blocks called pages
-that are mapped to frames in physical memory. Demand paging loads pages into memory only
-when they are needed, reducing memory usage and improving efficiency.

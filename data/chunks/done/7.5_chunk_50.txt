@@ -1,3 +1,0 @@
-They include accumulator, index registers, stack pointers, and general-
-purpose registers. Along with the program counter, this state information must be saved
-when an interrupt occurs, to allow the process to be continued correctly afterward.

@@ -1,7 +1,0 @@
-The basic 
-steps followed by TCP to establish the connection are as follows: Step 1: Client end system sends 
-SYNchronize packet to server. Step 2: Server end system receives SYN, replies with SYNchronize-
-ACKnowledgement. Step 3: Client receives SYN-ACK and sends ACKnowledge to server, and Server 
-receives ACK. 
-Flow Control & Buffering 
-The transport layer manages end-to-end flow.

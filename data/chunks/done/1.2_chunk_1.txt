@@ -1,7 +1,0 @@
-1.2 Network theorems:
-Concept of superposition theorem
-The concept of superposition theorem is foundational in the analysis of linear 
-electrical circuits. This theorem is used to calculate the total response in a 
-circuit containing multiple independent sources by considering the effect of 
-each source separately. In this process, all other sources are replaced with 
-their internal impedances.

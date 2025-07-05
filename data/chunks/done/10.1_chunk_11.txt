@@ -1,6 +1,0 @@
-This technique helps engineers understand the internal
-structure and hidden components of complex assemblies. Sectional drawings can be classified
-into different types, including full sections, which cut through the entire object; half sections,
-which show only half of the internal view while keeping the other half intact; and offset sections,
-which follow a non-linear cutting plane to reveal important internal details.
-.

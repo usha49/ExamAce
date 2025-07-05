@@ -1,4 +1,0 @@
-It includes
-various types such as linear dimensions, which define straight-line distances; angular
-dimensions, which measure angles between intersecting lines; and radial dimensions, which
-describe circular features.

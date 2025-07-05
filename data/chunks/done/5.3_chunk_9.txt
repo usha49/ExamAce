@@ -1,6 +1,0 @@
-Internet address may also refer to the 
-name or IP of a Web site (URL), someone’s e-mail address. In classless addressing, variable-length blocks 
-are assigned that belong to no class. In this architecture, the entire address space (232 addresses) is 
-divided into blocks of different sizes. 
-Classful addressing is based on the default Class A, B, or C networks. All devices in the same routing 
-domain must use the same subnet mask.

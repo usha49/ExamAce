@@ -1,8 +1,0 @@
-Compare the middle element with an item.There are three cases.If
-it is a desired element then search is successful,If it is less than the desired item then search only
-in the first half of the array.If it is greater than the desired item, search in the second half of the
-array.Repeat the same steps until an element is found or search area is exhausted.In this way, at
-each step we reduce the length of the list to be searched by half.Requirements The list must be
-ordered,Rapid random access is required, so we cannot use binary search for a linked
-list.Algorithm Let 'a’ be the array of size 'Maxsize' and 'LB', 'UB' and 'mid' are variables to
-denote first, last and middle location of a segment.

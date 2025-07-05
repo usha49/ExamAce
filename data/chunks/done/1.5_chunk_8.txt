@@ -1,6 +1,0 @@
-This natural frequency acts as the resonant 
-frequency of the oscillator circuit. Crystal oscillators are known for their 
-precision and are commonly used in applications requiring stable timing and 
-frequency control, such as clocks, microprocessors, and communication systems. 
-The Pierce Oscillator is a popular circuit configuration for crystal 
-oscillators, combining the crystal with an amplifier and feedback network.

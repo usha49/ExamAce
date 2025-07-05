@@ -1,9 +1,0 @@
-Reasoning in Belief Networks
-Types of Reasoning
-Causal Reasoning: From causes to effects.
-Diagnostic Reasoning: From effects to causes.
-Intercausal Reasoning: Between causes of a common effect.
-Algorithms
-Exact Inference: Variable Elimination.
-Approximate Inference: Monte Carlo methods.
-.

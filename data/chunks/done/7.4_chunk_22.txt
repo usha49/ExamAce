@@ -1,6 +1,0 @@
-The log is a sequence of log records,
-and maintains a record of update activities on the database. When transaction Ti starts, it registers itself by writing a <Ti
-start>log record .Before Ti executes write(X), a log record <Ti, X, V1, V2> is written, where V1 is the value of X before
-
-the write (the old value), and V2 is the value to be written to X (the new value). When Ti finishes it last statement, the
-log record <Ti commit> is written.

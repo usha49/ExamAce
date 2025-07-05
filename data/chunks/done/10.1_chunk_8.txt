@@ -1,5 +1,0 @@
-These diagrams use standardized symbols to represent
-components and their connections, making complex systems easier to understand.
-Orthographic projection is a method of visually representing three-dimensional objects using
-multiple two-dimensional views. It follows parallel projection principles, showing different
-aspects of an object such as front, top, and side views.

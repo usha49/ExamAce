@@ -1,8 +1,0 @@
-Together, these 
-concepts form the backbone of circuit analysis, helping engineers understand and 
-predict the behavior of electrical systems.
-power and energy
-Electric power represents the rate at which electrical energy is converted into 
-another form of energy, such as heat, light, or motion. It is a critical concept 
-in understanding the efficiency and functionality of electrical devices. Power 
-depends on both the voltage supplied and the current flowing through a device.

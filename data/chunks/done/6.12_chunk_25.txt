@@ -1,3 +1,0 @@
-For any set s  Q of states of M, we define the 
-e-closure of S, denoted by E(S) to be the set of states reachable from s via zero or more e 
-transition in a row.

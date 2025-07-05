@@ -1,6 +1,0 @@
-The channel allocation 
-problem involves managing shared broadcast channels among multiple users. Static channel allocation 
-methods like Frequency Division Multiplexing (FDM) and Time Division Multiplexing (TDM) waste 
-bandwidth in dynamic environments. Dynamic allocation methods like ALOHA and CSMA are more 
-efficient. 
-Multiple Access Protocols regulate transmission on shared broadcast channels.

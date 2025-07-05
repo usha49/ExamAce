@@ -1,5 +1,0 @@
-Configuration defines how these 
-components interact to execute programs, emphasizing modularity, scalability, 
-and performance. In modern systems, configurations range from single-core 
-processors to complex multicore architectures with specialized accelerators like 
-GPUs and TPUs for specific workloads.

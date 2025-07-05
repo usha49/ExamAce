@@ -1,9 +1,0 @@
-L+ denotes Positive  closure and is given by L+ =  
-i 
- L+=  LL* 
- 
-Regular Languages 
-The regular languages are those languages that can be constructed from the “big three” set 
-operations viz., (a) Union (b) Concatenation (c) Kleene star.  
-A regular language is defined as follows. 
-Definition: Let    be an alphabet.

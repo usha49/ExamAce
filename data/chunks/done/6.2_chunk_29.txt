@@ -1,6 +1,0 @@
-There are no unit productions, so we may begin by replacing terminals on the right by variables, 
-except in the case of the productions A a and B b. 
-S  bA is replaced by S  Cb A and Cb b.  
-Similarly, AaS is replaced by A  Ca S and C a  a and A  bAA is replaced by ACbAA; 
-S aB is replaced by S Ca B; 
-B  bS is replaced by B Cb S, and B  aBB is replaced by B Ca BB.

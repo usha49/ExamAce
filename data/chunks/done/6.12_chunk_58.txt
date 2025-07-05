@@ -1,9 +1,0 @@
-Mark a state (A, B) as final if A is a final state in L1, but B is not a final state in L2. 
- 
- 
-State Minimization 
-Minimization of DFA 
-For a given language, many DFA may exist that accept it. The DFA we produce from a NFA 
-may contain many dead states, inaccessible states and indistinguishable states. All these 
-unnecessary states can be eliminated from the DFA through a process called minimization. 
-For practical applications, it is desirable that number of states in the DFA is minimum.

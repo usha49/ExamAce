@@ -1,6 +1,0 @@
-A socket address 
-possesses the combination between the IP address and a port number, much like one of the ends of a 
-telephone connection has the combination between a phone number and a particular extension in a 
-telephone system. 
-Application Server Concept: Proxy Caching, Web/Mail/DNS Server Optimization 
-Proxy caching allows a server to act as an intermediary between a user and a provider of web content.

@@ -1,7 +1,0 @@
-When a key
-value hashes and collision occurs for key, this method probes the table location at(h (k) + 12) %
-table-size,(h (k) + 22) % table-size,(h (k) + 32) % table-size and so on.Double Hashing:When
-collision occurs, a new hash function is defined.H2(key) = R – (key%R)Where R is the nearest
-prime number from its table size.Rehashing: If at any stage the hash table become almost full
-(when packing density is more than 70%) then it will be difficult to find the free slot which will
-increase execution time.

@@ -1,4 +1,0 @@
-To derive 
-the Norton equivalent, the short-circuit current is calculated across the 
-terminals of interest, while the equivalent resistance is found in the same 
-manner as in Thevenin's theorem.

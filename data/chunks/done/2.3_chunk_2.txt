@@ -1,3 +1,0 @@
-The gated flip-flop introduces an enable
-input, ensuring state changes occur only when enabled. Edge-triggered flip-flops transition
-states on specific clock edges, either rising or falling, reducing timing errors.

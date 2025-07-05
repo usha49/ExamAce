@@ -1,6 +1,0 @@
-The control unit operates in discrete steps; at each step it performs two functions in a way that 
-depends on its current state and the tape symbol currently scanned by the read/write head: 
-(1) Put the control unit in a new state. 
-(2) Either: 
-      (a) Write a symbol in the tape square currently scanned, replacing the one already there; or 
-      (b) Move the read/write head one tape square to the left or right.

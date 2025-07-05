@@ -1,7 +1,0 @@
-For instance, voltage sources are replaced with short 
-circuits, while current sources are replaced with open circuits. After 
-determining the contributions of each source individually, the total response is 
-obtained by summing these contributions algebraically. Superposition is 
-particularly beneficial in simplifying the analysis of circuits with multiple 
-power sources, making it easier to determine voltage, current, or power at any 
-point in the circuit.

@@ -1,8 +1,0 @@
-If the graph supports
-
-Soring
-5
-m>n, then at least one of the node is visited twice or more times in the path. It means, we can
-discard the cycling path from the node to the same node. The removal process is repeated until
-no node is repeated in the path. This ensures that the paths that exist in the graph be less than or
-equal to n.

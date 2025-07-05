@@ -1,6 +1,0 @@
-These concepts are fundamental in designing 
-electrical systems and ensuring their optimal performance in various 
-applications, from household appliances to industrial machines.
-conducting and insulating materials
-Materials are classified as conductors or insulators based on their ability to 
-allow the flow of electric current.

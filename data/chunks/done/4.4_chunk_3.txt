@@ -1,7 +1,0 @@
-Depending on the application, 
-embedded systems can be simple microcontroller-based setups or complex, multi-
-processor systems.
-Classification of Embedded Systems
-Embedded systems can be classified based on their functionality, performance, 
-and application:
-Real-Time Embedded Systems: Operate under strict timing constraints.

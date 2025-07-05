@@ -1,5 +1,0 @@
-The basic idea is to compare two elements; if out
-of order, swap them or move one of the elements. E.g. Bubble sort, Quick sort.Selection
-sort:An element is selected and is placed in its correct position. e. g .Selection sort, Heap
-sort.Insertion sort:Sorts by inserting an element into a sorted list. E. g. insertion sort, merge
-sort.Bubble sort: Pass through the list sequentially several times.

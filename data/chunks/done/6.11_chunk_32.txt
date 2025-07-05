@@ -1,2 +1,0 @@
-Then the sum on the left is zero, since there is nothing to add. The 
-expression on the right is also zero.

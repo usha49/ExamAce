@@ -1,6 +1,0 @@
-In two’s
-complement, the negative of a number is obtained by inverting all bits and adding 1, allowing
-subtraction to be handled as addition. Unsigned binary numbers represent only positive values,
-while signed binary numbers use different methods to indicate positive and negative values. In
-sign-magnitude representation, the most significant bit (MSB) denotes the sign, with 0
-indicating positive and 1 indicating negative.

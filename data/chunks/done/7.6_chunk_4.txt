@@ -1,6 +1,0 @@
-Fragmentation is classified into
-internal fragmentation, where allocated memory has unused space, and external fragmentation,
-where free memory exists but is not contiguous. Techniques such as compaction, paging, and
-segmentation help reduce fragmentation and optimize memory usage.
-Virtual memory management extends the system’s usable memory beyond the physical RAM by
-using secondary storage (such as a hard disk) as an extension of memory.

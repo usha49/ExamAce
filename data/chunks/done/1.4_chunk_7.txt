@@ -1,7 +1,0 @@
-The large-signal model, on the other hand, is used to 
-analyze the transistor's behavior when significant variations in current and 
-voltage occur, such as in switching applications. These models are indispensable 
-in designing and analyzing amplifiers, oscillators, and other analog circuits.
-Working principle of MOSFET
-The metal-oxide-semiconductor field-effect transistor (MOSFET) is a voltage-
-controlled device widely used in analog and digital circuits.

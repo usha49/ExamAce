@@ -1,7 +1,0 @@
-of
-comparisons= O(n2)No. of Interchanges:This cannot be greater than no. of comparisons,In the
-best case, there are no interchanges,In the worst case, this equals no of comparisons.The
-average and worse case running time of bubble sort is O(n2).It is actually the no of interchanges
-which takes up most time of the program’s execution than the no of comparisons.When
-elements are large and interchange operation is expensive, it is better to maintain an array of
-pointers to the elements.

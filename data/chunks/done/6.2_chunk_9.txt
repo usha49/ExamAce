@@ -1,8 +1,0 @@
-We say u derives v and write u  *  v  if there is a derivation 
-(for some k ≥ 0): u  u1 u2 ……… uk   v 
-When the grammar to which we refer is obvious, we write A  w and u  v instead of A G   
-w and u G v. 
-We call any sequence of the form 
-W0 G WI G ... GWn   is called a derivation in G of Wn from W0.    Here Wo,···, Wn may be 
-any strings in V*, and n, the length of the derivation, may be any natural number, including zero. 
-We also say that the derivation has n steps.

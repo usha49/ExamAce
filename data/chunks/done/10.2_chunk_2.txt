@@ -1,6 +1,0 @@
-A positive
-cash flow indicates that a project is financially sustainable, while a negative cash flow may
-suggest the need for financial restructuring.
-The discount rate, interest, and time value of money are essential concepts in engineering
-economics. The discount rate is the rate used to convert future cash flows into present value,
-considering factors like inflation and opportunity cost.

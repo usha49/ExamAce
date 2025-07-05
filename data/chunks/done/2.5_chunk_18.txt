@@ -1,4 +1,0 @@
-RS-485 is an enhanced version of RS-232 that allows multiple devices to 
-share a single communication line, making it ideal for industrial automation and multi-device networks. 
-USB (Universal Serial Bus) is a modern serial communication standard that supports high-speed data 
-transfer, hot-plugging, and power delivery.

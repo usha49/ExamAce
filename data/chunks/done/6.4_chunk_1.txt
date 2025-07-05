@@ -1,6 +1,0 @@
-Computer Graphics
-Introduction
-Computer graphics is a field related to the generation of graphics using computers. It includes 
-the creation, storage and manipulation of images of objects. These objects come from diverse 
-fields such as physical, mathematical engineering , architectural abstract structures and natural 
-phenomenon.

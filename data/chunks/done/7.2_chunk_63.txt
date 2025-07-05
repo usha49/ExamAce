@@ -1,5 +1,0 @@
-Move up left,
-skipping over elements that are larger than the pivot; When down and up have stopped, down
-is pointing at a large element and up is pointing at a small element; If down is left of up, swap
-the elements at down and up (The effect is to push a large element to the right and a small
-element to the left);Swap the first element (pivot) with the element at up.

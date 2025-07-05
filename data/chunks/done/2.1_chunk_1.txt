@@ -1,6 +1,0 @@
-2.1 Digital Logic
-Digital logic forms the core of computing and electronics, using number systems, logic levels,
-logic gates, Boolean algebra, and simplification methods like Karnaugh maps. Number systems
-in digital logic include decimal, binary, octal, and hexadecimal. The decimal system, used in
-everyday life, is base 10 with digits from 0 to 9. The binary system, fundamental to digital
-circuits, operates with only two digits: 0 and 1.

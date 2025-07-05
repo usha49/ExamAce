@@ -1,6 +1,0 @@
-Since routers running a classful routing protocol do not include 
-subnet mask information with routing updates, the router assumes either its own subnet mask or 
-defaults to the classful subnet mask. 
-Classless addressing, on the other hand, allows the use of variable-length subnet masks, or Variable-
-Length Subnet Masking (VLSM), because subnet mask information is included with routing updates. You 
-can have a mixture of different subnet masks in the same routing domain.

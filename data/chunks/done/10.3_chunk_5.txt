@@ -1,4 +1,0 @@
-Monitoring, evaluation,
-and control are essential for tracking project performance, identifying deviations, and
-implementing corrective actions.
-.

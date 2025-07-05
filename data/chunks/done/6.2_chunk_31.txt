@@ -1,5 +1,0 @@
-So all CFG's  are not accepted by FA. here  we 
-need to remember the strings before it goes to next part of the string and compare it with first 
-half but FA can't do this because in FA don’t have capability of remember anything.  PDA  is 
-essentially a FA with control of both an input tape and a stack to store what it has read. A stack is 
-a FIFO. PDA can accept all CFGs.

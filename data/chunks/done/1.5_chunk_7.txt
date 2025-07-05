@@ -1,7 +1,0 @@
-However, the accuracy of LC oscillators can be affected by the tolerance of the 
-components used.
-Basic Principles of Crystal Oscillators Circuits
-Crystal oscillators utilize the piezoelectric properties of quartz crystals to 
-generate highly stable and accurate frequencies. When a crystal is subjected to 
-an electric field, it vibrates mechanically at a natural frequency determined by 
-its physical dimensions and cut.

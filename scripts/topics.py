@@ -1,117 +1,51 @@
 # Dictionary containing all chapters and their topics
+# chapters_and_topics = {
+#     "3.1": [
+#         "C Tokens", "Operators", "Formatted Input/Output", "Unformatted Input/Output",
+#         "Control Statements", "Looping", "User-defined functions", "Recursive functions",
+#         "Array (1-D, 2-D, Multi-dimensional)", "String manipulations"
+#     ],
+#     "3.2": [
+#         "Pointer Arithmetic", "Pointer and array", "Passing pointer to function",
+#         "Structure vs Union", "Array of structure", "Passing structure to function",
+#         "Structure and pointer", "Input/output operations on files",
+#         "Sequential Access to File", "Random Access to File"
+#     ],
+#     "3.3": [
+#         "Namespace", "Function Overloading", "Inline functions", "Default Argument",
+#         "Pass by reference", "Return by reference", "Introduction to Class and object",
+#         "Access Specifiers", "Objects and the Member Access", "Defining Member Function",
+#         "Constructor and its type", "Destructor", "Dynamic memory allocation for objects",
+#         "Object array", "this Pointer", "static Data Member", "static Function",
+#         "Constant Member Functions", "Constant Objects", "Friend Function", "Friend Classes"
+#     ],
+#     "3.4": [
+#         "Operator overloading (unary, binary)", "Data conversion", "Inheritance (single)",
+#         "Inheritance (multiple)", "Inheritance (multilevel)", "Inheritance (hybrid)",
+#         "Inheritance (multipath)", "Constructor in single inheritance",
+#         "Destructor in single inheritance", "Constructor in multilevel inheritance",
+#         "Destructor in multilevel inheritance"
+#     ],
+#     "3.5": [
+#         "Pure virtual function", "Virtual function", "Dynamic binding",
+#         "Defining opening and closing a file", "Input operations on files",
+#         "Output operations on files", "Error handling during input/output operations",
+#         "Stream Class Hierarchy for Console Input/Output", "Unformatted Input/Output",
+#         "Formatted Input/Output with ios Member functions and Flags",
+#         "Formatting with Manipulators"
+#     ],
+#     "3.6": [
+#         "Function Template", "Overloading Function Template", "Class Template",
+#         "Function Definition of Class Template", "Standard Template Library (Containers)",
+#         "Standard Template Library (Algorithms)", "Standard Template Library (Iterators)",
+#         "Exception Handling Constructs (try, catch, throw)", "Multiple Exception Handling",
+#         "Rethrowing Exception", "Catching All Exceptions", "Exception with Arguments",
+#         "Exception Specification for Function", "Handling Uncaught Exceptions",
+#         "Handling Unexpected Exceptions"
+#     ]
+# }
 chapters_and_topics = {
-    "7.1": [
-        "Data types, data structures and abstract data types", 
-        "Time and space analysis of algorithms (Big oh, omega and theta notations)", 
-        "Linear data structure (Stack and queue implementation)", 
-        "Stack application: infix to postfix conversion, and evaluation of postfix expression", 
-        "Array implementation of lists", 
-        "Stack and Queues as list", 
-        "Static list structure", 
-        "Static and dynamic list structure", 
-        "Dynamic implementation of linked list", 
-        "Types of Linked list: Singly Linked list, Doubly Linked list, and Circular Linked list", 
-        "Basic operations on Linked list: creation of linked list, insertion of node in different positions, and deletion of nodes from different positions", 
-        "Doubly linked lists and its applications", 
-        "Concept of Tree", 
-        "Operation in Binary tree", 
-        "Tree search", 
-        "Insertion/deletions in Binary Tree", 
-        "Tree traversals (pre-order, post-order and in-order)", 
-        "Height, level and depth of a tree", 
-        "AVL balanced trees"
-    ],
-    "7.2": [
-        "Types of sorting: internal and external", 
-        "Insertion and selection sort", 
-        "Exchange sort", 
-        "Merge and Radix sort", 
-        "Shell sort", 
-        "Heap sort as a priority queue", 
-        "Big ‘O’ notation and Efficiency of sorting", 
-        "Search technique", 
-        "Sequential search", 
-        "Binary search", 
-        "Tree search", 
-        "General search tree", 
-        "Hashing: Hash function and hash tables", 
-        "Collision resolution technique", 
-        "Undirected and Directed Graphs", 
-        "Representation of Graph", 
-        "Transitive closure of graph", 
-        "Warshall’s algorithm", 
-        "Depth First Traversal and Breadth First Traversal of Graph", 
-        "Topological sorting (Depth first, Breadth first topological sorting)", 
-        "Minimum spanning trees (Prim’s, Kruskal’s and Round-Robin algorithms)", 
-        "Shortest-path algorithm (Greedy algorithm, and Dijkstra’s Algorithm)"
-    ],
-    "7.3": [
-        "Data Abstraction and Data Independence", 
-        "Schema and Instances", 
-        "E-R Model", 
-        "Strong and Weak Entity Sets", 
-        "Attributes and Keys", 
-        "E-R Diagram", 
-        "Different Normal Forms (1st, 2nd, 3rd, BCNF)", 
-        "Functional Dependencies", 
-        "Integrity Constraints and Domain Constraints", 
-        "Relations (Joined, Derived)", 
-        "Queries under DDL and DML Commands", 
-        "Views", 
-        "Assertions and Triggering", 
-        "Relational Algebra", 
-        "Query Cost Estimation", 
-        "Query Operations", 
-        "Evaluation of Expressions", 
-        "Query Optimization", 
-        "Query Decomposition"
-    ],
-    "7.4": [
-        "ACID properties", 
-        "Concurrent Executions", 
-        "Serializability Concept", 
-        "Lock based Protocols", 
-        "Deadlock handling and Prevention", 
-        "Failure Classification", 
-        "Recovery and Atomicity", 
-        "Log-based Recovery"
-    ],
-    "7.5": [
-        "Evolution of Operating System", 
-        "Type of Operating System", 
-        "Operating System Components", 
-        "Operating System Structure", 
-        "Operating System Services", 
-        "Introduction to Process", 
-        "Process description", 
-        "Process states", 
-        "Process control", 
-        "Threads", 
-        "Processes and Threads", 
-        "Types of scheduling", 
-        "Principles of Concurrency", 
-        "Critical Region", 
-        "Race Condition", 
-        "Mutual Exclusion", 
-        "Semaphores and Mutex", 
-        "Message Passing", 
-        "Monitors", 
-        "Classical Problems of Synchronization"
-    ],
-    "7.6": [
-        "Memory address", 
-        "Swapping and Managing Free Memory Space", 
-        "Virtual Memory Management", 
-        "Demand Paging", 
-        "Performance", 
-        "Page Replacement Algorithms", 
-        "Introduction to File, Directory and File Paths", 
-        "File System Implementation", 
-        "Impact of Allocation Policy on Fragmentation", 
-        "Mapping File Blocks on The Disk Platter", 
-        "File System Performance", 
-        "Administration Tasks", 
-        "User Account Management", 
-        "Start and Shutdown Procedures"
-    ]
-}
+     "vv": [
+         "Web Browser", "FTP", "Switching", "Firewall",
+         "XML", "Email", "XDSL"
+     ]}

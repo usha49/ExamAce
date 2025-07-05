@@ -1,4 +1,0 @@
-This search technique
-searches the given item in minimum possible comparisons. To do the binary search, first we
-have to sort the array elements. The logic behind this technique is given below.First find the
-middle element of the array.

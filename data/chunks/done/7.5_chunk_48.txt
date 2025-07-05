@@ -1,6 +1,0 @@
-Process Control Block
-(PCB) : A process control block or PCB is a data structure (a table) that holds
-information about a process. Every process or program that runs needs a PCB. When a
-user requests to run a particular program, the operating system constructs a process
-control block for that program. It is also known as Task Control Block (TCB). It
-contains many pieces of information associated with a specific process i.e.

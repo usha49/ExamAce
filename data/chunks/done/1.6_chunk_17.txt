@@ -1,3 +1,0 @@
-Modern op-amps are implemented as integrated circuits, offering 
-excellent performance and reliability in compact packages. 
-.

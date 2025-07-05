@@ -1,6 +1,0 @@
-Instead of drawing all the necessary frames with slightly changing scenes for 
-the production of cartoon film only the key frames are sufficient for such cartoon film where 
-the in between frames are interpolated by the graphics system dramatically decreasing the 
-cost production while maintaining the quality. Computer and video games such as Fifa, 
-Formula-1, Doom and Pools are few to name where computer graphics is used extensively
-8.

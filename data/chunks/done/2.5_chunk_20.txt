@@ -1,5 +1,0 @@
-A DMA controller manages the data transfer process by requesting access to the system bus, performing 
-the memory transaction, and notifying the processor upon completion. The Intel 8237 DMA controller is 
-a commonly used chip that supports multiple DMA channels, enabling concurrent data transfers. 
-DMA operations can be classified into burst mode, cycle stealing mode, and transparent mode. In burst 
-mode, the DMA controller transfers a block of data in a single operation.

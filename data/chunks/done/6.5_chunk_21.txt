@@ -1,6 +1,0 @@
-T( tx1 , ty1 )   =   T( tx1 + tx2 , ty1 + ty2 )
- 
-ii. Two successive Scaling operations are Multiplicative
-Let ( sx1 , sy1 ) and ( sx2 , sy2 ) be two successive  vectors  applied to a coordinate position P then the composite scaling 
-matrix thus produced is 
-or, P’  =   S( sx2 , sy2 )   .  {S( sx1 , sy1 ) .  P}    and      P’  =   {S( sx2 , sy2 )  .  S( sx1 , sy1 ) } .

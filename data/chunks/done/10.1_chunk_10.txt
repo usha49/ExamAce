@@ -1,6 +1,0 @@
-Pictorial views, including perspective and oblique
-projections, are used to present objects in a way that closely resembles how they appear to the
-human eye. These views are commonly used in presentations and design concepts to provide a
-more realistic representation of an object.
-Sectional drawings are used to reveal the internal features of an object by cutting through it and
-displaying a cross-sectional view.

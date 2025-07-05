@@ -1,6 +1,0 @@
-In matrix d(n), we consider only path (not
-the weight). Thus, (dk) can be regarded as Boolean matrix.If there is a path from i to j, then (i,
-j)th entry in dk is 1 (which means true) otherwise the value is 0. If ‘A’ is the adjacency matrix of
-graph ‘G’, then the transitive closure is defined to be a Boolean matrix with the above
-property.A+ Matrix has the following property:1 if there is a path from i to j 0 otherwise.The
-matrix A+ is called the transitive closure.

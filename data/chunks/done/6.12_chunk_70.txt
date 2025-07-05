@@ -1,3 +1,0 @@
-A nondeterministic finite automaton 
-accepting the language denoted by this regular expression can be built up using the 
-methods in the proof of the various parts of Theorem.

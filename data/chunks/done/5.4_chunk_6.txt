@@ -1,7 +1,0 @@
-If the receiver is not able to manage with the flow of 
-data, then data flow should be controlled from the sender side, that part is done on the Transport layer. 
-Data link layer is also doing flow control, but it controls the flow of data between adjacent nodes in the 
-path from source to destination. 
-Multiplexing & Demultiplexing 
-In computer networks, multiplexing is a technique by which multiple analog or digital signals are 
-combined into one signal over a shared medium for transmission.

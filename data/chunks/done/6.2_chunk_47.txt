@@ -1,2 +1,0 @@
-In fact we could show, though we do 
-not do so, that non-determinism is essential for recognizing this language with a PDA.

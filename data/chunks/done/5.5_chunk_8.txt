@@ -1,4 +1,0 @@
-Socket Programming 
-A network socket is presented as the endpoint of an inter-process communication flow across a 
-computer network. Today, most communication between computers is based on the Internet 
-Protocols. So, nowadays, most network sockets that we use are Internet sockets.

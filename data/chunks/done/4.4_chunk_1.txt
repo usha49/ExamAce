@@ -1,6 +1,0 @@
-4.4 Hardware-Software design issues on embedded system:
-Embedded Systems overview
-An embedded system is a dedicated computing system designed to perform specific 
-tasks, often within larger mechanical or electrical systems. Unlike general-
-purpose computers, embedded systems are optimized for efficiency, reliability, 
-and functionality within their intended environment.

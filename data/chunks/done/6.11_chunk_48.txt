@@ -1,6 +1,0 @@
- ø and each member of  is a regular expression. 
- If α and β are regular expressions, then so is (α β). 
- If α and β are regular expressions, then so is (α  β). 
- If α is a  regular expressions, then so is  α* . 
- Nothing is a regular expression unless it follows from (1) through (4). 
-Note: Every regular expression is associated with some language.

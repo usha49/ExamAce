@@ -1,8 +1,0 @@
-An example of such a problem is “Is an arbitrary mathematical statement true or false?” To 
-attack such a problem, we need formal definitions of the notions of 
- computer, 
- algorithm, and 
- computation. 
-The theoretical models that were proposed in order to understand solvable and unsolvable 
-problems led to the development of real computers. 
-Central Question in Computability Theory: Classify problems as being solvable or unsolvable.

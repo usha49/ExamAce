@@ -1,4 +1,0 @@
-This overlap eliminates the crossover distortion inherent in Class B designs 
-while retaining much of the efficiency advantage. The design involves careful 
-biasing, often using diodes or temperature-compensating circuits, to maintain 
-stability and minimize thermal drift.

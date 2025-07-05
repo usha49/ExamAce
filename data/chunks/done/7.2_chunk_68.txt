@@ -1,3 +1,0 @@
-of Comparisons:For all cases the number of comparisons is to be
-O(n*logn), the constant term is different for different cases. On average, it requires
-fewer than n* logn – n + 1 comparisons.No.

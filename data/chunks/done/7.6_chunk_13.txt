@@ -1,7 +1,0 @@
-Caching improves performance by storing frequently
-accessed file data in memory, reducing disk I/O operations. Journaling file systems, such as
-ext3, ext4, and NTFS, maintain a log of file system changes before committing them, preventing
-data loss in case of system crashes.
-
-System administration involves managing and maintaining computer systems, networks, and
-servers to ensure smooth operation.

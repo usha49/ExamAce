@@ -1,8 +1,0 @@
-It is calculated as the square root of the 
-average of the squares of instantaneous values over one cycle and is widely used 
-in practical applications to quantify power.
-Three phase system
-A three-phase system is a method of generating, transmitting, and distributing 
-electrical power using three alternating voltages or currents that are phase-
-shifted by 120 degrees from each other. This system is highly efficient and 
-widely used in industrial and power applications.

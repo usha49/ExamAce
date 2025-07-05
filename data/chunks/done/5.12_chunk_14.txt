@@ -1,4 +1,0 @@
-Virtual circuit switching combines aspects of both circuit and packet switching by 
-establishing a logical connection between devices while allowing data to be transmitted in packets. 
-Integrated Services Digital Network (ISDN) is a digital communication system that provides voice, video, 
-and data services over traditional telephone lines.

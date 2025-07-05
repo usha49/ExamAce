@@ -1,4 +1,0 @@
-If in schedule S transaction Ti
-executes read(Q), and that value was produced by transaction Tj (if any), then in schedule S’ also transaction Ti must
-read the value of Q that was produced by the same write(Q) operation of transaction Tj . The transaction (if any) that
-performs the final write(Q) operation in schedule S must also perform the final write(Q) operation in schedule S’.

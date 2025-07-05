@@ -1,6 +1,0 @@
-Satellite communication involves transmitting signals to satellites in orbit, which then relay the signals to 
-ground stations. This technology enables global communication, making it essential for television 
-broadcasting, GPS, and remote internet access. 
-
-Multiplexing is an essential technique in the physical layer that allows multiple signals to share a single 
-transmission medium, improving efficiency and reducing costs.

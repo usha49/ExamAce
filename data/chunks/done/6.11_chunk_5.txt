@@ -1,4 +1,0 @@
-Complexity Theory 
-The main question asked in this area is “What makes some problems computationally hard and 
-other problems easy?” 
-Informally, a problem is called “easy”, if it is efficiently solvable.

@@ -1,9 +1,0 @@
-The design of the control unit significantly impacts the CPU's 
-performance, flexibility, and complexity.
-CPU Structure and Function
-The central processing unit (CPU) consists of three primary components: the 
-control unit (CU), arithmetic and logic unit (ALU), and registers. The CU 
-manages instruction decoding and execution, while the ALU performs arithmetic 
-and logical operations. Registers provide high-speed storage for intermediate 
-
-data and instructions.

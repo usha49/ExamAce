@@ -1,8 +1,0 @@
-Control memory is typically 
-implemented using ROM or RAM, with ROM being non-volatile and used for fixed 
-microprograms, while RAM allows flexibility in modifying the control sequences. 
-Efficient control memory design is crucial for ensuring quick instruction 
-decoding and execution in a CPU.
- Addressing sequencing
-Addressing sequencing is the process by which a CPU determines the sequence of 
-memory addresses to access during program execution.

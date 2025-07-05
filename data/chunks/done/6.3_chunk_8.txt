@@ -1,9 +1,0 @@
-Its position is fixed to be the 
-leftmost position of the tape. 
-ioenotes.edu.np
-
-The meaning of δ(q , a) = (p, b): 
-If M (the machine) is in some state q, and the head reads an a from the input tape, then M enters 
-state p and performs one of the following: 
- if a is the left end symbol 
-, then M moves its head one position to the right (i.e.

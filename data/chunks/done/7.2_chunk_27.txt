@@ -1,6 +1,0 @@
-The vertices that come
-first are that are not successors of any other vertex.Determining the Breadth First Topological
-ordering:Fill the information from the graph into the table( Vertices, Predecessors and
-Predecessor count),Visit the vertex that have Predecessor count zero (0).Decrement the
-Predecessor count value by 1 where ever the visited vertex appears in the Adjacent Predecessor
-vertices column.Repeat until all the vertices has been visited.2.

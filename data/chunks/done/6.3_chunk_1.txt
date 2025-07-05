@@ -1,9 +1,0 @@
-Chapter 4 : Turing Machine 
- 
-INCOMPLETE CHA……  NEEDS TO BE Update 
-Neither finite automata nor pushdown automata can be regarded as truly general models for 
-computers, since they are not capable of recognizing even such simple languages as {anbncn : n ≥ 
-0}. 
-Turing machines are abstract devices by means of which we can formalize any computation.  
-They stand at the heart of the theory of computation. 
-Turing machines are finite state automata.

@@ -1,6 +1,0 @@
-Contiguous allocation suffers from external
-fragmentation, linked allocation can suffer from scattered file storage, and indexed allocation
-requires additional overhead for storing index blocks. The operating system must balance
-speed, storage efficiency, and fragmentation when implementing file systems.
-Mapping file blocks on the disk platter determines how file data is stored physically on disk
-sectors.

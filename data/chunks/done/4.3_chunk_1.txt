@@ -1,4 +1,0 @@
-4.3 Input-Output organization and multiprocessor:
-Peripheral devices
-Peripheral devices are hardware components external to the CPU and main memory, 
-used for input, output, and storage operations.

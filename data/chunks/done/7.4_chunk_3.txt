@@ -1,6 +1,0 @@
-Although multiple transactions may execute concurrently, each
-transaction must be unaware of other concurrently executing transactions.
-Intermediate transaction results must be
-hidden from other concurrently executed transactions.
-That is, for every pair of transactions Ti and Tj, it appears to Ti
-that either Tj, finished execution before Ti started, or Tj started execution after Ti finished. Durability.

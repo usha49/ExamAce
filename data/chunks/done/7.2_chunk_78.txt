@@ -1,7 +1,0 @@
-However it will take time O(logn) to restore the heap
-property for remaining keys.For insertion we shift the new item from down to up which
-also takes O(logn).Hence, implementation of a priority queue as a heap proves
-advantageous for large n.It efficiently represents in contiguous storage and is guaranteed
-to require only logarithmic time for both insertions and deletions.Shell Sort:Significant
-improvement on simple insertion sort can be achieved by using shell sort (or
-diminishing increment sort).

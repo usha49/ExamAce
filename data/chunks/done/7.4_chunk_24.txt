@@ -1,5 +1,0 @@
-Order in which blocks are output can be different from the
-order in which they are written. The deferred-modification scheme performs updates to buffer/disk only at the time of
-transaction commit :Simplifies some aspects of recovery ,But has overhead of storing local copy
-
-.

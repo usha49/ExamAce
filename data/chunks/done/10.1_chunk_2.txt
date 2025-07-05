@@ -1,6 +1,0 @@
-The fundamentals
-of standard drawing sheets include various standardized paper sizes such as A0, A1, A2, A3,
-and A4, defined by the International Organization for Standardization (ISO). These drawing
-sheets contain essential elements such as title blocks, borders, and revision tables, which
-provide crucial information about the drawing, including the project title, scale, date, and
-approval signatures.

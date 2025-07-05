@@ -1,5 +1,0 @@
-They are Linear Search and Binary Search. Linear
-Searching is the basic and simple method of searching. Binary Search takes some less time
-to search an element from the sorted list of element. we can say that binary search method
-is more efficient then the linear search only drawback is that binary search work on the
-sorted list where there is no prerequisite for the linear search.

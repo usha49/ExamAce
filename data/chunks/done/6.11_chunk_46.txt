@@ -1,5 +1,0 @@
-These expressions are used by many text editor and utilities especially in the unix 
-operation System to search bodies of text for certain patterns and for example, replace the 
-forward strings with a certain other string.  
-Regular expressions were designed to represent regular languages with a mathematical tool, a 
-tool built from a set of primitives and operations.

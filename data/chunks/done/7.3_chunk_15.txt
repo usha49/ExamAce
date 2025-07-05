@@ -1,6 +1,0 @@
-It consists of
-operations such as selection (σ), which filters rows based on a condition; projection (π), which
-retrieves specific columns; union (∪), which combines data from two relations; intersection (∩),
-which finds common records; difference (-), which retrieves records present in one relation but
-not in another; and join (⨝), which combines related records from multiple tables.
-Query cost estimation helps evaluate the efficiency of database queries.

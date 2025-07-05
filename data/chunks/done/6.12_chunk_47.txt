@@ -1,7 +1,0 @@
- Make the original final states of L1 non final. 
-Kleene  Star 
-If  L is a regular language , then L*  is also a regular language. 
-Let  be the alphabet of  L1 and let N = (K1,, δ1, q1, F1) be an NFA, such that  L1 = L(N). We 
-will construct an NFA M = (K,, δ, q0, F), such that L(M) = L1
-*.  The construction is illustrated 
-in Figure 2.3.

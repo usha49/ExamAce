@@ -1,8 +1,0 @@
-In other architectures, some
-machines are permanently designated as master or are given control of particular
-resources. In yet others, elections or other selection mechanisms are used to designate
-some machines as having special roles, often controlling roles. Advantages :Sharing of
-resources, Reliability, Communication, Computation speedup
-Operating system
-components : An operating system provides the environment within which programs are
-executed.

@@ -1,7 +1,0 @@
-Then  
- 
- 
- 
-Example 2:  
-Design a deterministic finite automaton M that accepts the language L( M) = {w є {a, b} * :  w does not 
-contain three consecutive b's}.

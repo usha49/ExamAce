@@ -1,5 +1,0 @@
-of assignments:For our implementation,
-it is twice the no of comparisons, merging in the temporary array and copying back
-to the original array which is still O(n*logn).Space Complexity:In contrast to other
-sorting algorithms, we have studied, Merge Sort requires O(n) extra space for the
-temporary memory used while merging.

@@ -1,4 +1,0 @@
-These devices are essential for testing 
-and analyzing electronic circuits.
-Function Generators: These are versatile devices capable of generating multiple 
-waveforms with adjustable frequency, amplitude, and phase.

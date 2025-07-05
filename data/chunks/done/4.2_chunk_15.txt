@@ -1,4 +1,0 @@
-Techniques like memory interleaving, which splits memory into modules accessed 
-simultaneously, further enhance system performance by parallelizing data access.
- 
-.

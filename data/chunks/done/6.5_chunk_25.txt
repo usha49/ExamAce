@@ -1,9 +1,0 @@
-sinθ1     
-or,                                       
-              cos(θ2  + θ2)              -sin(θ2  + θ2)
-              sin(θ2  + θ2)       .       cos(θ2  + θ2)
-
-or,         R(θ2)  .  R(θ1)    =    R(θ1  + θ2)
-Affine Transformation
-Linear 2D geometric transformation which maps variables (e.g. pixel intensity values located at point (x1,y1) in an input 
-image) into new variables (e.g.

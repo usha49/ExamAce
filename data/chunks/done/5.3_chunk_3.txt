@@ -1,6 +1,0 @@
-Hubs can 
-be categorized into Passive Hubs and Active Hubs. A passive hub is just a connector, it just splits the 
-signal. No need for a power supply. An active hub is actually a multiport repeater, which can amplify or 
-regenerate the information signal. 
-Switches are more advanced than hubs. A switch, when compared to a bridge, has multiple ports. 
-Switches can perform error checking before forwarding data.

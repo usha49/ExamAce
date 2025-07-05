@@ -1,5 +1,0 @@
-Knowledge Representation in Artificial Intelligence
-1. Knowledge Representation and Mappings
-Definition
-Knowledge representation (KR) refers to the formalization of knowledge in a way that enables a
-computer system to process, reason, and make decisions based on it.

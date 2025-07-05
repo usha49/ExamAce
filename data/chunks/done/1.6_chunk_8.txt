@@ -1,7 +1,0 @@
-However, the abrupt switching between the transistors at 
-the zero-crossing introduces crossover distortion. To mitigate this issue, Class 
-AB amplifiers, which maintain slight conduction overlap, are preferred in audio 
-applications.
-Class AB Output Stage
-Class AB amplifiers operate with transistors biased slightly above cutoff, 
-ensuring that both transistors conduct during the zero-crossing of the waveform.

@@ -1,9 +1,0 @@
-MOSFETs are characterized by high input impedance, fast switching, and 
-low power consumption.
-Working principle of CMOS
-Complementary metal-oxide-semiconductor (CMOS) technology combines NMOS and PMOS 
-transistors in a complementary arrangement to form logic gates and other 
-circuits. The principle of operation relies on the complementary switching 
-
-behavior of NMOS and PMOS transistors. When one transistor is on, the other is 
-off, ensuring minimal power consumption.

@@ -1,6 +1,0 @@
-PPP supports multiple 
-network layer protocols and is widely used for LAN-to-WAN connections. 
-The Media Access Control (MAC) layer handles shared physical connections among multiple computers. 
-It is responsible for addressing, channel access control, and managing collisions. Ethernet, IEEE 802.3, is 
-a widely used MAC protocol employing Carrier Sense Multiple Access with Collision Detection 
-(CSMA/CD). Other MAC protocols include ALOHA, CSMA, and Token Ring.

@@ -1,7 +1,0 @@
-They either
-have an event-driven design or a time-sharing one. An event-driven system switches
-between tasks based of their priorities while time-sharing operating systems switch tasks
-based on clock interrupts : Hard real-time systems guarantee that critical tasks complete
-on time. In hard real-time systems, secondary storage is limited or missing and the data is
-stored in ROM. In these systems, virtual memory is almost never found. Soft real-time
-systems are less restrictive.

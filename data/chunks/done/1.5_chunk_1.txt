@@ -1,8 +1,0 @@
-1.5 Signal generator:
-Basic Principles of Oscillator 
-An oscillator is an electronic device that generates periodic waveforms without 
-requiring an input signal. The fundamental principle of oscillation lies in the 
-positive feedback mechanism, where a portion of the output is fed back to the 
-input in phase to sustain continuous operation. Oscillators are classified based 
-on the type of waveform they produce, such as sinusoidal or non-sinusoidal 
-(square, triangular, or sawtooth).

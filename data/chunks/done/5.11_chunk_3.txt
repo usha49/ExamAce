@@ -1,6 +1,0 @@
-In 1965, Western 
-Electric introduced the first widely used telephone switch that implemented true computer control. In 
-1969, the first four nodes of the ARPANET were connected using 50 kbit/s circuits. In 1972, commercial 
-services using X.25 were deployed. In 1973, Robert Metcalfe wrote a formal memo at Xerox PARC 
-describing Ethernet. By 1995, the transmission speed capacity for Ethernet increased from 10 Mbit/s to 
-100 Mbit/s. In 1998, Ethernet supported transmission speeds of a gigabit.

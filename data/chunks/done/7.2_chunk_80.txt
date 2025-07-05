@@ -1,6 +1,0 @@
-Each of these larger
-subfiles is sorted and the process is repeated yet again, until eventually the value of the k
-is set to 1.The decreasing sequence of increments can Either be fixed at the start of the
-entire process. The last value must be 1 Or take the first increment to hk = floor(N/2)
-and hk = floor(hk / 2) until hk = 1. hk = subsequent increment. Efficiency: Worse case :
-O(n2).Average case : O(n(logn)2) (if appropriate increment sequent is used).

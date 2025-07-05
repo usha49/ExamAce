@@ -1,4 +1,0 @@
-Triggers are predefined actions that automatically execute
-when specific events occur in the database, such as inserting, updating, or deleting records.
-
-Relational algebra is a formal language used to describe database queries.

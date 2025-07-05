@@ -1,6 +1,0 @@
-When a packet is received, the routers send it to 
-all the interfaces except the one on which it was received. This creates too much burden on the network 
-and lots of duplicate packets wandering in the network. Time to Live (TTL) can be used to avoid infinite 
-looping of packets. There exists another approach for flooding, which is called Selective Flooding to 
-reduce the overhead on the network. In this method, the router does not flood out on all the interfaces, 
-but selective ones.

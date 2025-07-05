@@ -1,9 +1,0 @@
-Threads are categorized into:
-User-Level Threads: Managed by user-level libraries without kernel intervention.
-Kernel-Level Threads: Managed directly by the OS kernel, offering better 
-integration but higher overhead.
-Threads improve performance by enabling multitasking within a single process, 
-such as updating a GUI while processing background tasks.
-Multiprocessing
-Multiprocessing involves the use of two or more CPUs (or cores) in a single 
-computer system to execute processes simultaneously.

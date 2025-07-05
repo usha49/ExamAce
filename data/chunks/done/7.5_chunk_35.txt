@@ -1,5 +1,0 @@
-However in some earlier OS, it was a separate component that enhance a
-basic, non- networking OS by adding networking capabilities. NOS is designed primarily
-to support workstation, PC and in some instances, older terminal that are connected to
-LAN. Networking system allows to share file and printer access among multiple
-computers in a Network, to enable the sharing of data .

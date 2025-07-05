@@ -1,6 +1,0 @@
-Registers find applications in temporary data storage, signal processing, and
-communication systems.
-Counters, which count events in digital systems, are categorized into asynchronous (ripple) and
-synchronous counters. Asynchronous counters have flip-flops triggered sequentially,
-introducing delays due to signal propagation. Synchronous counters trigger all flip-flops
-simultaneously with a common clock signal, improving speed and reliability.

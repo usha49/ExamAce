@@ -1,6 +1,0 @@
-Thus there is a class of languages, such that given a string we can tell whether it is in the 
-language or not - these are the recursive languages. 
- 
-There is another class of languages, such that given a string that is in the language, we can 
-determine this fact. If the string is not in the language we can say nothing - the Turing machine 
-never halts. These are the recursively enumerable languages.

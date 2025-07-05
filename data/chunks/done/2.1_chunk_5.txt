@@ -1,6 +1,0 @@
-The AND gate outputs a high signal only if all inputs are high, whereas the OR gate
-outputs high if at least one input is high. The NOT gate, also known as an inverter, reverses the
-input signal, outputting high when the input is low and vice versa. NAND and NOR gates are
-universal, meaning they can be used to construct any other logic gate. The NAND gate gives a
-low output only when all inputs are high, whereas the NOR gate outputs high only when all
-inputs are low.

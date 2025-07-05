@@ -1,7 +1,0 @@
-Why Threads?
-Process with multiple threads makes a great server (e.g. print server) . Increase
-responsiveness, i.e. with multiple threads in a process, if one threads blocks then other
-can still continue executing . Sharing of common data reduce requirement of inter-
-process communication. Proper utilization of multiprocessor by increasing concurrency .
-Threads are cheap to create and use very little resources. Context switching is fast (only
-have to save/reload PC, Stack, SP, Registers).

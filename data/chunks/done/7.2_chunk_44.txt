@@ -1,6 +1,0 @@
-We defined the hash function in this case as Hash (key) = p;
-Where p is obtained by deleting digits from both ends of (key)2. We emphasize that the same
-positions of (key)2 must be used for all the keys.Division Remainder method
-Convert the key to an integer, divide by the size of the index range and take the remainder as the
-result.Collision Resolution Techniques: When a collision occurs, alternative locations in the
-table are tried until an empty location is found.

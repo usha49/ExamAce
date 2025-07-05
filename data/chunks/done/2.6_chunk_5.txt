@@ -1,6 +1,0 @@
-It 
-then saves the contents of the program counter (PC) and status registers to preserve the execution 
-state. The processor then transfers control to the corresponding interrupt service routine (ISR), which is 
-a predefined set of instructions that handle the interrupt request. After executing the ISR, the processor 
-restores the previously saved register values and resumes execution of the interrupted program. 
-Interrupt handling can be implemented using vectored and non-vectored interrupts.

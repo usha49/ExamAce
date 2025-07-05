@@ -1,7 +1,0 @@
-Key administration tasks include user account
-management, where administrators create, modify, and delete user accounts; permissions and
-access control, ensuring secure access to system resources; and process management, which
-involves monitoring and controlling running applications.
-User account management is essential for maintaining system security and organization. Each
-user is assigned a unique username and password, and different user roles determine access
-privileges.

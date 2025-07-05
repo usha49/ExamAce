@@ -1,7 +1,0 @@
-Approaches to Knowledge Representation
-1. Logical Representation
-Uses formal logic (e.g., Propositional Logic, Predicate Logic) to represent knowledge.
-Example: "If it rains, the ground is wet" is represented as R→WR→W.
-Advantages: Precise and unambiguous.
-Disadvantages: Limited expressiveness for uncertain or incomplete knowledge.
-2.

@@ -1,6 +1,0 @@
-Simulation
-Simulation is the imitation of the conditions like those, which is encountered in real life. 
-Simulation thus helps to learn or to feel the conditions one might have to face in near future 
-with out being in danger at the beginning of the course. For example, astronauts can exercise 
-the feeling of weightlessness in a simulator, similarly a pilot training can be conducted in a 
-flight simulator .

@@ -1,7 +1,0 @@
-Techniques like pipeline stalls and branch predictors are used to 
-optimize addressing sequencing in modern processors, reducing delays caused by 
-instruction dependencies or mispredictions.
-Computer configuration
-Computer configuration refers to the arrangement and interaction of hardware 
-components in a computer system. Key elements include the CPU, memory hierarchy, 
-input/output devices, and interconnection buses.

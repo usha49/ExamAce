@@ -1,6 +1,0 @@
-Routers support different WAN technologies but switches do not. Wireless Routers 
-have Access Points built in. The most common home use for routers is to share a broadband internet 
-connection. The router has a public IP address, and that address is shared with the network. When data 
-comes through the router, it is forwarded to the correct computer. 
-Gateways are also routers, which forward the traffic of a subnetwork to other networks or to the 
-internet.

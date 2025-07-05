@@ -1,0 +1,19 @@
+{% load quiz_extras %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Results</title>
+</head>
+<body>
+    <h1>🎉 Your Score: {{ score }} out of {{ total }}</h1>
+
+    <hr>
+    {% for q in questions %}
+        <p>{{q.question}}</p>
+        <p>Your answer:<strong>{{selected|get_item:q.id}}</strong></p>
+        <p>Correct answer:<strong>{{q.answer}}</strong></p>
+    {% endfor %}
+
+    <a href="{% url 'take_test' %}">🔁 Take the test again</a>
+</body>
+</html>

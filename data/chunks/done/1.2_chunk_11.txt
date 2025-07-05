@@ -1,6 +1,0 @@
-These circuits are fundamental in the design of 
-filters, oscillators, and tuning circuits in communication systems.
-resonance in AC series and parallel circuit
-Resonance in AC circuits occurs when the inductive reactance and capacitive 
-reactance become equal, resulting in a purely resistive impedance at a specific 
-frequency known as the resonant frequency.

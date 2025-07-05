@@ -1,4 +1,0 @@
-Rotate about origin in clockwise direction by 45
-     degree which rotates line y = x to x-axis
- ii. Take reflection against x-axis
- iii.

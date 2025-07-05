@@ -1,6 +1,0 @@
-or A weakly-connected graph is a
-directed graph for which its underlying undirected graph is connected.Complete graph:A
-complete graph is a graph in which there is an edge between every pair of vertices.Trees and
-Graph:A tree is a connected graph with no cycle. A tree has |E| = |V| - 1 edges. Since, it is
-connected, there is a path between any two vertices.Representation of Graph:A graph can be
-represented in many ways.

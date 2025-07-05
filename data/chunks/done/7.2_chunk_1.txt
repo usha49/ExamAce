@@ -1,7 +1,0 @@
-Graph
-1
-Graph:A graph is a data structure that describes a binary relation between elements and
-has a webby looking graphical representation. Graph plays a significant role in solving a
-rich class of problems.Definition:A graph G = (V, E) consists of a finite set of non-
-empty set of vertices V and set of edges E.V = { v1, v2, …, vn},E = {e1, e2, …en}.Each
-edge e is a pair (v, w) where v, w є V. The edge is also called arc.

@@ -1,3 +1,0 @@
-Problems
-involving distances can be modeled by assigning distances between cities to the edges.
-Problems involving flight time can be modeled by assigning flight times to edges.

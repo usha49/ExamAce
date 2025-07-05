@@ -1,5 +1,0 @@
-In the above graph G6, A, C,
-D, A is a cycle.Connected:Any graph is connected provided there exists a path (directed or
-undirected) between any two nodes. A digraph is said to be strongly connected if, for any two
-vertices there is a direct path from i to j.A digraph is said to be weakly connected if, for any two
-vertices i and j, there is a direct path from i to j or j to i.

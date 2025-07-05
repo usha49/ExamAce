@@ -1,6 +1,0 @@
-WAN (Wide Area Network) is the biggest 
-network providing global connectivity. 
-The physical arrangement of computers in a communication network is called topology. Star topology 
-connects every system to a central controller called a hub, transmitting all data through it. Bus topology 
-uses a single cable as a backbone, with all nodes attached using T connectors. In a ring topology, failure 
-of one computer disrupts the entire network.

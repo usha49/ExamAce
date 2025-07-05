@@ -1,7 +1,0 @@
-Once the bitmap 
-graphics became affordable an explosion of easy to use and inexpensive graphics based user 
-interfaces allowed millions of new users to control simple low cost application programs such as 
-word processors, spreadsheets and drawing programs
-The concept of a “desktop” now became popular metaphor for organizing screen space. By means 
-of a window manager the user could create position and resize rectangular screen areas called 
-windows.

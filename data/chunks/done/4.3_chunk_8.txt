@@ -1,8 +1,0 @@
-Examples include Omega and Butterfly 
-networks.
-Inter-processor Communication and synchronization
-Inter-processor communication is essential in multiprocessors to coordinate 
-tasks and share data. Communication can occur via:
-Shared Memory: Processors communicate by reading and writing to a common memory 
-space. Mechanisms like semaphores and mutexes are used to prevent conflicts.
-Message Passing: Processors exchange messages through a communication network.

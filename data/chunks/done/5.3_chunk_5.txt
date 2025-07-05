@@ -1,5 +1,0 @@
-A bridge maintains a MAC 
-address table for both LAN segments it is connected to. A bridge has a single incoming and outgoing 
-port. It filters traffic on the LAN by looking at the MAC address. Data filtering is done by the bridge, 
-which looks at the destination address before forwarding, unlike a hub. It restricts transmission on other 
-LAN segments if the destination is not found.

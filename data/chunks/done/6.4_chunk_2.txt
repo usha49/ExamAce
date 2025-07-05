@@ -1,6 +1,0 @@
-Computer graphics today is largely interactive; that is largely interactive; that is 
-the user controls the contents structure and appearance of images of the objects by using input 
-devices such as a keyboard, mouse, or touch sensitive panel on the screen
-Until the early 1980’s computer graphics was a small specialized field, largely because the 
-hardware was expensive and graphics based application programs that were easy to use and cost 
-effective were few.

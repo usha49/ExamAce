@@ -1,7 +1,0 @@
-Depreciation is another critical factor in
-engineering economics, representing the reduction in value of assets over time. Various
-depreciation methods, such as straight-line depreciation, declining balance depreciation, and
-sum-of-the-years’ digits, are used to calculate asset depreciation in Nepal. The taxation system
-in Nepal includes income tax, corporate tax, and value-added tax (VAT), all of which impact
-project budgeting and financial planning.
-.

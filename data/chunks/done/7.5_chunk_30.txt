@@ -1,6 +1,0 @@
-The operating system is responsible for the
-following activities in connection with memory management. Keep track of which parts
-of memory are currently being used and by whom. Decide which processes are to be
-loaded into memory when memory space becomes available.Allocate and deallocate
-memory space as needed. Secondary Storage Management System : The main purpose
-of a computer system is to execute programs.

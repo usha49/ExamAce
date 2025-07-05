@@ -1,6 +1,0 @@
-A 4-to-1
-multiplexer has four inputs, one output, and two control lines that determine which input is
-selected. Multiplexers are used in communication systems and data transmission. A
-demultiplexer performs the opposite function by taking a single input and directing it to one of
-multiple outputs based on control signals, commonly used in digital displays and signal routing.
-A decoder converts binary input into a unique active output line.

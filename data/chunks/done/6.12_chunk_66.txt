@@ -1,8 +1,0 @@
-Only If Part  
-(a) Regular Expression to NFA Construction 
-Proof:  
-Recall that the class of regular languages is the smallest class of languages containing the empty 
-set ø and the singletons a, where a is a symbol, and closed under union concatenation, and 
-Kleene star. It is evident (see Figure below) that the empty set and all singletons are indeed 
-accepted by finite automata; and by Theorem  the finite automaton languages are closed under 
-union, concatenation, and Kleene star.

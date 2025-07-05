@@ -1,8 +1,0 @@
-The 
-diode exhibits distinct characteristics:
-Forward Bias: When the p-side is connected to the positive terminal of a voltage 
-source and the n-side to the negative terminal, the diode allows current flow. 
-The voltage required to overcome the barrier potential is typically 0.7 V for 
-silicon and 0.3 V for germanium.
-Reverse Bias: When the polarity is reversed, the diode blocks current flow 
-except for a negligible leakage current.

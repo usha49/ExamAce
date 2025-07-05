@@ -1,4 +1,0 @@
-The Operating System
-manages these resources and allocates them to specific programs. As a resource manager,
-the Operating system provides the controlled allocation of the processors, memories, I/O
-devices among various programs.

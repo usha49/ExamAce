@@ -1,9 +1,0 @@
-The hash-of-key is the index at which a record with the key
-values k must be kept.Popular Hashing Functions:The two principle criteria in selection of a
-
-Soring
-8
-good hash function are:It must be very easy and quick to compute hash value and It must
-minimize collision.What is collision? There are a finite number of indices in a table. But there
-are large numbers of keys so it is clearly impossible to get two different indexes for two distinct
-keys.

@@ -1,8 +1,0 @@
-Return up as the
-pivot location.Method for choosing pivot: First element: Choose the first item in the list.
-
-Soring
-14
-Random element: Choose any item form the list. Swap it with the first item to apply the
-algorithm. Median: Pick three elements randomly and use their median as pivot.
-Efficiency:No.

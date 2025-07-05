@@ -1,5 +1,0 @@
-That was the beginning of modern interactive graphics. In this 
-system, keyboard and light pen were used for pointing, making choices and drawing.
-At the same time, it was becoming clear to computer, automobile, and aerospace manufacturers 
-that (CAD) and computer aided manufacturing (CAM) activities had enormous potential for 
-automating drafting and other drawing intensive activities.

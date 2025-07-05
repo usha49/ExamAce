@@ -1,6 +1,0 @@
-The Boyce-Codd Normal Form (BCNF) is a stricter version of 3NF, ensuring that
-every determinant is a candidate key.
-Functional dependencies define the relationship between attributes in a relation. If an attribute X
-uniquely determines another attribute Y, then Y is functionally dependent on X. Functional
-dependencies help in the normalization process by identifying redundant data and eliminating
-anomalies.

@@ -1,8 +1,0 @@
-I/O status
-information: This information includes the list of I/O devices allocated to the process, a
-list of open files and so on. A thread is a single sequence stream within in a process.
-Because threads have some of the properties of processes, they are sometimes called
-lightweight processes. In many respect, threads are popular way to improve application
-through parallelism. The CPU switches rapidly back and forth among the threads giving
-
-Compiled By: Er.

@@ -1,9 +1,0 @@
-These two 
-configurations form the basis for analyzing and designing complex electrical 
-networks.
-star-delta and delta-star conversion
-Star and delta configurations are methods of connecting components in three-
-phase electrical systems. Star, or Y, configuration connects one end of each 
-component to a common point, forming a Y shape, while delta connects the 
-components in a triangular loop. These configurations can be interchanged using 
-specific formulas to simplify circuit analysis.

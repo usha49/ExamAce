@@ -1,6 +1,0 @@
-This is a bit tricky because the machine doesn't know in advance 
-whether to match the a's with the b's or the c's. Non-determinism comes in handy here. 
-Using its non-determinism, the PDA can guess whether to match the a's with the b's or 
-with the c's, as shown in the following figure. Think of the machine as having two 
-branches of its non-determinism, one for each possible guess. If either of them match, 
-that branch accepts and the entire machine accepts.

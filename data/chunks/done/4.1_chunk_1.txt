@@ -1,7 +1,0 @@
-4.1 Control and central processing units:
- Control Memory
-Control memory is a specialized memory used in microprogrammed control units of 
-CPUs. It stores the microinstructions that define how a processor executes 
-instructions. These microinstructions specify control signals for various 
-hardware components, orchestrating their operations to perform tasks like data 
-movement, arithmetic operations, and branching.

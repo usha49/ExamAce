@@ -1,4 +1,0 @@
-Deadlock prevention protocols ensure that the system will never enter
-into a deadlock state. Some prevention strategies : Require that each transaction locks all its data items before it begins
-execution (predeclaration). Impose partial ordering of all data items and require that a transaction can lock data items
-only in the order specified by the partial order (graph-based protocol).

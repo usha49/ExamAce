@@ -1,8 +1,0 @@
-The military tank simulator the naval simulator, driving simulator , air 
-traffic control simulator, heavy duty vehicle simulator and so on are some of the mostly used 
-simulator in practice. Simulators are also used to optimize the system
-Anil Verma, IOE Pulchowk
-
-For example the vehicle, observing the reactions of the driver during the operation of the 
-simulator
-7.

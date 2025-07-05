@@ -1,6 +1,0 @@
-It 
-prioritizes interrupt requests and sends them to the processor based on predefined priority levels. The 
-PIC enables nested interrupt processing, where higher-priority interrupts can interrupt lower-priority 
-ones. 
-Interrupts are essential in real-time computing, embedded systems, and multitasking operating systems, 
-enabling efficient handling of multiple concurrent tasks.

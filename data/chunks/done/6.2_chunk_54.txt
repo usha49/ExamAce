@@ -1,8 +1,0 @@
-Then Lf(M), the language accepted by M by final state, is 
- Lf(P) = { w  є * :  (s, w, e)  
- (f, e, α)  )} for some state f  є  F and any stack string α  
-That is, starting in the initial ID with w waiting on the input, M consumes w from the input and 
-enters an accepting state. The content of the stack at that time is irrelevant. 
- 
-Acceptance by Empty Stack 
-Let  M = (K,, δ, s, Г,  F)  be a PDA.

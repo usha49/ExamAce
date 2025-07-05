@@ -1,8 +1,0 @@
-Despite its inefficiency, the Class A output stage is valued for its high 
-fidelity and is commonly used in audio amplifiers and small-signal applications 
-requiring minimal distortion.
-Class B Output Stage
-The Class B output stage addresses the inefficiency of Class A by utilizing two 
-complementary transistors in a push-pull configuration. Each transistor handles 
-one-half of the input waveform, effectively halving the power dissipation 
-compared to Class A.

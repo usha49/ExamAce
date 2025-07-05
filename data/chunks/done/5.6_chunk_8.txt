@@ -1,6 +1,0 @@
-The Data Encryption Standard (DES) and Advanced Encryption Standard (AES) are 
-widely used symmetric encryption algorithms. DES uses a 56-bit key and performs multiple rounds of 
-substitution and permutation to secure data. AES, an improvement over DES, supports key lengths of 
-128, 192, and 256 bits, providing stronger security. 
-Asymmetric encryption algorithms such as RSA (Rivest-Shamir-Adleman) use two keys: a public key for 
-encryption and a private key for decryption.

@@ -1,5 +1,0 @@
-Modern microprocessors implement advanced 
-interrupt handling techniques, including interrupt vector tables, nested interrupts, and priority-based 
-scheduling, to ensure system responsiveness and stability. 
- 
-.

@@ -1,5 +1,0 @@
-Due to this 
-balance, Class AB amplifiers are extensively used in audio power amplification.
-Class C amplifiers, in contrast, conduct for less than 180° of the input cycle. 
-This mode significantly enhances efficiency but generates high levels of 
-distortion.

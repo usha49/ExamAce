@@ -1,7 +1,0 @@
-In this
-case, the current process switches from the running queue to ready queue and the high
-priority process utilizes the CPU cycle.Non-preemptive Scheduling : The scheduling in
-which a running process cannot be interrupted by any other process is called non-
-preemptive scheduling. Any other process which enters the queue has to wait until the
-current process finishes its CPU cycle.
-.

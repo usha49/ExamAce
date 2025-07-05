@@ -1,8 +1,0 @@
-The goal of the 
-memory hierarchy is to provide the CPU with data at the fastest possible rate 
-while minimizing the overall cost of the system. Properly designed memory 
-hierarchies significantly enhance system performance by ensuring that frequently 
-accessed data resides in faster memory levels.
-Internal and External memory
-Internal memory refers to storage located directly within the computing system 
-and accessible by the CPU without requiring additional input/output operations.

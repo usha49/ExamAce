@@ -1,6 +1,0 @@
-Examples include Ethernet 
-frames, PPP frames, Fiber Channel frames, and V.42 modem frames. Frames can have fixed or variable 
-sizes. Fixed-size frames, such as those in the ATM wide-area network, do not require boundary 
-definitions, as the size itself acts as a delimiter. Variable-size frames require start and end specifications 
-and are prevalent in local area networks. 
-Variable-size framing approaches include the Character-Oriented and Bit-Oriented methods.

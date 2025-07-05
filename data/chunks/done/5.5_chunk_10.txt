@@ -1,6 +1,0 @@
-When a user accesses a website, proxies interpret and respond to requests on behalf of the original 
-server. 
-Concept of Traffic Analyzer: MRTG, PRTG, SNMP, Packet Tracer, Wireshark 
-MRTG (Multi Router Traffic Grapher) is a tool to monitor the traffic load on network links. MRTG 
-generates HTML pages containing PNG images which provide a LIVE visual representation of this 
-traffic.

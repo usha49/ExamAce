@@ -1,6 +1,0 @@
-The shortest path algorithm is a technique that uses various algorithms to decide a path with a 
-minimum number of hops. Common shortest path algorithms are Dijkstra's algorithm and Bellman Ford 
-algorithm. The shortest path algorithm finds the shortest paths between routers/nodes in a graph. The 
-widely used shortest path algorithm is Dijkstra's shortest path algorithm. 
- 
-.

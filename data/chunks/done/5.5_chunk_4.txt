@@ -1,6 +1,0 @@
-It can also connect to a serial port. 
-WinSCP (Windows Secure Copy) is a free and open-source SFTP, FTP, WebDAV, and SCP client for 
-Microsoft Windows. Its main function is secure file transfer between a local and a remote computer. 
-Beyond this, WinSCP offers basic file manager and file synchronization functionality. 
-Electronic Mail: SMTP, POP3, IMAP 
-SMTP (Simple Mail Transfer Protocol) is used to transfer electronic mail from one user to another.

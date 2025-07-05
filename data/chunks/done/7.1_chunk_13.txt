@@ -1,7 +1,0 @@
-A doubly linked list contains two pointers, one pointing
-to the next node and another pointing to the previous node, allowing bidirectional traversal. A
-circular linked list is where the last node of the list points back to the first node, creating a
-circular connection. Circular linked lists can be singly or doubly linked.
-
-A tree is a hierarchical, non-linear data structure consisting of nodes connected by edges. The
-top node is called the root, and every node can have child nodes.

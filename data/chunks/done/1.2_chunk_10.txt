@@ -1,7 +1,0 @@
-The current in these circuits lags 
-the voltage due to the inductive reactance, which increases with frequency. In 
-R-C circuits, comprising resistors and capacitors, the current leads the voltage 
-due to capacitive reactance, which decreases with frequency. R-L-C circuits 
-combine resistors, inductors, and capacitors, and their behavior is determined 
-
-by the resonance condition.

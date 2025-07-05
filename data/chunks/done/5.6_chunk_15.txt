@@ -1,5 +1,0 @@
-The RSA algorithm is commonly used for secure transactions, digital signatures, and encrypted 
-communication. The algorithm generates public and private keys by selecting large prime numbers. 
-Encryption involves raising the plaintext to an exponent, modulo a product of primes. Decryption 
-reverses this process using the private key. The RSA algorithm provides strong security but requires 
-significant computational power for encryption and decryption.

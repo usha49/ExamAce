@@ -1,8 +1,0 @@
-((q, e, A), (q, x)) for each rule A x 
-3. ((q, a, a) ,(q, e) ) for each a ∈ ∑ 
- 
- 
-Example 
-Consider the grammar G = (V, ∑, R, S) with V = {S, a, b ,c},  ∑ = {a, b, c}, and R = {S  aSa, 
-S  bSb, S  e), which generates the language {WcWR : w є {a, b}*}.  
-Design a pushdown automaton.

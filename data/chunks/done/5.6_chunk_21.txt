@@ -1,7 +1,0 @@
-Transport 
-Layer Security (TLS) ensures secure communication over the internet by encrypting data exchanged 
-between clients and servers. Secure Hypertext Transfer Protocol (HTTPS) uses TLS to protect web traffic, 
-preventing eavesdropping and data tampering. Secure Shell (SSH) enables encrypted remote access to 
-network devices, replacing insecure protocols such as Telnet. 
-Virtual Private Networks (VPNs) establish secure connections over public networks by encrypting data 
-packets.

@@ -1,6 +1,0 @@
-Memory Device Classification and Hierarchy 
-Memory devices play a crucial role in a microprocessor-based system by storing instructions and data. 
-The classification of memory is based on factors such as access speed, volatility, and function. Broadly, 
-memory is classified into primary memory, secondary memory, and cache memory. 
-Primary memory consists of RAM (Random Access Memory) and ROM (Read-Only Memory). RAM is a 
-volatile memory, meaning data is lost when the system is powered off.

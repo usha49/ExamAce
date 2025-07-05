@@ -1,6 +1,0 @@
-At the top of the hierarchy are registers, 
-which provide the fastest access but have limited capacity. Next is cache 
-memory, followed by main memory (RAM) and secondary storage (hard drives, SSDs). 
-The hierarchy continues with tertiary storage devices like optical discs and 
-network storage. Each level in the hierarchy is characterized by increasing 
-access time and storage capacity but decreasing cost per bit.

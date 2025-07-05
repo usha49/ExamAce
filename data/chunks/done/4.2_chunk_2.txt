@@ -1,6 +1,0 @@
-Logical operations, including AND, OR, XOR, and NOT, are used for 
-bitwise manipulation and decision-making processes. These operations are 
-critical for implementing algorithms, performing data transformations, and 
-supporting complex problem-solving in various applications. The CPU uses 
-algorithms such as Booth’s algorithm for efficient multiplication and the non-
-restoring division method for division.

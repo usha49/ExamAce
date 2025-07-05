@@ -1,5 +1,0 @@
-To construct such an environment, the system is partitioned into small modules
-with a well-defined interface. The design of a new operating system is a major task. It is
-very important that the goals of the system be will defined before the design begins. The
-type of system desired is the foundation for choices between various algorithms and
-strategies that will be necessary.

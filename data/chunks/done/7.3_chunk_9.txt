@@ -1,5 +1,0 @@
-The First Normal Form (1NF) ensures that all attributes contain atomic values,
-eliminating repeating groups. The Second Normal Form (2NF) eliminates partial dependencies
-by ensuring that non-key attributes depend entirely on the primary key. The Third Normal Form
-(3NF) removes transitive dependencies, ensuring that non-key attributes depend only on the
-primary key.

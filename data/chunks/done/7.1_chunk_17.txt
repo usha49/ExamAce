@@ -1,7 +1,0 @@
-The depth of
-a node is the number of edges from the root node to that specific node.
-An AVL tree is a type of self-balancing binary search tree where the height difference between
-the left and right subtrees of any node is at most one. If the balance factor of any node exceeds
-this limit, rotations are performed to restore balance. AVL trees are used in applications
-requiring efficient searching and sorting, such as database indexing and memory management.
-.

@@ -1,8 +1,0 @@
-In I/O-
-mapped I/O, separate address space is allocated for I/O devices, requiring special instructions such as IN 
-and OUT for data transfer. 
-
-Handshaking mechanisms are often used in I/O interfacing to synchronize data exchange between the 
-processor and peripheral devices. Interrupt-driven I/O and Direct Memory Access (DMA) are advanced 
-interfacing techniques that improve data transfer efficiency by reducing the microprocessor’s 
-involvement in handling I/O operations.

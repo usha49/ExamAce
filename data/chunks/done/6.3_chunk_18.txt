@@ -1,6 +1,0 @@
-Two types of halting states: y ('yes') and n ('no') 
-If the machine arrives at a halting state 'y', the string is accepted. 
-If the machine arrives at a halting state 'n', the string is rejected. 
-(Note that the machine may never arrive at a halting state) 
-Definition: Let M = (K, ∑, δ, s, H) be a Turing machine. such that H = {y,n} consists of two 
-distinguished halting states.

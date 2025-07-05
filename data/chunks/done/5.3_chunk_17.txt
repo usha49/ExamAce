@@ -1,8 +1,0 @@
-Without it, 
-we wouldn’t be able to do a Google search or send an email. Neighboring BGP routers i.e. BGP peers 
-
-exchange detailed path information. It is also called the path vector routing algorithm. The protocols are 
-more concerned with reachability than optimality. 
-Routing Algorithms: Shortest Path Algorithm, Flooding, Distance Vector Routing, Link State Routing; 
-Protocols: ARP, RARP, IP, ICMP 
-Flooding is the simplest method of packet forwarding.

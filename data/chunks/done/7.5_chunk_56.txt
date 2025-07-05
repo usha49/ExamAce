@@ -1,5 +1,0 @@
-There are two types of process scheduling:
-Preemptive scheduling, Non-preemptive scheduling.
-Preemptive Scheduling : The
-scheduling in which a running process can be interrupted if a high priority process
-enters the queue and is allocated to the CPU is called preemptive scheduling.

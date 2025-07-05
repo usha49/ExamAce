@@ -1,5 +1,0 @@
-Binary numbers can be converted to decimal by
-multiplying each bit by the corresponding power of 2 and summing the results. Decimal to
-binary conversion involves successive division by 2, recording remainders in reverse order. The
-octal system is base 8, using digits 0 to 7, and serves as a shorthand for binary by grouping bits
-into sets of three.

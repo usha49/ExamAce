@@ -1,8 +1,0 @@
-ioenotes.edu.np
-
-Parse/ derivation Trees 
-Parsing 
-A compiler translates code written in a programming language into another form, usually one 
-more suitable for execution. To do so the compiler extracts the meaning of the code to be 
-compiled in a process called parsing.  “Parsing” a string is finding a derivation (or a derivation 
-tree) for that string.  Parsing a string is like recognizing a string.

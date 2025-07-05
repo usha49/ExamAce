@@ -1,6 +1,0 @@
-Chapter 5: Transport Layer 
-The Transport Service: Services Provided to the Upper Layers 
-The goal of the transport layer is to provide efficient, reliable, and cost-effective service to the 
-application layer. To provide the service, the transport layer uses the service provided by the network 
-layer. Hardware and software within the transport layer that provides service is called the transport 
-layer entity.

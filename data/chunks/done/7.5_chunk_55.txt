@@ -1,5 +1,0 @@
-In an operating system (OS), a process
-scheduler performs the important activity of scheduling a process between the ready
-queues and waiting queue and allocating them to the CPU. The OS assigns priority to
-each process and maintains these queues. The scheduler selects the process from the
-queue and loads it into memory for execution.

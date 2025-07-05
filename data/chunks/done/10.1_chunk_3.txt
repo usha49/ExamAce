@@ -1,5 +1,0 @@
-Proper organization of a drawing sheet ensures clarity and consistency in
-technical documentation.
-Dimensions in engineering drawings represent the measurable attributes of an object, including
-lengths, widths, diameters, and angles. Proper dimensioning follows international standards like
-ISO 129 and ASME Y14.5, ensuring uniformity across different engineering fields.

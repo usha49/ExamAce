@@ -1,5 +1,0 @@
-Framing involves taking packets from the network layer and 
-encapsulating them into frames, then sending each frame bit-by-bit on the hardware. At the receiver's 
-end, the data link layer picks up signals from the hardware and assembles them into frames. Addressing 
-is provided through a layer-2 hardware addressing mechanism, with a unique hardware address 
-encoded into the hardware at the time of manufacturing.

@@ -1,7 +1,0 @@
-Common page
-replacement algorithms include FIFO (First-In-First-Out), where the oldest page is replaced first;
-LRU (Least Recently Used), which replaces the page that has not been used for the longest time;
-Optimal Page Replacement, which replaces the page that will not be needed for the longest time
-in the future; and Clock Algorithm, a modification of LRU that uses a circular queue and a
-reference bit to track page usage.
-File systems provide a structured way to store, organize, and retrieve data on storage devices.

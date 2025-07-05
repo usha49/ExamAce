@@ -1,7 +1,0 @@
-Understanding these materials is vital for 
-selecting the appropriate components in electrical and electronic design.
-Series and parallel electric circuits
-In a series circuit, components are connected end-to-end in a single path, so 
-the same current flows through each component. However, the voltage across each 
-component varies depending on its resistance. Series circuits are commonly used 
-in applications where a consistent current is required.

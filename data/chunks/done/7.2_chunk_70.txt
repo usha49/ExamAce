@@ -1,6 +1,0 @@
-Algorithm has been developed for
-performing in-place merge in O(n) time, but this would increase the no of
-assignments If recursive version is used, additional space is required for the implicit
-stack, which is O(logn). Hence, Space complexity for Merge Sort is O(n).Notes on
-Merge sort:Even though the worst-case running-time of Merge Sort is O(nlogn), it
-is not an algorithm of choice for sorting contiguous lists.

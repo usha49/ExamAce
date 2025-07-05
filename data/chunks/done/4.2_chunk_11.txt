@@ -1,7 +1,0 @@
-Common algorithms include Least Recently Used (LRU), 
-which removes the least recently accessed data; First-In-First-Out (FIFO), which 
-removes the oldest data; and Random Replacement, which evicts a randomly chosen 
-block. The choice of algorithm affects cache efficiency and system performance.
-Write policy
-Write policies dictate how data modifications are handled in the cache and main 
-memory.

@@ -1,5 +1,0 @@
-In general, a process will need certain resources such as the CPU time,
-memory, files, I/O devices and etc. to accomplish its task. Operation on Process: Process
-Creation , Destroy of a process , Run a process, Change a process priority , Get process
-information, Set process information. Process Creation: There are four ways achieving it:
-For a batch environment a process is created in response to submission of a job.

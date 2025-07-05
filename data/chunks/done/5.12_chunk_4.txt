@@ -1,5 +1,0 @@
-Data transmission involves sending bits in a structured 
-manner, ensuring that they reach the destination accurately. Synchronization ensures that both the 
-sender and receiver agree on the timing of data transmission, preventing errors due to mismatches in 
-signal interpretation. Transmission rates define the speed at which data is sent over the network, 
-typically measured in bits per second (bps).

@@ -1,8 +1,0 @@
-Anil Verma, IOE Pulchowk 
- 
-Matrix Representation of 3D Transformations 
- 
-2D transformations can be represented by 3 x 3 matrices using homogenous coordinates, so  
- 
-3D transformations can be represented by 4 x 4 matrices, providing  we use homogeneous coordinate 
-representations of points in 2 space as well.

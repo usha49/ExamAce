@@ -1,9 +1,0 @@
-If transformation parameters are not all equal then figure gets distorted 
- 
-So we can preserve the original shape of an object with uniform scaling(sx= sy= sz) 
- 
-Matrix expression for scaling transformation of a position P = (x,y,z) relative to the coordinate origin can be 
-written as : 
-  
-      x’              sx     0      0     0              x 
-      y’              0      sy     0     0       .

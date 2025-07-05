@@ -1,5 +1,0 @@
-Communication between the microprocessor and other system components occurs through a system 
-bus. The address bus carries memory addresses from the processor to memory and peripherals. The 
-data bus transfers data between components, while the control bus sends control signals to manage 
-operations such as reading and writing data. These buses enable synchronous and asynchronous 
-communication between the CPU, memory, and I/O devices, ensuring efficient processing.

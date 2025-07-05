@@ -1,4 +1,0 @@
-Automaton has a control unit 
-which is said to be in one of finite number of internal states. The automation can change states in 
-a defined way.  
- A state is the condition with respect to structure ,form, constitution and phase.

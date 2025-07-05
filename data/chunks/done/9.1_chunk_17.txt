@@ -1,8 +1,0 @@
-Stochastic: Is the next state of the environment
-completely determined by the current state and agent’s action, or is
-there uncertainty?
-Static vs. Dynamic: Does the environment change while the agent is
-deliberating, or is it static?
-Discrete vs. Continuous: Are the states and actions in the
-environment finite (e.g., chess) or continuous (e.g., driving)?
-Single-agent vs.

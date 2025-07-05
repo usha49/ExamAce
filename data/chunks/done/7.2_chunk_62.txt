@@ -1,3 +1,0 @@
-Initialize two pointers, up and down to the upper bound
-(low) and lower bound (high) of the array; While down is left of up, repeat these steps: Move
-down right, skipping over elements that are smaller than or equal to pivot.

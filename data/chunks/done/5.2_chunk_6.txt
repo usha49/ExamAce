@@ -1,5 +1,0 @@
-The frame is formed by breaking down a stream of packets into smaller, digestible chunks. It typically 
-includes synchronization features that indicate to the receiver the beginning and end of the payload 
-data within the stream. In the OSI model, a frame is the protocol data unit at the data link layer, 
-representing the final encapsulation before transmission over the physical layer. A frame consists of a 
-link-layer header followed by a packet, separated by an interframe gap.

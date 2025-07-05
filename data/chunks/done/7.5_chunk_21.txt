@@ -1,7 +1,0 @@
-A critical real-time task gets priority over other tasks and
-retains the priority until it completes. Soft real-time systems have limited utility than hard
-real-time systems. For example, multimedia, virtual reality, Advanced Scientific Projects
-like undersea exploration and planetary rovers, etc.
-Network Operating System : A
-Network Operating System runs on a server and provides the server the capability to
-manage data, users, groups, security, applications, and other networking functions.

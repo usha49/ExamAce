@@ -1,5 +1,0 @@
-Chapter 5: Interrupt Operations 
-An interrupt is a signal sent by a peripheral device or an internal component to the processor, 
-requesting immediate attention. Interrupts enable the microprocessor to handle real-time tasks 
-efficiently by allowing it to pause its current execution and service the interrupting device before 
-resuming normal operations.

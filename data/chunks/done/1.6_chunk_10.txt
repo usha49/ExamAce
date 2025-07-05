@@ -1,7 +1,0 @@
-Class AB amplifiers are ubiquitous in 
-audio power amplification, offering an excellent compromise between fidelity and 
-efficiency.
-Biasing the Class AB Stage
-The Class AB stage requires precise biasing to achieve optimal performance. The 
-bias voltage ensures that the transistors remain slightly conductive during the 
-zero-crossing of the input signal, preventing distortion.

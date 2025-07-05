@@ -1,6 +1,0 @@
-Some of them are described in this section.Adjancency
-matrix:Adjancency matrix A for a graph G = (V, E) with n vertices, is n x n matrix, such that Aij
-= 1, if there is an edge from vi to vj Aij = 0, if there is no such edge.It is a simple way to
-represent a graph, but it has following disadvantages:it takes O(n2) space,it takes O(n2) time to
-solve most of the problems.Adjacency List Representation:The n rows of an adjacency matrix
-can be represented as n linked lists.

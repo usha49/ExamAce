@@ -1,4 +1,0 @@
-The use of tolerances, including limit dimensions and fits, ensures
-that manufactured parts meet the required specifications with acceptable deviations.
-Scale is another fundamental aspect of engineering drawings, as real-world objects often need
-to be represented at a proportionate size.

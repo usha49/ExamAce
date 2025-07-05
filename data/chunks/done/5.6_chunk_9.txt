@@ -1,5 +1,0 @@
-RSA ensures secure communication by making it 
-computationally difficult to derive the private key from the public key. The Diffie-Hellman key exchange 
-algorithm allows two parties to establish a shared secret key over an insecure channel, enabling 
-encrypted communication without prior key sharing. Digital signatures authenticate messages by 
-ensuring that data has not been tampered with during transmission.

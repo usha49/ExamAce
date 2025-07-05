@@ -1,7 +1,0 @@
-Understanding these distinctions is crucial in modern electronics, 
-where non-linear components play a central role in devices like amplifiers and 
-signal processors.
- bilateral and unilateral circuits
-Bilateral circuits allow current to flow equally well in both directions, making 
-their behavior symmetric regardless of the current's direction. Examples include 
-circuits with resistors or capacitors.

@@ -1,8 +1,0 @@
-The main operations performed on a queue include inserting an
-element at the rear, removing an element from the front, and checking if the queue is empty.
-Queues are commonly used in scheduling tasks, handling requests in operating systems, and
-managing buffers.
-
-Stacks are particularly useful in expression evaluation. Infix expressions, where operators
-appear between operands (e.g., A + B), can be converted into postfix notation (e.g., AB+) using
-stacks.

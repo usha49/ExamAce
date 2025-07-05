@@ -1,9 +1,0 @@
-The
-type of agent determines how it perceives the environment, processes
-information, and selects actions. There are four primary types of
-agents, each representing increasing levels of sophistication:
-Simple Reflexive,
-
-Simple reflex agents act solely based on the current percept (input
-from the environment). They ignore the history of previous percepts
-and do not maintain any internal state.

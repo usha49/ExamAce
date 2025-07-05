@@ -1,5 +1,0 @@
-While the schema defines the blueprint, instances are the real-time
-records that exist within the database tables.
-The Entity-Relationship (E-R) Model is a conceptual framework used to design and represent
-database structures visually. It consists of entities, attributes, and relationships. Entities
-represent real-world objects or concepts, such as students, employees, or products.

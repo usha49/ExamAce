@@ -1,4 +1,0 @@
-Using the appropriate scale is crucial in making drawings
-readable and practical for manufacturing and construction.
-Line diagrams are simplified graphical representations of systems, commonly used in electrical,
-mechanical, and plumbing engineering.

@@ -1,6 +1,0 @@
-Norton’s equivalent circuit is particularly 
-useful in systems where parallel configurations dominate, as it simplifies the 
-study of how current divides among parallel branches.
-Maximum power transfer theorem
-The maximum power transfer theorem focuses on the conditions under which a load 
-receives maximum power from a network.

@@ -1,5 +1,0 @@
-The Transitive closure helps to determine which pair or
-vertices in a digraph are connected by a path. It takes O(n4) time complexity.To find at least one
-path between two nodes, we can check adj1, adj2, adj3, …,adjmaxnodes1. If any of the adjacency
-matrix give true value for node ‘i’ and ‘j’, then there exist at least a path between nodes ‘i’ and
-‘j’. Let ‘m’ is the highest order of length and ‘n’ is the no. of total nodes.

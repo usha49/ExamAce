@@ -1,9 +1,0 @@
-Examples include smart home devices and IoT applications.
-Mobile Embedded Systems: Compact and battery-powered systems like smartphones 
-and portable gaming consoles.
-Hybrid Embedded Systems: Combine features of the above categories, such as 
-modern cars with real-time, stand-alone, and networked subsystems.
- Custom Single-Purpose Processor Design
-Custom single-purpose processors are designed to execute specific tasks 
-efficiently, making them ideal for embedded systems where performance and 
-resource optimization are critical.

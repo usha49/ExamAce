@@ -1,3 +1,0 @@
-Either all operations of
-the transaction are properly reflected in the database or none are. Consistency. Execution of a transaction in isolation
-preserves the consistency of the database. Isolation.

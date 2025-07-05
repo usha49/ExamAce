@@ -1,6 +1,0 @@
-This approach selects the best choice at each step, instead of
-considering all sequences of steps that may lead to an optimal solution. Algorithm that make
-what seems to be the “best” choice at each step are called greedy algorithm.Transitive
-Closure:In all shortest path, we noticed that every time we have to determine whether there is a
-path from vertex i to j. This can be accomplished by observing a matrix, say d(n). The path exists
-if and only if the entry does not have the value infinity.

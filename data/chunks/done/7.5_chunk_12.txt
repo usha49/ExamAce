@@ -1,8 +1,0 @@
-CPU is often idle, because the speed of
-the mechanical I/O devices is slower than the CPU.
-Difficult to provide the desired
-priority.Multi-Processing: A computer’s capability to process more than one task
-simultaneously is called multiprocessing. A multiprocessing operating system is capable
-of running many programs simultaneously, and most modern network operating systems
-(NOSs) support multiprocessing. These operating systems include Windows NT, 2000, XP,
-and UNIX.

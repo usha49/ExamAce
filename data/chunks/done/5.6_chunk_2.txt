@@ -1,7 +1,0 @@
-Various threats 
-such as cyberattacks, data breaches, and unauthorized access can compromise network systems, making 
-it necessary to implement strong security measures. 
-The fundamental properties of secure communication include confidentiality, authentication, message 
-integrity, authorization, non-repudiation, availability, provenance, and anonymity. Confidentiality 
-ensures that only authorized users can access sensitive information by encrypting data during 
-transmission.

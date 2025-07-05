@@ -1,6 +1,0 @@
-The XOR gate outputs high when the inputs differ, while the XNOR gate outputs
-high when inputs are the same.
-Boolean algebra provides mathematical rules to simplify logic expressions, making circuits
-more efficient. The commutative law states that the order of operands does not affect the
-result, as seen in A + B = B + A and A·B = B·A. The associative law allows grouping of terms
-without changing results, such as (A + B) + C = A + (B + C).

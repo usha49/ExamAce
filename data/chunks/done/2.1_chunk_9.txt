@@ -1,5 +1,0 @@
-Karnaugh maps (K-maps) provide a visual method for simplifying
-Boolean expressions by grouping adjacent 1s into larger blocks, reducing the number of logic
-gates required. A four-variable K-map consists of a 4x4 grid where adjacent cells differ by only
-one bit, allowing efficient grouping and minimization of logic expressions.
-.

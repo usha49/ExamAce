@@ -1,5 +1,0 @@
-These traversal
-techniques are used in applications such as expression tree evaluation and hierarchical data
-processing.
-The height of a tree is the longest path from the root node to a leaf node. The level of a node
-represents the depth at which it exists in the tree, with the root being at level zero.

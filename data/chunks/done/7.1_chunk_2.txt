@@ -1,6 +1,0 @@
-Data structures can be broadly categorized into linear
-and non-linear types, each designed for specific operations and use cases.
-Data types define the kind of data that can be stored and manipulated within a program.
-Primitive data types include integers, floating-point numbers, characters, and booleans. Data
-structures, on the other hand, refer to the organization and storage format of data, facilitating
-efficient access and modification.

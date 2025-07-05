@@ -1,6 +1,0 @@
-This relationship remains valid as long as 
-the physical conditions, such as temperature, remain constant. This law is 
-instrumental in understanding and designing electrical circuits, as it provides 
-a basis for calculating any one of the three variables if the other two are 
-known. The unit of resistance, the ohm, is named after Georg Simon Ohm, who 
-formulated this principle.

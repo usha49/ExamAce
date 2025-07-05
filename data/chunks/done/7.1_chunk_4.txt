@@ -1,6 +1,0 @@
-Time
-complexity refers to the amount of time an algorithm takes to execute as a function of the input
-size. It is expressed using asymptotic notation such as Big-O, which represents the worst-case
-scenario, Omega, which represents the best-case scenario, and Theta, which represents the
-average-case scenario. Space complexity refers to the amount of memory an algorithm requires
-for execution, including both fixed and variable memory allocations.

@@ -1,8 +1,0 @@
-Strings in L(G) 
-include 
- 
-a boy sees 
-the boy sees a flower 
-a girl with a flower likes the boy 
-Each of these strings has a derivation in grammar G. The following is a derivation of the first 
-string on this list.

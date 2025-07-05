@@ -1,6 +1,0 @@
-The TRAP 
-interrupt has the highest priority and is non-maskable, meaning it cannot be disabled. It is used for 
-critical operations such as handling power failures. The RST 7.5, RST 6.5, and RST 5.5 interrupts have 
-decreasing priority levels and can be enabled or disabled through software instructions. The INTR 
-interrupt is the lowest priority interrupt and requires an external controller to determine the ISR 
-address.

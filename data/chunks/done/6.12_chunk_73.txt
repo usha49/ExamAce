@@ -1,6 +1,0 @@
-The basic approach to convert NFA, to Regular Expressions is as follows: 
-1. If an NFA has more than one final state, convert it to an NFA with only one final 
-state. Make the original final states non final, and add  a  e-transition from each to the 
-new (single) final state. 
-2. Consider the NFA to be a generalised transition graph, which is just like an NFA 
-except that the edges may be labeled with arbitrary regular expressions.

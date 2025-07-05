@@ -1,5 +1,0 @@
-Unlike arrays, linked lists provide dynamic memory allocation, allowing flexible
-modifications.
-Basic operations on linked lists include creating a linked list, inserting nodes at different
-positions, and deleting nodes from different positions. Insertion can be done at the beginning,
-middle, or end of the list.

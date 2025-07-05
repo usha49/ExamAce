@@ -1,2 +1,0 @@
-Depth First Ordering:Start by
-finding a vertex that has no successors and place it last in the order.

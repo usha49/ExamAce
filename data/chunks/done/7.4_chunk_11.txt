@@ -1,5 +1,0 @@
-Lock requests are made to concurrency-control manager.
-Transaction can proceed only after request is granted.
-Lock-compatibility matrix : A transaction may be granted a lock on an item if the requested lock is compatible with
-locks already held on the item by other transactions.Any number of transactions can hold shared locks on an item, but if
-any transaction holds an exclusive on the item no other transaction may hold any lock on the item.

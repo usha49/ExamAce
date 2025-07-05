@@ -1,6 +1,0 @@
-Thus if (q, w) and (q', w') are two configurations of M, 
-then (q, w) 
- (q', w') if and only if w = aw' for some symbol a є ∑, and δ(q, a) = q'. For every 
-configuration except those of the from (q, e) there is a uniquely determined next configuration. 
-A configuration of the form (q, e) signifies that M has consumed all its input, and hence its operation 
-ceases at this point.

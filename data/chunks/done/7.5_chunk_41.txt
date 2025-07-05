@@ -1,7 +1,0 @@
-Its resources are returned to the
-system, it is purged from any system lists or tables, and its process control block (PCB) is
-erased. The new process terminates the existing process, usually due to following reasons:
-Normal Exit (Voluntary):
-Most processes terminate because they have done their job.
-Error Exist(Voluntary): When process discovers a fatal error. For example, a user tries
-to compile a program that does not exist.

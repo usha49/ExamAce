@@ -1,2 +1,0 @@
-That is, L is a function from strings to languages. The function £ is defined as 
-follows.

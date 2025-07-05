@@ -1,6 +1,0 @@
-To apply Thevenin's theorem, the portion of the circuit of 
-interest is first isolated by removing the load resistance. The open-circuit 
-voltage, also known as the Thevenin voltage, is then determined across the 
-terminals where the load was connected. The equivalent resistance is found by 
-deactivating all independent sources and calculating the resistance seen from 
-the terminals.

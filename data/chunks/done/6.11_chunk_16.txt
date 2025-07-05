@@ -1,2 +1,0 @@
-Then the set of all ordered pairs (x, y) where x  
-є  A and y  є  B is called the “Cartesian Product” of the sets A and B and is denoted by A x B, i.e.

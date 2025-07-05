@@ -1,6 +1,0 @@
-The transport layer provides two types of service to the application layer: connection-
-oriented service and connectionless service. 
-Transport Protocols: UDP, TCP 
-The two main Transport layer protocols are Transmission Control Protocol (TCP) and User Datagram 
-Protocol (UDP). TCP provides reliable communication between two hosts. Examples include World Wide 
-Web (HTTP), E-mail (SMTP TCP), File Transfer Protocol (FTP), and Secure Shell (SSH).

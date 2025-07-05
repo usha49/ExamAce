@@ -1,7 +1,0 @@
-Some of the most well-known network
-operating systems include Microsoft Windows Server 2003, Microsoft Windows Server
-2008, Linux and Mac OS X.Mainly there are two types of network operating. Peer-to-
-peer network operating systems allow users to share resources and files located on their
-computers and to access shared resources found on other computers. In a peer-to-peer
-network, all computers are considered equal; they all have the same privileges to use the
-resources available on the network.

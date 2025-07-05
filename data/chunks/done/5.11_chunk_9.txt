@@ -1,6 +1,0 @@
-In peer-to-peer networks, computers share data and resources without a dedicated server. 
-Active networks or software-defined networking (SDN) allows software to dynamically control and 
-manage network functions, providing flexibility and programmability. 
-Protocols and Standards 
-Protocols define how data is communicated across networks, specifying message formats, timing, and 
-error-handling rules. Network protocols include TCP/IP, HTTP, FTP, SMTP, and DNS.

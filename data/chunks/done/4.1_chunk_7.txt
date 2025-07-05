@@ -1,8 +1,0 @@
-Horizontal encoding provides 
-detailed control at the cost of longer instruction widths, while vertical 
-encoding is more compact but requires decoding stages. The choice of format 
-affects the speed and complexity of the control unit.
-Design of control unit
-The control unit (CU) is responsible for interpreting instructions from memory 
-and generating control signals to execute them. There are two main types of 
-control unit designs: hardwired and microprogrammed.

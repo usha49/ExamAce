@@ -1,5 +1,0 @@
-Introduction to Programmable Peripheral Interface (PPI) 
-The Programmable Peripheral Interface (PPI) is an essential component in microprocessor-based systems 
-that enables communication between the CPU and peripheral devices. The Intel 8255 PPI is one of the 
-most commonly used PPI chips, designed to provide flexible interfacing for a wide range of input and 
-output devices.

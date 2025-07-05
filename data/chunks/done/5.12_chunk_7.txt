@@ -1,5 +1,0 @@
-Coaxial cables have a 
-central conductor surrounded by an insulating layer, a metallic shield, and an outer protective cover. 
-They offer better bandwidth and noise resistance than twisted pair cables and are commonly used for 
-cable television and broadband internet. Fiber optic cables use light signals to transmit data through 
-glass or plastic fibers.

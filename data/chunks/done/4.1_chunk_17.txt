@@ -1,4 +1,0 @@
-These 
-techniques are fundamental to modern CPU design, enhancing performance by 
-exploiting instruction-level and thread-level parallelism.
-.

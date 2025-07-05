@@ -1,7 +1,0 @@
-L2 and L3 caches are larger and slower but still significantly faster 
-than main memory. The hierarchy of caches helps balance access speed and storage 
-capacity.
-Memory Write Ability and Storage Permanence
-Memory write ability refers to the ease with which data can be written to 
-memory. Volatile memories like RAM allow fast read and write operations but lose 
-data when power is removed.

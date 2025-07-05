@@ -1,7 +1,0 @@
-The master-slave
-flip-flop consists of two interconnected flip-flops, where the master captures the input on the
-clock’s rising edge and transfers it to the slave on the falling edge, preventing glitches and race
-conditions.
-Registers consist of multiple flip-flops used to store multi-bit data. Shift registers, a type of
-register, shift data left or right with each clock pulse, used in serial-to-parallel and parallel-to-
-serial conversions.

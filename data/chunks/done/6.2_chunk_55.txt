@@ -1,9 +1,0 @@
-Then Le (M), the language accepted by M by empty stack  , 
-is 
-Le (M)= {w  є * :  (s, w, e) 
- (q, e, e)  )} for some state q  є K 
-That is, the set of input  w that M  can consumes and at the same time empty its stack. w from 
-the input and enters an accepting state. The content of the stack at that time is irrelevant. 
- 
-Two methods are equivalent in the sense that a language L has a PDA that accepts it by final 
-state if and only if L has a PDA that accepts it by empty stack.

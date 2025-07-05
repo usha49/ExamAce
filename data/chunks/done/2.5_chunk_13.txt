@@ -1,4 +1,0 @@
-The 8255 PPI consists of three 8-bit ports, designated as Port A, Port B, and Port C, which can be 
-programmed for input or output operations. The device operates in three different modes: Mode 0 
-(Basic I/O mode), Mode 1 (Strobed I/O mode), and Mode 2 (Bidirectional communication mode). In 
-Mode 0, all three ports function as simple input or output ports.

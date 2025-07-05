@@ -1,5 +1,0 @@
-The three main types of multiplexing are 
-frequency division multiplexing (FDM), time division multiplexing (TDM), and wavelength division 
-multiplexing (WDM). Frequency division multiplexing divides the bandwidth of the transmission medium 
-into multiple frequency bands, each carrying a separate signal. It is commonly used in radio and 
-television broadcasting.

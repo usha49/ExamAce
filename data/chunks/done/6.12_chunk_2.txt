@@ -1,8 +1,0 @@
-Finite automata are good models of 
-computers with a extremely limited amount of memory. Example of finite automata is Elevator 
-problem, control unit of computer etc. 
- 
-Fig: Finite automata 
-An automaton has a mechanism to read input ,which is string over a given alphabet. This input is 
-actually written on an input tape /file  ,which can be read by automaton but cannot change it.  
-Input file is divided into cells each of which can hold one symbol.

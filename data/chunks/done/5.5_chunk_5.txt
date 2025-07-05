@@ -1,6 +1,0 @@
-Mail User Agent (MUA) is an application (e.g., Outlook Express, Thunderbird) that runs on a user’s 
-computer. Mail user agents are used to compose and send messages, as well as to display and manage 
-messages in a user’s mailbox. 
-POP3 (Post Office Protocol) provides a simple, standardized way for users to access mailboxes and 
-download messages to their computers. When using the POP protocol, all your e-mail messages will 
-be downloaded from the mail server to your local computer.

@@ -1,8 +1,0 @@
-Although widely used 
-in early audio amplifiers, transformer coupling has been largely replaced by 
-modern designs due to its bulk and potential bandwidth limitations.
-Tuned Amplifiers
-Tuned amplifiers are specialized circuits designed to amplify signals at a 
-specific frequency or within a narrow frequency band. These amplifiers 
-incorporate resonant LC circuits in their design to achieve high selectivity and 
-gain at the desired frequency.

@@ -1,7 +1,0 @@
-In cycle stealing mode, the 
-DMA controller temporarily pauses the CPU to transfer data. In transparent mode, data transfers occur 
-when the processor is idle, ensuring minimal performance impact. 
-DMA technology is widely used in hard drives, sound cards, network adapters, and embedded systems to 
-optimize data handling and enhance overall system performance. 
- 
-.

@@ -1,6 +1,0 @@
-They are very efficient by forwarding good 
-packets selectively to correct devices only by checking MAC address in a table, otherwise, they transmit 
-to all. Switches can support both layer 2 (based on MAC Address) and layer 3 (Based on IP address) 
-depending on the type of switch. Usually, large networks use switches instead of hubs to connect 
-computers within the same subnet. 
-Bridges are Data Link Layer devices. A bridge is more complex than a hub.

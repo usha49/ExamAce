@@ -1,6 +1,0 @@
-IDS can be 
-classified into network-based intrusion detection systems (NIDS) and host-based intrusion detection 
-systems (HIDS). NIDS analyze network traffic for suspicious patterns, while HIDS monitor activity on 
-individual devices. Intrusion prevention systems (IPS) go a step further by automatically blocking 
-detected threats. A Key Distribution Center (KDC) facilitates secure key exchange in symmetric 
-encryption systems by distributing cryptographic keys to authorized users.

@@ -1,6 +1,0 @@
-Operators are pushed onto a stack while operands are directly placed in the output. In
-postfix evaluation, the operands appear before the operator, making computation
-straightforward using a stack. The operands are pushed onto the stack, and whenever an
-operator is encountered, the required number of operands is popped, the operation is performed,
-and the result is pushed back.
-Lists can be implemented using arrays or linked structures.

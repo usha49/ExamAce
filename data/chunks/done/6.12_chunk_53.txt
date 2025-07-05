@@ -1,7 +1,0 @@
-In this construction, a completely new machine is formed, whose states are labelled with an 
-ordered pair of state names: the first element of each pair is a state from L1 and the second 
-element of each pair is a state from L2. 
- 
- Begin by creating a start state whose label is (start state of L1, start state of L2). 
- Repeat the following until no new arcs can be added: 
- (1) Find a state (A, B) that lacks a transition for some x in S.

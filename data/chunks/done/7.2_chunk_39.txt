@@ -1,6 +1,0 @@
-This is the basic principle of hashing. This way, we
-can access any record in a specific time without making any comparison, irrespective of the
-number of record in the file. Hashing is a scheme of searching that will use some function say
-hash to directly find out the location of the record in a constant search time, no matter where the
-record is in the file. In order words the process of mapping large amount of data into a smaller
-table is called hashing.

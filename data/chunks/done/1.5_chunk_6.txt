@@ -1,5 +1,0 @@
-Examples include the Colpitts 
-Oscillator, which employs a capacitive divider in its feedback network, and the 
-Hartley Oscillator, which uses an inductive divider. LC oscillators are widely 
-used in high-frequency applications, such as radio transmitters and receivers, 
-due to their ability to generate stable waveforms over a wide frequency range.

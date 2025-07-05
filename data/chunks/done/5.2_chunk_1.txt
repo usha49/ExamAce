@@ -1,4 +1,0 @@
-The Data Link Layer is the second layer of the OSI Layered Model. It ensures that an initial connection 
-has been set up, divides output data into data frames, and handles the acknowledgements from a 
-receiver that the data arrived successfully. It is responsible for converting a data stream to signals bit by 
-bit and sending them over the underlying hardware.

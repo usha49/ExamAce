@@ -1,8 +1,0 @@
-If d(v) = 1, v is pendent.
-Weighted Graphs:A graph is said to be weighted graph if every edge in the graph is
-assigned some weight or value. The weight is a positive value that may represent the
-cost of moving along the edge, distance between the vertices etc.The two vertices with
-no edge (path) between them can be thought of having an edge (path) with weight
-infinite.
-Adjacent and Incident: Two vertices i and j are called adjacent if there is an edge
-between the two. Eg.

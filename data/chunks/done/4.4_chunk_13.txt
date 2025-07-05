@@ -1,4 +1,0 @@
-They extend the standard 
-instruction set with custom instructions optimized for the target application. 
-For example, ASIPs in digital signal processing include specialized instructions 
-for fast Fourier transforms (FFTs) and convolution operations.

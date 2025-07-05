@@ -1,5 +1,0 @@
-At the top 
-of the hierarchy is the processor register, which has the fastest access time but limited storage. Below 
-that is cache memory, followed by RAM, which provides more storage but has slower access times. 
-Finally, secondary storage devices such as HDDs and SSDs provide massive storage capacity but are 
-significantly slower compared to RAM and cache.

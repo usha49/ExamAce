@@ -1,2 +1,0 @@
-This method is common in distributed systems.
-Synchronization ensures processors work together without conflicts.

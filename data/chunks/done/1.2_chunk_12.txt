@@ -1,5 +1,0 @@
-In series resonance, the total 
-impedance of the circuit is minimized, and the current is maximized, making it 
-useful in applications such as tuning radio frequencies. In contrast, parallel 
-resonance occurs when the circuit impedance is maximized, and the current is 
-minimized, which is often used in power systems to limit unwanted currents.

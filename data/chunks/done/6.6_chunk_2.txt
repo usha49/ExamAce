@@ -1,8 +1,0 @@
-Thus instead of representing a point as (x , y ,z) , we represent if as (x , y , z, H), where two these 
-quadruples represent the same point it one is a non zero multiple of the other the 
-quadruple (0,0,0,0) is not allowed. 
- 
-A standard representation of a point (x , y ,z ,H) with H  not zero is given by  
-                  (x/H ,  y/H,   z/H,  1). 
- 
-Transforming the point to this form is called homogenizing.

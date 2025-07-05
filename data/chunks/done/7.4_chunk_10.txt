@@ -1,5 +1,0 @@
-As can
-be seen, view equivalence is also based purely on reads and writes alone.Lock Based Protocol: A lock is a
-mechanism to control concurrent access to a data item.Data items can be locked in two modes : exclusive (X) mode. Data
-item can be both read as well as written. X-lock is requested using lock-X instruction. shared (S) mode. Data item can
-only be read. S-lock is requested using lock-S instruction.

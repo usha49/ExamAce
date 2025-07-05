@@ -1,6 +1,0 @@
-This 
-distortion makes Class B amplifiers unsuitable for high-quality audio 
-applications without additional circuitry.
-Class AB amplifiers bridge the gap between Classes A and B by slightly biasing 
-both transistors to conduct for a little over 180°. This design minimizes 
-crossover distortion while achieving better efficiency than Class A.

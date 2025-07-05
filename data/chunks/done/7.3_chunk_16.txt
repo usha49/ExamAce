@@ -1,4 +1,0 @@
-It involves analyzing
-different query execution plans and selecting the most optimal one based on factors like disk
-I/O, CPU usage, and indexing strategies. Query operations include selection, projection, join,
-grouping, and sorting, which define how data is retrieved and processed.

@@ -1,7 +1,0 @@
-Analyzing these
-complexities helps in selecting the most efficient algorithm for solving a problem.
-Linear data structures store data sequentially. Examples include stacks and queues. A stack
-follows the Last-In-First-Out (LIFO) principle, meaning elements are added and removed from
-the top. The main operations performed on a stack include inserting an element at the top,
-removing the top element, retrieving the top element without removing it, and checking if the
-stack is empty.

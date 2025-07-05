@@ -1,5 +1,0 @@
-Mesh topology connects multiple devices with redundant 
-pathways. A fully connected network topology ensures all devices are connected to each other. 
-Computer networks play an important role in providing services to large organizations and individuals. 
-Organizations can track inventories, monitor productivity, process orders, and conduct billing across 
-different locations.

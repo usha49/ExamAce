@@ -1,8 +1,0 @@
-Example of regular expression 
-Assume that  = {a, b, c} 
- Zero or more: a* means “zero or more a’s”, 
- To say “zero or more ab’s,” i.e., {e, ab, abab, …..} you need to say (ab)*.  
- One or more: Since a* means “zero or more a’s”, you can use aa* (or equivalently a*a) 
-to mean “one or more a’s”. Similarly to describe ‘one or more ab’s”, that is {ab, abab, 
-ababab, KK}, you can use ab (ab)*. 
- Zero or one: It can be described as an optional ‘a’ with (a + e).

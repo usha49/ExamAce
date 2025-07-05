@@ -1,6 +1,0 @@
-Availability ensures that network resources are accessible when 
-needed, preventing disruptions caused by attacks such as denial-of-service (DoS). Provenance identifies 
-the source of data, ensuring accountability, while anonymity protects user identities within a 
-communication system. 
-Network security threats include packet sniffing, IP spoofing, denial-of-service (DoS) attacks, and 
-malware infections.

@@ -1,9 +1,0 @@
- Turing Machines. These form a simple abstract model of a “real” computer, such as your 
-PC at home. 
-Central Question in Automata Theory: Do these models have the same power, or can one model 
-solve more problems than the other? 
- 
-Computability theory 
-In the 1930’s, G¨odel, Turing, and Church discovered that some of the fundamental 
-mathematical problems cannot be solved by a “computer”. (This may sound strange, because 
-computers were invented only in the 1940’s).

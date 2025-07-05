@@ -1,8 +1,0 @@
-1.6 Amplifiers:
-Classification of Output Stages
-Amplifiers are classified into various output stages based on their operating 
-conditions, efficiency, and distortion characteristics:
-Class A amplifiers are known for their linearity and low signal distortion 
-because the active device conducts for the entire 360° of the input cycle. 
-However, their inefficiency arises from continuous power dissipation in the 
-output device, even during idle operation.

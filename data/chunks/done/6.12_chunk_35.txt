@@ -1,2 +1,0 @@
-δ'(Q, a)  is taken to be the set of all states of M to which M can go by reading input a 
-and possibly followed several e-moves.

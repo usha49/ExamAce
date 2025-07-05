@@ -1,3 +1,0 @@
-Therefore linear search can be defined as the technique which
-traverses the array sequentially to locate the given item.Algorithm: Let 'a' be the linear
-array with ‘n’ elements, and ‘item' is an element to be searched.

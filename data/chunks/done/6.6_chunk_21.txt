@@ -1,6 +1,0 @@
-Rx
--1 (θ)  .  Ry
--1 (θ)  . Rz (θ)  .  Ry(θ)  . Rx (θ)  . T 
- 
-If the values of direction cosines are not known (cx, cy, cz) then they can be obtained knowing a second point on 
-the axis  (x1, y1, z1) by normalizing the vector from the first to second point.

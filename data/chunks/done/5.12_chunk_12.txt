@@ -1,5 +1,0 @@
-Time division multiplexing assigns different time slots to multiple signals, 
-allowing them to share the same transmission channel in a sequential manner. It is used in digital 
-telecommunication systems. Wavelength division multiplexing is used in fiber optic networks, where 
-multiple data streams are transmitted simultaneously using different wavelengths of light. 
-Switching techniques are used in networks to manage the transmission of data between devices.

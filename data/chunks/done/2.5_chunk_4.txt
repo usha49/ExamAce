@@ -1,6 +1,0 @@
-L1 cache is the fastest and resides 
-within the CPU, while L3 cache is larger but slightly slower. 
-Secondary memory refers to storage devices such as Hard Disk Drives (HDDs), Solid State Drives (SSDs), 
-and flash storage. These devices provide long-term data retention and are non-volatile. Secondary 
-memory is slower than RAM and cache but offers much higher storage capacity. 
-The memory hierarchy is structured to optimize data access speeds and processing efficiency.

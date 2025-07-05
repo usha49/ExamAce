@@ -1,8 +1,0 @@
-S( sx1 , sy1 )    =    S( sx1 . sx2 , sy1 . sy2 )
- 
-iii. Two successive Rotation operations are Additive
-Let R(θ1) and R(θ2) be two successive rotations applied to a coordinate position P then the composite scaling matrix 
-thus produced is 
-or, P’  =   R(θ2)   .  {R(θ1) .  P}	 	
-and 	
-     P’  =   {R(θ2)  .  R(θ1) } .

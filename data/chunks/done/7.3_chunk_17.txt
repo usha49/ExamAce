@@ -1,7 +1,0 @@
-The evaluation of
-expressions involves converting high-level SQL queries into efficient execution plans using
-optimization techniques.
-Query optimization is the process of improving query performance by selecting the best
-execution strategy. It involves techniques such as indexing, query rewriting, using efficient joins,
-and eliminating unnecessary computations. Query decomposition breaks complex queries into
-smaller subqueries, allowing for efficient processing and retrieval of results.

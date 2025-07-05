@@ -1,6 +1,0 @@
-10.2 Engineering Economics
-Engineering economics is a specialized branch of economics that applies economic principles
-to engineering decision-making. It helps engineers evaluate the financial feasibility of projects,
-optimize resource allocation, and assess the long-term economic impact of technical solutions.
-One of the fundamental aspects of engineering economics is understanding project cash flow,
-which involves analyzing the inflow and outflow of money over a project's duration.

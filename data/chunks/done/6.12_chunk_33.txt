@@ -1,9 +1,0 @@
-with p є E( q) 
-ioenotes.edu.np
-
-Class Notes on Theory of Computation   [BCT II/I]  
-Chapter 2: Finite Automata 
-Compiled By : Hari Prasad Pokhrel  [hpokhrel24@gmail.com] 
-Page 10 of 30 
- 
-and r ∉ E(q) do: E(q) := E(q) U {r}.

@@ -1,5 +1,0 @@
-Introduction to Direct Memory Access (DMA) and DMA Controllers 
-Direct Memory Access (DMA) is a high-speed data transfer technique that allows peripherals to send or 
-receive data directly from memory without involving the microprocessor. This reduces CPU workload 
-and improves system efficiency, especially in applications requiring large data transfers, such as disk 
-operations and video processing.

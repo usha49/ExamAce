@@ -1,8 +1,0 @@
-Observable Environment (Fully Observable)
-Description:
-The agent can perceive the complete state of the environment at any time.
-Key Characteristics:
-Full knowledge.
-Easier to design the agent.
-Example: Chessboard is fully visible.
-6.

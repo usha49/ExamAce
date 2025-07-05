@@ -1,4 +1,0 @@
-Looking for the next available position is called
-probing.Techniques are as follows:Linear probing,Quadratic probing,Double
-hashing,Chaining.Linear probing: A simple approach to resolve collision is to store the
-colliding element in the next available space.

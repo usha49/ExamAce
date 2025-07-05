@@ -1,6 +1,0 @@
-Selective Repeat ARQ improves efficiency by retransmitting only 
-the frames that were not acknowledged. 
-Flow control manages the rate of data transmission to prevent a fast sender from overwhelming a slow 
-receiver. It can be achieved through feedback-based flow control, where the receiver informs the sender 
-of its status, and rate-based flow control, where data transfer occurs at a rate agreed upon in pre-
-communication. Methods include Stop-and-Wait and Sliding Window.

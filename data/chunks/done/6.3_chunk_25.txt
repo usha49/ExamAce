@@ -1,7 +1,0 @@
-That means there exists a Turing machine T1 
-that, given any string of the language, halts and accepts that string. 
-Now let's also suppose that the complement of L, -L = {w: w Ï L}, is recursively enumerable. 
-That means there is some other Turing machine T2 that, given any string of -L, halts and accepts 
-that string. 
-Clearly, any string (over the appropriate alphabet ) belongs to either L or -L. Hence, any string 
-will cause either T1 or T2 (or both) to halt.

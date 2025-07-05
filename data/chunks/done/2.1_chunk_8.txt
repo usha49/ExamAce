@@ -1,5 +1,0 @@
-The product-of-sums (POS) method represents a Boolean function as a product of
-maxterms, where each term consists of OR combinations of input variables that result in a low
-output. Truth table rows with an output of 0 contribute to the POS expression.
-A truth table lists all possible input combinations and their corresponding outputs, helping in
-circuit design and verification.

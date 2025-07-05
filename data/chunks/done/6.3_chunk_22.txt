@@ -1,7 +1,0 @@
- If the string is not in L, the machine either rejects it or never halts. 
-Definition: A language is called recursively enumerable, if there is a Turing machine that 
-semidecides it. 
-(Strings in the language are accepted, strings that are not in the language may be rejected or may 
-cause the Turing machine to go into an infinite loop.) 
-Each Turing machine M defines a recursively enumerable language: the set of all strings 
-accepted by M.

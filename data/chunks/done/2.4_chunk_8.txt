@@ -1,5 +1,0 @@
-The von Neumann architecture forms the basis of most modern computing systems, integrating 
-program instructions and data in the same memory space. The CPU fetches instructions from memory, 
-decodes them, and executes them in sequence. Harvard architecture, in contrast, separates program 
-instructions and data into different memory units, improving processing speed by enabling simultaneous 
-access to both instruction and data memory.

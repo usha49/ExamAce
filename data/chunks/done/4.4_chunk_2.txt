@@ -1,7 +1,0 @@
-These systems integrate 
-hardware and software tightly, with the hardware providing processing capability 
-and the software defining the specific functions.
-Embedded systems are used in various applications, from consumer electronics 
-(e.g., smartphones, washing machines) to industrial automation, automotive 
-systems, and medical devices. Key characteristics include real-time operation, 
-low power consumption, and compact design.

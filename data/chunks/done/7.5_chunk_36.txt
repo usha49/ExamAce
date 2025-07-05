@@ -1,7 +1,0 @@
-Command Interpreter System :
-The command interpreter is the primary interface between the user and the rest of the
-system. The command statement themselves deal with process management, I/O handling,
-secondary storage management, main memory management, file system access, protection,
-and networking. Operating System Services :System Calls : A system call is a
-mechanism that is used by the application program to request a service from the operating
-system.

@@ -1,8 +1,0 @@
-Common structures include:
-Bus-Based Interconnection: All components are connected via a shared bus. While 
-simple and cost-effective, it suffers from bandwidth limitations as the number 
-of processors increases.
-Crossbar Switch: Provides a direct connection between any pair of components, 
-offering high performance at the cost of increased complexity.
-Multistage Interconnection Networks: Use multiple switching stages to connect 
-components, balancing cost and performance.

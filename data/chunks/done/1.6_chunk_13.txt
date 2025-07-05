@@ -1,8 +1,0 @@
-Applications include motor drives, inverters, 
-and power supplies.
-Transformer-Coupled Push-Pull Stages
-In transformer-coupled push-pull amplifiers, the output stage uses a transformer 
-to combine the outputs of two transistors operating in push-pull mode. The 
-transformer provides impedance matching between the amplifier and the load, 
-improving power transfer efficiency. This configuration reduces even-order 
-harmonics, enhancing the fidelity of the amplified signal.

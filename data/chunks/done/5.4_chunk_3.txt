@@ -1,7 +1,0 @@
-UDP provides 
-unreliable communication between two hosts. Examples include Domain Name System (DNS), 
-Streaming media applications such as movies, Online multiplayer games, Voice over IP (VoIP), and Trivial 
-File Transfer Protocol (TFTP). 
-Port and Socket 
-A port is one of the circuit connection points on a front-end processor or local intelligent controller. The 
-TCP and UDP protocols use ports to map incoming data to a particular process running on a computer.

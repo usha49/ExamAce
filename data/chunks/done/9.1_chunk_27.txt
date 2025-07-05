@@ -1,9 +1,0 @@
-Stochastic Environment
-Description:
-Actions do not guarantee specific outcomes due to randomness or uncertainty.
-The same action can lead to different results.
-Key Characteristics:
-Uncertainty is involved.
-Requires probabilistic reasoning.
-Example: Self-driving car in traffic, where other drivers' behavior is unpredictable.
-3.

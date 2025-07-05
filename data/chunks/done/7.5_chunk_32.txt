@@ -1,1 +1,0 @@
-Only the device driver knows the peculiarities of a specific device.

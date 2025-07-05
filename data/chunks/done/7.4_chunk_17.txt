@@ -1,4 +1,0 @@
-More Deadlock Prevention Strategies :
-Following schemes use transaction timestamps for the sake of deadlock prevention alone. wait-die scheme — non-
-preemptive : older transaction may wait for younger one to release data item. Younger transactions never wait for older
-ones; they are rolled back instead.

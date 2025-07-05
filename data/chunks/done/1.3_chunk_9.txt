@@ -1,3 +1,0 @@
-The delta connection, on the other hand, is often used 
-in transmission and distribution due to its higher efficiency in power transfer.
-.

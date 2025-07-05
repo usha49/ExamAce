@@ -1,5 +1,0 @@
-These amplifiers are commonly used in 
-low-power audio amplification where signal fidelity is critical.
-Class B amplifiers improve efficiency by using two transistors, each conducting 
-for half the cycle (180°). The push-pull configuration reduces power wastage but 
-introduces crossover distortion at the zero-crossing point of the waveform.

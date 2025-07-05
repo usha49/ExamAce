@@ -1,6 +1,0 @@
-The checksum method divides data into sections, adds them using one’s 
-complement arithmetic, and complements the result to create a checksum. 
-Error control mechanisms include Automatic Repeat Request (ARQ), where data retransmission occurs 
-in case of damaged frames, lost frames, or lost acknowledgements. Retransmission is triggered by three 
-cases: damaged frames, lost frames, and lost acknowledgements. ARQ techniques include Stop-and-
-Wait ARQ, Go-Back-N ARQ, and Selective Repeat ARQ.

@@ -1,5 +1,0 @@
-The average value of a 
-sine wave over one complete cycle is zero, but over a half-cycle, it represents 
-the mean of the absolute values of the waveform. The RMS value is particularly 
-important in AC systems as it provides a measure of the effective or equivalent 
-DC value of an alternating quantity.

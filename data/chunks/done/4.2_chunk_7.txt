@@ -1,7 +1,0 @@
-The integration of external memory into 
-computing systems involves the use of file systems and input/output control 
-mechanisms.
-Cache memory principles
-Cache memory is a small, high-speed memory located close to the CPU that stores 
-frequently accessed data and instructions. The principle of locality of 
-reference underpins the effectiveness of cache memory.

@@ -1,5 +1,0 @@
-The microprocessor follows a structured set of instructions stored in memory and 
-processes data accordingly. 
-The history of microprocessors dates back to the 1970s with the introduction of the Intel 4004, a 4-bit 
-processor with a clock speed of 740 kHz. This was followed by the Intel 8080 and 8085, which 
-introduced 8-bit architecture, improved processing speed, and more advanced instruction sets.

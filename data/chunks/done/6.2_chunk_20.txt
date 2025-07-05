@@ -1,8 +1,0 @@
-An ordered tree is a derivation tree for G if it 
-has the following properties: 
- The root of the derivation tree is S. 
- Each and every leaf in the tree has a label from ∑  {e}. 
- Each and every interior vertex (a vertex which is no a leaf) has a label from V. 
- If a vertex has label A є V, and its children are labeled (from left to right) a1 , a2 , ….  an, 
-then R must contain a production of the form 
-A a1,  a2, …..

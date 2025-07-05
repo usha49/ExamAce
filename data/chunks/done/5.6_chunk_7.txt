@@ -1,5 +1,0 @@
-Cryptography plays a crucial role in network security by transforming readable data (plaintext) into an 
-unreadable format (ciphertext) using encryption algorithms. Encryption ensures that unauthorized users 
-cannot access sensitive information. Symmetric encryption uses a single key for both encryption and 
-decryption, while asymmetric encryption uses a pair of public and private keys for secure 
-communication.

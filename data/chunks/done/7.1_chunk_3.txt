@@ -1,5 +1,0 @@
-Examples include arrays, linked lists, stacks, queues, trees,
-and graphs. Abstract Data Types (ADTs) define logical data structures without specifying their
-implementation details. ADTs include lists, stacks, queues, and trees, which specify the
-operations that can be performed rather than how they are implemented in memory.
-The efficiency of an algorithm is measured in terms of time and space complexity.

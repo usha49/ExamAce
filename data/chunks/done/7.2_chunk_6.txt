@@ -1,5 +1,0 @@
-The vertices adjacent to vertex A, in the fig below are B, C, D.
-The adjacent vertices of C are A and D.If e(i, j) is an edge on E(G), then we say that the
-edge e(i, j) is incident on vertices i and j. Eg. in the above figure, e4 is incident on C and
-D. If (i, j) is directed edge, then i is adjacent to j and j is adjacent from i.
-Path:A path is a sequence or distinct vertices, each adjacent to the next. For e.g.

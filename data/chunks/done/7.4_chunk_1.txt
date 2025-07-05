@@ -1,5 +1,0 @@
-A transaction is a unit of program execution that accesses and possibly updates various data items. Two main issues to
-deal with: Failures of various kinds, such as hardware failures and system crashes ,Concurrent execution of multiple
-transactions .ACID Properties : A transaction
-is a unit of program execution that accesses and possibly updates
-various data items.To preserve the integrity of data the database system must ensure: Atomicity.

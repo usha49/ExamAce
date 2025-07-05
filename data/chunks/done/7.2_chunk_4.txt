@@ -1,7 +1,0 @@
-In an undirected graph,
-we say that an edge e = (u, v) is incident on u and v (u and v are connected).
-Undirected graph don’t have self loops. Incidence is a symmetric relation i.e. if e = (u, v)
-Then u is a neighbor of v and vice versa. The degree of a vertex, d(v), is the total
-number of edges incident on it.
-The sum of the degrees of all the vertices in a graph equals twice the number of edges if
-d(v) = 0, v is isolated.

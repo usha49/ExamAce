@@ -1,9 +1,0 @@
-This is repeated until the next symbol to be read is a blank. Then M stops. 
- 
-The alphabet would be: ∑ = {a, #, 
-} 
- 
-How many states? 
- 
-q0 - initial state, where M reads an a. 
-q1 - where M erases the a.

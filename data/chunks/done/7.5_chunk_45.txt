@@ -1,5 +1,0 @@
-Now, if
-any process with high priority wants to execute on CPU, Suppose P3 with high priority,
-then P2 should be the pause or we can say that P2 will be in waiting state and P3 will be
-in running state. Now, when P3 terminates then P2 again allows the dispatcher to
-execute on CPU.

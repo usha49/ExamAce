@@ -1,7 +1,0 @@
-Note that unlike the 
-finite automaton, a PDA is assumed to be nondeterministic unless we state otherwise. 
-Condition 2 prevents the possibility of a choice between a move independent of the input 
-symbol (e-move) and a move involving an input symbol.  
-For finite automata, the deterministic and nondeterministic models were equivalent with respect 
-to the languages accepted. The same is not true for PDA. In fact wwR is accepted by a 
-nondeterministic PDA, but not by any deterministic PDA.

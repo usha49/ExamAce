@@ -1,9 +1,0 @@
-Example 
-For = { 0, 1}  
-L= { x : x є { 0,1 } * | x has even number of Zero's } 
-011011100 є L , 1111 є  L , 1011011000 ∉ L 
-The infinite language L are denoted  as  
-L= { w є  * : w has property P} 
- 
-1.5 Operation on Languages 
-1.

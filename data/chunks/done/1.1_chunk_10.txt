@@ -1,6 +1,0 @@
-Parallel circuits, by 
-contrast, involve components connected across the same voltage source. Each 
-component receives the same voltage, but the total current is the sum of the 
-
-currents through individual components. Parallel circuits are widely used in 
-household wiring to ensure each appliance operates independently.

@@ -1,6 +1,0 @@
-The physical layer also determines the network’s physical 
-topology, including star, ring, bus, or mesh configurations, and handles the physical addressing of 
-devices. 
-Transmission media play a crucial role in the physical layer by providing the actual pathways for data 
-transmission. These media are classified into guided (wired) and unguided (wireless) categories. Guided 
-transmission media include twisted pair cables, coaxial cables, and fiber optic cables.

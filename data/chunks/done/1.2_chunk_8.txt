@@ -1,5 +1,0 @@
-According to this theorem, maximum power 
-is delivered to the load when the load resistance equals the internal resistance 
-of the source or the Thevenin equivalent resistance. This principle is widely 
-applied in electrical and electronic engineering, particularly in designing 
-systems like audio amplifiers and communication circuits.

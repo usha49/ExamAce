@@ -1,4 +1,0 @@
-The final matrix path in which no path exists that has length greater than ‘n’ is
-known as transitive closure of the matrix adj.Warshall’s Algorithm:Transitive closure method
-of finding path between nodes is quite inefficient because it processes the adjacency matrix lots
-of times.

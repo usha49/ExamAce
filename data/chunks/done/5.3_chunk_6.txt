@@ -1,6 +1,0 @@
-Bridges are used to separate parts of a network that do 
-not need to communicate regularly but need to be connected. 
-Routers are devices that forward packets based on address. A router uses the IP address to forward 
-packets. This allows the network to go across different protocols. Routers forward packets based on 
-software while a switch (Layer 3 for example) forwards using hardware called ASIC (Application Specific 
-Integrated Circuits).

@@ -1,5 +1,0 @@
-There are different types of relations,
-including joined relations, which combine data from multiple tables using join operations, and
-derived relations, which are created using SQL queries and views. SQL (Structured Query
-Language) provides powerful commands for defining, manipulating, and querying data. SQL is
-divided into Data Definition Language (DDL) and Data Manipulation Language (DML).

@@ -1,6 +1,0 @@
-Virtual Private 
-Networks (VPNs) create secure tunnels for remote access, enabling users to connect to private networks 
-over the internet while maintaining confidentiality and integrity. 
-Wireless network security is essential due to the vulnerability of wireless communication to 
-eavesdropping and unauthorized access. Wireless Encryption Protocol (WEP) and Wi-Fi Protected Access 
-(WPA) secure wireless networks by encrypting data transmitted over Wi-Fi.

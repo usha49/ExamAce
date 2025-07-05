@@ -1,8 +1,0 @@
-They are configured in three common modes:
-Common Emitter: Provides high gain and is widely used in amplification.
-Common Base: Offers low input impedance and high-frequency operation.
-Common Collector (Emitter Follower): Used for impedance matching due to high 
-input and low output impedance.
-Proper biasing is critical to ensure that the BJT operates in the desired 
-region. This involves applying a DC voltage or current to the base terminal 
-relative to the emitter and collector.

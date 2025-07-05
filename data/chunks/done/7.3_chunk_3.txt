@@ -1,4 +1,0 @@
-The physical level describes how data is actually stored in the
-database, including indexing and file structures. The logical level defines the structure of the
-entire database using tables and relationships, without specifying how the data is physically
-stored.

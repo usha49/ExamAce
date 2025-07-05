@@ -1,6 +1,0 @@
-Memory interfacing requires address decoding 
-circuits to ensure that memory locations are uniquely identified. 
-I/O interfacing enables the microprocessor to communicate with external devices such as keyboards, 
-displays, and storage drives. There are two primary techniques for I/O interfacing: memory-mapped I/O 
-and I/O-mapped I/O. In memory-mapped I/O, peripheral devices share the same address space as 
-memory, allowing the processor to access I/O devices using standard memory instructions.

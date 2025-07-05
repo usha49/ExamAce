@@ -1,8 +1,0 @@
-For example, the string cc over the alphabet { a, b, c } does not contain the symbols a 
-and b. Hence, it is true that a string over an alphabet is also a string over any superset of that 
-alphabet.  
- 
- Length of a string :  
-The number of symbols in a string w is called its length, denoted by |w|.  
-Example : | 011 | = 4,  |11| = 2,  | b | = 1 
-It is convenient to introduce a notation e for the empty string, which contains no symbols at all.

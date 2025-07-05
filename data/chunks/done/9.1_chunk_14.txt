@@ -1,3 +1,0 @@
-It helps in
-understanding and designing agents by clearly defining their goals,
-sensory capabilities, actions, and operational environment.

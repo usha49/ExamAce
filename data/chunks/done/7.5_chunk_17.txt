@@ -1,4 +1,0 @@
-For example, in a transaction processing, the processor executes
-each user program in a short burst or quantum of computation. That is, if n users are
-present, then each user can get a time quantum. When the user submits the command, the
-response time is in few seconds at most.

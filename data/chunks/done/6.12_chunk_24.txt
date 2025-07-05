@@ -1,8 +1,0 @@
-Since a string is accepted by a nondeterministic finite automaton if and only if there is at least one 
-sequence of moves leading to a final state, it follows that bababab  є L(M) 
- 
-E-closure  
-Epsilon closure (ε- closure) of a state q is the set that contains the state q itself and all other states 
-that can be reached from state q by following ε transitions. 
-We use the term, ECLOSE( q0) to denote the Epsilon closure of state q0. 
-Suppose that the given NFA M= (Q,∑, δ , q0,F) .

@@ -1,6 +1,0 @@
-The main difference between Multiprogrammed
-Batch Systems and Time-Sharing Systems is that in case of multiprogrammed batch
-systems, the objective is to maximize processor use, whereas in Time-Sharing Systems,
-the objective is to minimize response time. Multiple jobs are executed by the CPU by
-switching between them, but the switches occur so frequently. Thus, the user can receive
-an immediate response.

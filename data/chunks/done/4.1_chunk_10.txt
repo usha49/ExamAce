@@ -1,8 +1,0 @@
-The CPU's primary function is to execute instructions by 
-following the fetch-decode-execute cycle. Modern CPUs incorporate advanced 
-features like multiple cores, caches, and pipeline architectures to enhance 
-performance and efficiency.
-Arithmetic and logic Unit
-The arithmetic and logic unit (ALU) is a critical component of the CPU that 
-performs arithmetic operations like addition, subtraction, multiplication, and 
-division, as well as logical operations such as AND, OR, XOR, and NOT.

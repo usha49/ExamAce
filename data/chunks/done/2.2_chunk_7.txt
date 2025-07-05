@@ -1,5 +1,0 @@
-One’s complement negates a number by flipping all
-bits, requiring an additional step to handle carries in arithmetic operations. Two’s complement
-simplifies arithmetic by treating subtraction as addition, eliminating the need for separate
-subtraction circuits.
-.

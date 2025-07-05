@@ -1,7 +1,0 @@
-In transistor-transistor logic (TTL),
-a voltage close to 0V represents logic 0, while a voltage close to 5V represents logic 1.
-Complementary metal-oxide-semiconductor (CMOS) logic has different voltage levels, with low
-power consumption and higher noise immunity, where logic 0 ranges from 0V to 1.5V and logic
-1 ranges from 3.5V to 5V.
-Logic gates are the building blocks of digital circuits, each performing a fundamental logical
-operation.

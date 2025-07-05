@@ -1,4 +1,0 @@
-P
-Translation is treated differently (as addition) from scaling and rotation (as multiplication)
-We need to treat all three transformations in a consistent way so they can be combined easily.
-Graphics applications involve sequence of geometric transformations. e.g.

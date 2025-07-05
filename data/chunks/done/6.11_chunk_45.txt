@@ -1,9 +1,0 @@
-L*=  { w є  *    : w =w1o w2 o ……. o wk for some K ≥ 0 and some w1o w2 o ……. o wk  
-є L } 
-We write L+  for the language LL*. 
-Equivalently L+ is the language L+  =  { w є  *    : w =w1o w2 o ……. o wk for some K ≥ 
-1 and some w1o w2 o ……. o wk  є L } 
-3. Union  
-1.6 A regular expression 
-A regular expression is a string that describe a whole set of strings, according to certain syntax 
-rules.

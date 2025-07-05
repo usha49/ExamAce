@@ -1,5 +1,0 @@
-When the linear method is used to resolve collisions, this
-clustering problem is compounded, because keys that collide are loaded relatively close to the
-initial collision point.Chaining: It is another technique to deal with collision. In this method, for
-each location in the table, we keep a linked list of records that hash to the same index. The hash
-table contains pointers to linked list nodes; we can view these as the head pointers.

@@ -1,4 +1,0 @@
-Page faults slow down system
-performance, so page replacement algorithms are used to manage memory efficiently. These
-
-algorithms decide which page to remove when a new page needs to be loaded.

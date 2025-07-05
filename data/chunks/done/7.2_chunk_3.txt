@@ -1,6 +1,0 @@
-The indegree of
-a vertex v is the number of edge entering v. The outdegree of a vertex v is the number of
-edges leaving v. The sum of the indegrees of all the vertices in a graph equals to the sum
-of outdegree of all the vertices.
-Undirected Graph:If the directions are not marked for any edge, the graph is called
-undirected graph. The graphs G1, G2, G3 are undirected graphs.

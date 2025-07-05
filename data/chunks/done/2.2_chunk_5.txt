@@ -1,5 +1,0 @@
-A half-adder adds two single-bit binary numbers, producing a sum and a carry output,
-while a full-adder extends this by adding three bits, including a carry from the previous stage.
-Multi-bit adders such as ripple-carry adders combine multiple full-adders for complex
-calculations.
-Binary subtraction can be performed directly or using the two’s complement method.

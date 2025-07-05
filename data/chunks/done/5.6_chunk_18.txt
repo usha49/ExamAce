@@ -1,7 +1,0 @@
-Digital signatures provide non-repudiation, preventing 
-senders from denying that they signed a message. 
-Network security policies define rules and best practices for protecting network resources. 
-Organizations implement security policies to prevent unauthorized access, detect intrusions, and 
-respond to security incidents. Security policies cover aspects such as password management, access 
-
-control, encryption standards, and incident response procedures.

@@ -1,2 +1,0 @@
-However, this continuous operation results in high power loss as heat, leading 
-to poor efficiency. Heat sinks are often employed to manage thermal dissipation.

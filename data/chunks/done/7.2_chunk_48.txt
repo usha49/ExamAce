@@ -1,5 +1,0 @@
-Each time a
-record is inserted, it is added to the list at the location given by the hash function. When a
-collision occurs, the record is simply added to the list at the collision site.Quadratic Probing:
-This method makes an attempt to correct the problem of clustering with linear probing. It forces
-the problem key to move quickly a considerable distance from the initial collision.

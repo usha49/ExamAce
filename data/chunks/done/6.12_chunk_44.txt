@@ -1,5 +1,0 @@
-Concatenation 
-The set of regular languages is closed under the concatenation operation, i.e., if L1 and L2 
-are regular languages over the same alphabet , then L1L2 is also a regular language. 
-Proof.  Since L1 is regular, there is,  an NFA M1 = (K1, ∑, δ1, q1, F1), such that L1 = L(M1). 
-Similarly, there is an NFA M2 = (K2,∑, δ2, q2, F2), such that L2 = L(M2).

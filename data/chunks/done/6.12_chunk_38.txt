@@ -1,8 +1,0 @@
-Closure Properties 
-2. Decision Properties 
- 
-Closure Properties of Regular Languages 
-If a set of regular languages are combined using an operator, then the resulting language is also 
-regular.  
- Closure property is a statement that a certain operation on languages when applied to languages 
-in a class , produces a result is also in that class.

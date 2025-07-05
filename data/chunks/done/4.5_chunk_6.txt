@@ -1,2 +1,0 @@
-A process may consist of multiple threads, enabling 
-concurrent execution.

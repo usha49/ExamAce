@@ -1,6 +1,0 @@
-Operating system shields the programmer from the interface, the
-abstraction offers by the operating system is slower &amp; easier to use than the
-underlying hardware. An operating System is a layer of software on a bare hardware
-machine that performs two basic functions: Resource management, Virtual machine
-management. Resource Management : A computer consists of a set of resources such as
-processors, memories, timers, disks, printers and many others.

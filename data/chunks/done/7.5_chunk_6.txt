@@ -1,6 +1,0 @@
-Users do not want to be involved in the
-programming of storage devices. Moreover, Operating System provides a simple, high-
-level abstraction such that these devices contain a collection of named files. Such files
-consist of the useful piece of information like a digital photo, email messages, or web
-page. Operating System provides a set of basic commands or instructions to perform
-various operations such as read, write, modify, save or close.

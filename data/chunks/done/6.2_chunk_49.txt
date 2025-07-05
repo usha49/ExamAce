@@ -1,6 +1,0 @@
-The PDA is deterministic in the sense that at most one move is possible from any instantaneous 
-description (ID). Formally, we say that a PDA M = (Q, ∑, Г, δ, s, F), is said to be deterministic if 
-it is an automation as defined in definition of PDA , subject to the restrictions that  for each q in 
-Q ,   b  in T and a ϵ (∑{e} ) 
-1. whenever δ (q, a, b)  contains at most one element  
-2.

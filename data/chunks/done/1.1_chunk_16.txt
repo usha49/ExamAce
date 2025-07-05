@@ -1,7 +1,0 @@
-Unilateral circuits, however, permit 
-current to flow in only one direction, as seen in components like diodes. These 
-classifications are significant in designing circuits for specific 
-functionalities, such as rectifiers or filters.
- active and passive circuits
-Active circuits contain components like voltage sources or transistors that can 
-inject energy into the circuit, enabling signal amplification or oscillation.

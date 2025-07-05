@@ -1,8 +1,0 @@
-NFA can always be converted into an equivalent deterministic one.  
-Formally, we say that the  two finite automata M1 and M2  (NFA and DFA) are equivalent if and 
-only if L(M1) = L(M2). Thus two automata are considered to be equivalent if they accept  the 
-same language, even though they may use different methods to do so. 
- 
-Theorem : For each NFA , there is equivalent DFA.  
-Proof: 
-Let M=(K, ∑,∆, s, F) be a NFA we shall construct a DFA M'=(K' , ∑, δ', s', F') equivalent to M.

@@ -1,6 +1,0 @@
-Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s 
-happening on your network at a microscopic level and is the de facto (and often de jure) standard 
-across many commercial and non-profit enterprises, government agencies, and educational 
-institutions. 
-Packet Tracer is a powerful network simulation program that allows students to experiment with 
-network behavior and ask “what if” questions.

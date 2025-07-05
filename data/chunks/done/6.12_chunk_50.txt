@@ -1,9 +1,0 @@
-If L is an Regular over  , then Complement of L= * - L 
-Proof 
-To show Complement of L is also regular ,  Convert every final state into non final and every 
-non final state to final state. 
- 
- 
-Let M = (K,, δ, s, F) be a deterministic finite automaton.  
-Then the complementary language L = * - L( M) is accepted by the deterministic finite automaton  
-M1 = (K,, δ, s, K - F). That is, M1 is identical to M except that final and non final states are interchanged.

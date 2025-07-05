@@ -1,5 +1,0 @@
-Types of Searching Linear
-(Sequential) Searching, Binary Searching.Linear or sequential searching: In linear search,
-we access each element of an array one by one sequentially and see whether it is desired
-element or not. A search will be unsuccessful if all the elements are accessed and the desired
-element is not found.

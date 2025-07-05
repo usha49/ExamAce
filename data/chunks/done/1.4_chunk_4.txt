@@ -1,3 +1,0 @@
-BJTs are classified as either NPN or PNP types, 
-depending on the arrangement of the layers. BJTs operate in three regions: 
-active, saturation, and cutoff.
