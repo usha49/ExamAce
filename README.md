@@ -1,14 +1,14 @@
-## Exam Ace: MCQ generation and Exam taking system for the NEC License exam
+# Exam Ace: MCQ generation and Exam taking system for the NEC License exam
 
 This is our major project where we generate MCQ question for NEC license exam implementing RAG algorithm from our customised notes and develop exam taking webapp for practising.
 
-# 🚀 Features
+## 🚀 Features
 
 - ✨ Generates a good quality question usiing the model already validated by us
 - ⚡ Simulates real exams setting
 - 🔒 Personalized Progress Tracking
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 - Django
@@ -16,7 +16,7 @@ This is our major project where we generate MCQ question for NEC license exam im
 - Gemini-1.5-flash-latest
 - etc.
 
-# 🧠 How It Works 
+## 🧠 How It Works 
 This system is designed as a pipeline to generate multiple-choice questions (MCQs) 
 from provided syllabus materials. The key functional components representing the flow of data and processes in the systems are: 
 1. Input PDFs 
