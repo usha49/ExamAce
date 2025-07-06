@@ -4,7 +4,7 @@ venv/
 chroma_storage
 data
 results
-db.sqlite
+db.sqlite3
 mcq_data_7.3.csv
 mcq_data_7.4.csv
 mcq_data_7.5.csv
