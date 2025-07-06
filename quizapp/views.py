@@ -1,15 +1,67 @@
 from django.shortcuts import render
 from .models import MCQ  
+from .models import TestResult
 import json
 from django.views.decorators.csrf import csrf_exempt  # for form handling
 from django.db.models import Count
+from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth import login
+from django.shortcuts import redirect
 from random import sample
 
+def register(request):
+    if request.method == 'POST':
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            user = form.save()
+            login(request, user)  # log them in automatically
+            return redirect('home')
+    else:
+        form = UserCreationForm()
+    return render(request, 'registration/register.html', {'form': form})
 
+@login_required
+def home(request):
+    test_results = TestResult.objects.filter(user=request.user).order_by('date_taken')
+    scores = [result.score for result in test_results]
+    labels = [result.date_taken.strftime("%b %d") for result in test_results]
+
+    return render(request, 'quiz/home.html', {
+        'scores': scores,
+        'labels': labels,
+        'username': request.user.username
+    })
+
+def map_options(options):  # mapping options to letter ("A":"option 1","B":"option 2" etc)
+    return {chr(65+i): opt for i, opt in enumerate(options)}
+
+def build_question_list(questions):
+    question_list=[]
+    for q in questions:
+        question_data = {
+            'id': q.id,
+            'question': q.question,
+            'answer': q.answer,
+            'options': q.options,
+            'explanation': q.explanation,
+            'topic': q.topic,
+            'difficulty': q.difficulty,
+            'chapter': q.chapter,
+            'option_map': map_options(q.options)  
+        }
+        question_list.append(question_data)
+    return question_list
+
+
+@login_required(login_url='/accounts/login/')
 @csrf_exempt  # only during testing; remove this when using csrf_token properly
 def take_test(request):
     if request.method == "POST":
-        questions=MCQ.objects.all()[:10]
+        ids = request.session.get('question_ids',[])
+        ids = list(map(int, ids))
+        questions=MCQ.objects.filter(id__in=ids)
+        question_list = build_question_list(questions)
         total_questions= questions.count()
         score = 0
         results = {}
@@ -19,10 +71,8 @@ def take_test(request):
             results[q.id] = selected
 
             try:
-                # mapping options to letter ("A":"option 1","B":"option 2" etc)
-                option_map={ chr(65+i): opt for i, opt in enumerate(q.options)}
                 # finding the correct option text from the letter of correct answer 
-                correct_text=option_map.get(q.answer)
+                correct_text=map_options(q.options).get(q.answer)
 
                 if selected == correct_text:
                     score +=1
@@ -32,10 +82,19 @@ def take_test(request):
 
         
         return render(request, "quiz/result.html", {
-            'results': results,
+            'selected': results,
             'score': score,
             'total': len(questions),
+            'questions': question_list,
         })
+    
+        # Save test result
+        TestResult.objects.create(user=request.user, score=score, total=len(questions))
+
     else :
-        questions= MCQ.objects.all()[:10]
-        return render(request, 'quiz/test.html', {'questions': questions})
+        all_questions= list (MCQ.objects.all())
+        questions= sample(all_questions,min(10,len(all_questions)))
+        # saving the selected lids in the session
+        request.session['question_ids']= [q.id for q in questions]
+        question_list = build_question_list(questions)
+        return render(request, 'quiz/test.html', {'questions': question_list})

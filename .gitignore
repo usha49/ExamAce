@@ -1,1 +1,20 @@
+# Ignore python virtual environment
 venv/
+# ignore the datasets
+chroma_storage
+data
+results
+db.sqlite
+mcq_data_7.3.csv
+mcq_data_7.4.csv
+mcq_data_7.5.csv
+mcq_data_7.6.csv
+
+#ignore compiled python files
+quiz_platform/__pycache__
+quizapp/__pycache__
+quizapp/management/commands/__pycache__
+quizapp/migrations/__pycache__
+quizapp/templatetags/__pycache__
+scripts/__pycache__
+scripts/.env

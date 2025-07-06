@@ -1,17 +1,57 @@
+{% if user.is_authenticated %}
+    <p>Logged in as {{ user.username }} | <a href="{% url 'logout' %}">Logout</a></p>
+{% endif %}
 {% load quiz_extras %}
 <!DOCTYPE html>
 <html>
 <head>
     <title>Test Results</title>
+    <style>
+        .correct {
+            color: green;
+            font-weight: bold;
+        }
+        .wrong{
+            color: red;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <h1>🎉 Your Score: {{ score }} out of {{ total }}</h1>
 
     <hr>
     {% for q in questions %}
-        <p>{{q.question}}</p>
-        <p>Your answer:<strong>{{selected|get_item:q.id}}</strong></p>
-        <p>Correct answer:<strong>{{q.answer}}</strong></p>
+        <div>
+            <p><strong>Q{{ forloop.counter }}.{{q.question  }}</strong></p>
+
+            {% with selected|get_item:q.id as user_answer %}
+                {% for letter, option in q.option_map.items %}
+                    <label>
+                        {% if option == user_answer %}
+                            <input type="radio" checked disabled>
+                            {{ letter }}) {{ option }}
+                            {% if q.answer == letter %}
+                                <span class="correct">✔</span>
+                            {% else %}
+                                <span class="wrong">✘</span>
+                            {% endif %}
+                        {% else %}
+                            <input type="radio" disabled>
+                            {{letter}}) {{ option }}
+                            {% if q.answer == letter %}
+                                <span class="correct">✔</span>
+                            {%endif%}
+                        {% endif %}
+                    </label><br>
+                {% endfor %}
+            {% endwith %}
+
+            {% if q.explanation %}
+                <p><em>Explanation: {{q.explanation }}</em></p>
+            {% endif %}
+            <hr>  
+        </div>
     {% endfor %}
 
     <a href="{% url 'take_test' %}">🔁 Take the test again</a>

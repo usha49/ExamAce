@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to SmartTest</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            background: rgb(159, 243, 233);
+            padding: 40px 60px;
+            box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+            max-width: 500px;
+            text-align: top;
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #474646;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 8px;
+            border: none;
+            border-radius: 6px;
+            background: #2980b9;
+            color: white;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #27f45d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SmartTest: Engineering MCQ Practice</h1>
+        <p>Practice multiple-choice questions tailored for the Nepal Engineering Council (NEC) licensing exam. Begin Now!</p>
+        {% if user.is_authenticated %}
+            <a href="{% url 'take_test' %}" class="btn"> Take the Test, {{user.username}}</a>
+            <form action="{% url 'logout' %}" method="post">
+                {% csrf_token %}
+                <button type="submit">Logout</button>
+            </form>
+        {% else %}
+            <a href="{% url 'login' %}" class="btn">🔑 Login</a>
+            <a href="{% url 'register' %}" class="btn">📝 Register</a>
+        {% endif %}
+
+    <h2>Your Performance History</h2>
+    <canvas id="scoreChart" width="400" height="200"></canvas>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('scoreChart').getContext('2d');
+        const scoreChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: {{ labels|safe }},
+                datasets: [{
+                    label: 'Your Test Scores',
+                    data: {{ scores|safe }},
+                    borderColor: 'rgb(75, 192, 192)',
+                    fill: false,
+                    tension: 0.1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 10  // adjust to match your max score
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+</body>
+</html>

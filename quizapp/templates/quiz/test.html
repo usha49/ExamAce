@@ -1,24 +1,40 @@
+{% if user.is_authenticated %}
+    <p>Logged in as {{ user.username }} | <a href="{% url 'logout' %}">Logout</a></p>
+{% endif %}
 <!DOCTYPE html>
 <html>
 <head>
     <title>Practice Test</title>
+    <style>
+        .btn {
+            display: inline-block;
+            padding: 10px 10px;
+            margin: 10px 0;
+            background-color: hsl(115, 70%, 18%);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
     <h1>📝 Practice Engineering MCQ Test</h1>
-    <form method="post">
+    <a href="{% url 'home' %}" class="btn">🏠 Back to Home</a>
+    
+    <form method="post" action="{% url 'take_test' %}">
         {% csrf_token %}
         
         {% for q in questions %}
             <div>
-                <p><strong>{{ forloop.counter }}. {{ q.question }}</strong></p>
-                    {% for option in q.options %}
+                <p><strong>Q {{ forloop.counter }}. {{ q.question }}</strong></p>
+                    {% for letter, option in q.option_map.items %}
                         <label>
                             <input type="radio" name="q_{{ q.id }}" value="{{option}}">
-                            {{ option }}
+                            {{letter}}) {{ option }}
                         </label><br>
                     {% endfor %}
-                <hr>
             </div>
+            <hr>
         {% endfor %}
         <button type="submit">Submit Test</button>
     </form>
