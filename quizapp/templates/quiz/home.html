@@ -58,7 +58,7 @@
         {% if user.is_authenticated %}
             <a href="{% url 'take_test' %}" class="btn"> Take the Test, {{user.username}}</a>
             <form action="{% url 'logout' %}" method="post">
-                {% csrf_token %}
+                {% csrf_token %}  
                 <button type="submit">Logout</button>
             </form>
         {% else %}

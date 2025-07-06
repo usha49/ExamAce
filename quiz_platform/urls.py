@@ -19,12 +19,12 @@ from django.contrib.auth import views as auth_views
 from django.urls import path,include
 from quizapp import views  # for custom resister view
 
-
 urlpatterns = [
     path('admin/',admin.site.urls),
     path('',views.home,name='home'),
     path('test/',views.take_test, name='take_test'),
-    path('logout/', auth_views.LogoutView.as_view(next_page='login'), name='logout'),
+    path('login/', views.login_view, name='login'),
+    path('logout/', auth_views.LogoutView.as_view(next_page='home'), name='logout'),
     path('register/', views.register, name='register'),
     path('accounts/', include('django.contrib.auth.urls')),  # Includes login/logout
 ]

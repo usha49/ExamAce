@@ -4,11 +4,25 @@ from .models import TestResult
 import json
 from django.views.decorators.csrf import csrf_exempt  # for form handling
 from django.db.models import Count
-from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.decorators import login_required
-from django.contrib.auth import login
+from django.contrib.auth import login, authenticate, logout
 from django.shortcuts import redirect
 from random import sample
+
+def login_view(request):
+    if request.method == 'POST':
+        form = AuthenticationForm(request.POST)
+        if form.is_valid():
+            user = form.cleaned_data.get('user')
+            password = form.cleaned_data.get('password')
+            user = authenticate(user = user, password = password)
+            if user is not None:
+                login(request, user)
+                return redirect('home')
+    else:
+        form = AuthenticationForm()
+    return render(request,'registration/login.html', {'form' : form})
 
 def register(request):
     if request.method == 'POST':

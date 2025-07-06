@@ -1,5 +1,9 @@
 {% if user.is_authenticated %}
-    <p>Logged in as {{ user.username }} | <a href="{% url 'logout' %}">Logout</a></p>
+    <p>Practice makes a person perfect; so no matter what I am proud of you, {{ user.username }} !</p>
+    <form action="{% url 'logout' %}" method="post">
+    {% csrf_token %}
+    <button type="submit">Logout</button>
+    </form>
 {% endif %}
 {% load quiz_extras %}
 <!DOCTYPE html>
@@ -14,6 +18,9 @@
         .wrong{
             color: red;
             font-weight: bold;
+        }
+        button {
+            float: right;
         }
     </style>
 </head>
@@ -55,5 +62,6 @@
     {% endfor %}
 
     <a href="{% url 'take_test' %}">🔁 Take the test again</a>
+    <p style="text-align: right;">Country road, take me ☕ <a href="{% url 'home' %}">home</a></p>
 </body>
 </html>
