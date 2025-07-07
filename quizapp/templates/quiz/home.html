@@ -56,7 +56,7 @@
         <h1>SmartTest: Engineering MCQ Practice</h1>
         <p>Practice multiple-choice questions tailored for the Nepal Engineering Council (NEC) licensing exam. Begin Now!</p>
         {% if user.is_authenticated %}
-            <a href="{% url 'take_test' %}" class="btn"> Take the Test, {{user.username}}</a>
+            <a href="{% url 'chapter_list' %}" class="btn"> 🎯 Take the test, {{user.username}}</a>
             <form action="{% url 'logout' %}" method="post">
                 {% csrf_token %}  
                 <button type="submit">Logout</button>

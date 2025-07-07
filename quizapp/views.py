@@ -1,6 +1,5 @@
 from django.shortcuts import render
-from .models import MCQ  
-from .models import TestResult
+from .models import MCQ, TestResult
 import json
 from django.views.decorators.csrf import csrf_exempt  # for form handling
 from django.db.models import Count
@@ -34,6 +33,10 @@ def register(request):
     else:
         form = UserCreationForm()
     return render(request, 'registration/register.html', {'form': form})
+
+
+def chapter_list(request):
+    return render(request,'quiz/chapters.html')
 
 @login_required
 def home(request):
@@ -71,6 +74,8 @@ def build_question_list(questions):
 @login_required(login_url='/accounts/login/')
 @csrf_exempt  # only during testing; remove this when using csrf_token properly
 def take_test(request):
+    chapter = request.GET.get("chapter")
+
     if request.method == "POST":
         ids = request.session.get('question_ids',[])
         ids = list(map(int, ids))
@@ -106,9 +111,12 @@ def take_test(request):
         TestResult.objects.create(user=request.user, score=score, total=len(questions))
 
     else :
-        all_questions= list (MCQ.objects.all())
-        questions= sample(all_questions,min(10,len(all_questions)))
-        # saving the selected lids in the session
+        all_questions= MCQ.objects.filter(chapter = chapter)
+        questions= sample(list(all_questions),min(10,len(all_questions)))
+        # saving the selected ids in the session
         request.session['question_ids']= [q.id for q in questions]
         question_list = build_question_list(questions)
-        return render(request, 'quiz/test.html', {'questions': question_list})
+        return render(request, 'quiz/test.html', {
+            'questions': question_list,
+            'chapter': chapter
+            })

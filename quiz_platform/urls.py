@@ -21,6 +21,7 @@ from quizapp import views  # for custom resister view
 
 urlpatterns = [
     path('admin/',admin.site.urls),
+    path('chapter/',views.chapter_list, name='chapter_list'),
     path('',views.home,name='home'),
     path('test/',views.take_test, name='take_test'),
     path('login/', views.login_view, name='login'),

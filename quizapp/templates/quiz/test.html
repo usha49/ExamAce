@@ -20,7 +20,7 @@
     
     <form method="post" action="{% url 'take_test' %}">
         {% csrf_token %}
-        
+        <input type="hidden" name="chapter" value="{{ chapter }}">
         {% for q in questions %}
             <div>
                 <p><strong>Q {{ forloop.counter }}. {{ q.question }}</strong></p>

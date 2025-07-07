@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select Chapter</title>
+</head>
+<body>
+    <h1>📚 Select a Chapter</h1>
+    <ul>
+        <li><a href ="{% url 'take_test' %}?chapter=1.1"> Chapter 1: just take the damn test</a> </li>
+        <li><a href ="{% url 'take_test' %}?chapter=8.1"> Chapter 2: just take the damn test</a> </li>
+        <li><a href ="{% url 'take_test' %}?chapter=1.1"> Chapter 3: just take the damn test</a> </li>
+    </ul>
+    <a href="{% url 'home' %}">🏠 Back to Home</a>
+</body>
+</html>
