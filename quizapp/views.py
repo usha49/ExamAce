@@ -93,7 +93,7 @@ def take_test(request):
                 # finding the correct option text from the letter of correct answer 
                 correct_text=map_options(q.options).get(q.answer)
 
-                if selected == correct_text:
+                if selected and selected.strip() == correct_text:
                     score +=1
 
             except Exception as e:
