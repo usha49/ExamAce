@@ -7,12 +7,12 @@ class Command(BaseCommand):
     help = 'Import MCQs from CSV file'
 
     def handle(self, *args, **kwargs):
-        csv_file_path = 'results/mcq_data_1.1.csv'  # Adjust if the path is different
+        csv_file_path = 'results/mcq_data_10.6.csv'  # Adjust if the path is different
 
         df = pd.read_csv(csv_file_path)
 
         for _, row in df.iterrows():
-            if pd.isna(row['question']).strip()=='' or row['options']=='[]':
+            if pd.isna(row['question']) or str(row['question']).strip()=='' or row['options']=='[]':
                 continue       #skips empty and invalid rows
 
             # Handle the 'options' column which is stored as string like "['A', 'B', 'C', 'D']"
