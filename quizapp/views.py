@@ -99,7 +99,14 @@ def take_test(request):
             except Exception as e:
                 print(f"Error processing question id {q.id}:{e}")
 
-        
+        # save result to DB for every user
+        if request.user.is_authenticated:
+            TestResult.objects.create(
+                user=request.user,
+                score=score,
+                total = len(questions)
+            )
+
         return render(request, "quiz/result.html", {
             'selected': results,
             'score': score,
